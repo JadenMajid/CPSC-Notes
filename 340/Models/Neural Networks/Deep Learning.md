@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC340"
+---
 Deep learning models are like [[Neural Networks]] with multiple hidden layers
 
 $$o_i=h(z_{i1}^{(2)})$$

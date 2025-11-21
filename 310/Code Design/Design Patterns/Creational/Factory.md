@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 ## Description
 The Factory [[Design Patterns|Design Pattern]] is a pattern that [[Abstraction|Abstracts]] the creation of [[Object Orientation|Objects]]. The new FactoryClass returns new objects of type [[Class]] with some method. Factories remove the dependence on specific constructors, abstracting away with the Factory class.
 

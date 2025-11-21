@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Component based UIs are extremely modular UIs, where single components handle everything themselves. Component based UIs are a full melding of the business logic with the UIs, where the state of the UI IS the state of the program
 
 Every component contains its own View and Controller(ish)

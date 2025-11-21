@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 ## Description
 Facades are a design pattern where you leverage an interface for a class to hide internal implementation detail from callers. The facade decreases [[Coupling]] modules inside an [[Encapsulation|Encapsulated]] module with outside modules.
 ## Pros and Cons

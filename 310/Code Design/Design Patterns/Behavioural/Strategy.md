@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 ## Description
 The Strategy [[Design Patterns|Design Pattern]] is a design pattern that varies behaviour of our system by [[Abstraction|Abstracting]] the specifics of behaviour into a container that executes the desired behaviour. 
 Strategy is a classic application of the [[Open Closed Principle]]. Each Strategy [[Encapsulation|Encapsulates]] a single algorithm, following the [[Single Responsibility Principle]]. Context delegates behaviour to it's Strategy.

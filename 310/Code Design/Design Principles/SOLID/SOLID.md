@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 SOLID is a set of design principles and heuristics that enforce modularity
 - SOLID
 	- [[Single Responsibility Principle]]

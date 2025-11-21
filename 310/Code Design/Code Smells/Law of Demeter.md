@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 The law of Demeter states a method should only call methods from
 - itself
 - an object passed as an argument

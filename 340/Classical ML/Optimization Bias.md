@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC340"
+---
 Optimization Bias, or overtraining is the phenomena where a model begin to train to the [[Variance]] within [[Training]] Data
 . Optimization bias leads to lower model error in the [[Training]] Dataset, but higher error in the [[Validation]] Dataset. 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 ## Description
 The observer [[Design Patterns|Design Pattern]] is a design pattern where a collection of [[Object Orientation|Objects]] subscribe to some publisher, with an update function that is called by the publisher when the publisher wants to update its subscribers. Subscribers need to have some update(...) function. Publishers need to have some [[Collection]] of references to their subscribers.
 - Relationships can be dynamic

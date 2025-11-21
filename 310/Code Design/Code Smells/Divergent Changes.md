@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Divergent changes are when changes to a method lead to needed changes to unrelated methods in the same class. 
 
 Divergent changes happen when one class has too many responsibilities, and should be split up into different classes

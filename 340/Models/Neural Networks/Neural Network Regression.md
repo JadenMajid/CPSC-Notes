@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC340"
+---
 - For [[Regression]]: our prediction is
 	- $$\hat{y_i}=v^Th(Wx_i)$$
 - we might train the squared residual

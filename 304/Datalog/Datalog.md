@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC304"
+---
 - Rules
 	- Multiple rules of the same name correspond to a Union
 	- Variable names in different rules can be the same or different

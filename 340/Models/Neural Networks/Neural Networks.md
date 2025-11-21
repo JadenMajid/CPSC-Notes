@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC340"
+---
 adding Bias variables:
 
 $$\hat{y}_i=\sum_{c=1}^{k}v_ch(w_c^Tx_i+\beta_c)+\beta$$

@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC304"
+---
 ## What is SQL?
 
 - SQL stands for Structured Query Language

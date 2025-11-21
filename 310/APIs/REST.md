@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 - built on HTTP
 - A type of HTTP [[APIs]]
 - Maps to [[CRUD]] One to One

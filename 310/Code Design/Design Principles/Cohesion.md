@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 - Cohesion is the interdependence between modules.
 - Low cohesion means that modules accomplish one task, with minimal relations between modules
 - High cohesion means that one module accomplishes many tasks that could be accomplished independently

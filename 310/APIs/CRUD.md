@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 - Create
 - Read
 - Update

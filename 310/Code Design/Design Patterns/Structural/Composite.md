@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 ## Description
 Composite is a design pattern where a system that can be represented as a [[Tree]] is broken into parts that are either Leaves or Composites. We can use all elements in this tree with the interface Component, which encapsulates common behaviour(like Component.execute())
 - Client

@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 No client of an interface should be forced to depend on methods that it does not use
 
 Violation:

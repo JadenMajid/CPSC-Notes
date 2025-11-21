@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Long parameter lists make it hard to remember what parameter does what. If two parameters have the same type, then it can be hard to differentiate them. 
 
 We can mitigate long parameters with the type system, which can encapsulate several parameters into one object

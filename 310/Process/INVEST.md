@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 INVEST is a set of principles that [[User Stories]] should follow.
 - INVEST
 	- Independent

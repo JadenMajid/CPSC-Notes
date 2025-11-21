@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 
 MVC is a gui design pattern where the data model, view, and controller are all distinct parts of the application that interact. The model is responsible for the internal data, the view is responsible for handling the layout and the controller is responsible for updating the view with relevant changes from the model.
 

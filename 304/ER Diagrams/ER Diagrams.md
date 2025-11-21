@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC304"
+---
 ER diagrams are a way to represent Relational [[Database|Databases]].
 
 - Rectangles represent entities

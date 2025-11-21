@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Versioning is the process of tracking changes to software
 
 Semantic Versioning

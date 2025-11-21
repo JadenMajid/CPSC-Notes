@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC340"
+---
 loss functions are scoring functions that determine the error of a model
 
 In [[Supervised Learning]] loss functions are tools to determine how well a model can predict the given labels

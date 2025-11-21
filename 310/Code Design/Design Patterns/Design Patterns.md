@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 - Design patterns are useful structures for code that accomplish some intended behaviour, while maintaining readability.
 - Design patterns are common for [[Object Orientation|Object Oriented]] code
 	- Make use of 2 [[Object Orientation]] principles

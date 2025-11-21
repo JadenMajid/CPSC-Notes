@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 All classes should have a single responsibility
 
 Bad: employee is responsible for saving itself, pay, and generating reports, which lie under different business functions

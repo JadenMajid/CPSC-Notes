@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 The unconstrained nature of software makes it easy to make decisions that will end up being ‘bad’ in the long run.
 
 APIs(Application Programming Interfaces) are ways that applications can communicate with eachother, whether locally, or through a network.

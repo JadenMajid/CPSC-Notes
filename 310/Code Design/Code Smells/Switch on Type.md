@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Switches depending on the type of an input object are a type of [[Code Smells]]. They're an indicator that a method is doing too much, and indicates too much [[Coupling]] between a encapsulation and subtypes in a system. 
 
 In the below code, Bird.TYPE is switched on, when a cleaner way would be to create an interface or abstract class bird, that is inherited by subclasses

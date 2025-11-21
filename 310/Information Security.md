@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 - Understanding
 	- What does it mean for a system to be secure?
 	- 4 Security requirements

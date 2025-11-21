@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 A class must be closed for internal change, but open for extension
 If we have a method that is very large and does not use [[Abstraction]], and we want to make a new class that has largely the same functionality, but changes one section, then we are forced to completely rewrite the method
 ```java

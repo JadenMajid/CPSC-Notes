@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 [[GUI]] design patterns are patterns that apply to the graphical interfaces of applications
 The design patterns still apply, we want to minimize [[Coupling]] and maximize [[Cohesion]]
 

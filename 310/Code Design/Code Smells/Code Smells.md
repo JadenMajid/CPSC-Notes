@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Code smells are general ideas that code can exhibit that point to some underlying design issue.
 Code smells may not need to be immediately solved, but are indicative of technical debt that will need to be solved at some future point
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Abstraction is when we encapsulate the internal workings of things, and expose the minimal complexity to the outside in order to the get desired effects
 
 - Abstraction manages complexity by removing irrelevant implementation details.

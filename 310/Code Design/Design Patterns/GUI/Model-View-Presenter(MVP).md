@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 MVP is a GUI Design pattern similar to [[Model View Controller (MVC)]], with de[[Coupling]] of View and Model.
 
 The model and view should be black boxes with no interactions from the perspective of each other

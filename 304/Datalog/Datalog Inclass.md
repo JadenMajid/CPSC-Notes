@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC304"
+---
 Here are some relations that exist in a database for a symphony.  
 [[Datalog]]
 Person(email, name, age)  

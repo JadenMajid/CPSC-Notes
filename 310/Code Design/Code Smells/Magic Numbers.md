@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 Magic numbers are when specific values are used that are not explained or abstracted in code. They make changes difficult because they are hard to interpret, and two usages of the same magic number can be extremely difficult to tell apart
 
 In this case, the 6.X number is extremely hard to interpret

@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC310"
+---
 - Coupling is the relationship that modules in a system have with eachother
 - How related are different modules? if we make a change in one thing is that change local? or does it affect other modules?
 

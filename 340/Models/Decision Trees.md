@@ -1,3 +1,7 @@
+---
+tags:
+  - "CPSC340"
+---
 Decision Trees are a type of [[Supervised Learning]] where simple rules for datasets are learned.
 Nested rules are applied to predict the category of datapoints.
 
