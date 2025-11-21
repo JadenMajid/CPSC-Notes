@@ -1,0 +1,28 @@
+- Design patterns are useful structures for code that accomplish some intended behaviour, while maintaining readability.
+- Design patterns are common for [[Object Orientation|Object Oriented]] code
+	- Make use of 2 [[Object Orientation]] principles
+		- Abstraction
+			- What is cohesive and belongs together?
+		- Polymorphism
+			- what is coupled with how the caller uses the code?
+- General Design Patterns
+	- Creational
+		- [[Factory]]
+		- 
+	- Structural
+		- [[Facade]]
+		- [[Composite]]
+		- [[Adapter]]
+	- Behavioural
+		- [[Strategy]]
+		- [[State]]
+		- [[Observer]]
+		- 
+- GUI Patterns
+	- [[Model View Controller (MVC)]]
+	- [[Model-View-Presenter(MVP)]]
+	- [[Model-View-ViewModel(MVVM)]]
+	- [[Component Based]]
+	  
+References:
+- [Refactoring Guru](https://refactoring.guru/design-patterns/)

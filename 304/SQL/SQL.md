@@ -15,6 +15,9 @@
 - SQL can create stored procedures in a [[Database]]
 - SQL can create [[views]] in a [[Database]]
 - SQL can set permissions on [[Tables]], [[procedures]], and [[views]]
+<<<<<<< HEAD
 #304
 #304
+=======
+>>>>>>> 77196c9 (vault backup: 2025-11-21 14:59:56{{time}})
 #304

@@ -4,167 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd1f12950a07012",
+        "id": "42c366e3ed107da5",
         "type": "tabs",
         "children": [
           {
-            "id": "ed1303b6e43f0f7f",
+            "id": "2d6f28c2c00d32a7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/Norms.md",
+                "file": "310/Code Design/Design Patterns/Design Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Norms"
+              "title": "Design Patterns"
             }
           },
           {
-            "id": "64a6b9699561b374",
+            "id": "c446ab7661955631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/L1.md",
+                "file": "Templates/Design Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1"
+              "title": "Design Pattern"
             }
           },
           {
-            "id": "a7727b486dc119b6",
+            "id": "885ec87a3036a530",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/L2.md",
+                "file": "304/ER Diagrams/IsA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2"
+              "title": "IsA"
             }
           },
           {
-            "id": "8e1a9080917b39b9",
+            "id": "e767a3f536589c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/L-inf.md",
+                "file": "304/ER Diagrams/IsA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L-inf"
+              "title": "IsA"
             }
           },
           {
-            "id": "79def00a3398017e",
+            "id": "a077e89c26f2126b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "340/Norms/Frobenius.md",
-                "mode": "source",
-                "source": false
+                "aFile": "310/Code Design/Code Smells/Code Smells.md",
+                "bFile": "310/Code Design/Code Smells/Code Smells.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Frobenius"
-            }
-          },
-          {
-            "id": "59a36393459ba02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Loss Functions/Loss Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loss Function"
-            }
-          },
-          {
-            "id": "f0856ab33e531d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Loss Functions/Loss Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loss Function"
-            }
-          },
-          {
-            "id": "6e5bf3b6b9831560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Classical ML/Variance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variance"
-            }
-          },
-          {
-            "id": "173963488221aaf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "304/SQL/SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "00cd38bfb57e368f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Models/Neural Networks/Neural Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neural Networks"
-            }
-          },
-          {
-            "id": "fc3814f4b45318e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathy-Things/Sets/Concave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concave"
+              "icon": "diff",
+              "title": "Diff: Code Smells"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "training",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20251120191739.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251120191739"
+              "title": "Backlinks"
             }
           },
           {
@@ -256,12 +171,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20251120191739.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251120191739"
+              "title": "Outgoing links"
             }
           },
           {
@@ -299,13 +213,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -338,54 +251,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00cd38bfb57e368f",
+  "active": "a077e89c26f2126b",
   "lastOpenFiles": [
-    "340/Models/Neural Networks/Neural Network Regression.md",
-    "340/Models/Neural Networks/Neural Network for Multiclass Classification.md",
-    "340/Models/Neural Networks/Deep Learning.md",
-    "340/Loss Functions/Softmax.md",
-    "340/Loss Functions/Regularization.md",
-    "340/Loss Functions/Loss Function.md",
-    "340/Loss Functions/Information Entropy.md",
-    "340/Loss Functions/Infogain.md",
+    "conflict-files-obsidian-git.md",
+    "304/ER Diagrams/IsA.md",
     "Untitled.base",
-    "README.md",
-    "Mathy-Things/Sets/Concave.md",
-    "Mathy-Things/Sets/Convex.md",
     "Mathy-Things/Sets/Non-Convex.md",
-    "Mathy-Things/Sets",
     "Mathy-Things/Sets/Disjoint.md",
-    "304/Tables.md",
-    "Mathy-Things",
-    "Concavity.md",
-    "304/Database.md",
-    "Images/Pasted image 20251120191739.png",
-    "304/IsA.md",
-    "304/ER Diagrams/ER Diagrams.md",
-    "Images/Pasted image 20251120191510.png",
-    "304/Query Languages.md",
-    "304/SQL/SQL.md",
-    "Images/Pasted image 20251120190452.png",
-    "310/GUI.md",
-    "310/Information Security.md",
-    "340/Validation.md",
-    "340/Training.md",
-    "340/Supervised Learning/Binary Classification.md",
-    "340/Parametric Models.md",
-    "Untitled.canvas",
-    "340/Classical ML",
-    "Images/Pasted image 20251120184600.png",
-    "Images/Pasted image 20251120184959.png",
-    "340/Models",
-    "Images/Pasted image 20251120183041.png",
+    "Mathy-Things/Sets/Convex.md",
+    "Mathy-Things/Norms/L1.md",
+    "Mathy-Things/Sets/Concave.md",
+    "Mathy-Things/Norms/L2.md",
+    "Mathy-Things/Norms/Norms.md",
+    "Mathy-Things/Norms/L0.md",
+    "Mathy-Things/Norms/Frobenius.md",
+    "Mathy-Things/Norms/L-inf.md",
+    "Mathy-Things/Sets",
     "Mathy-Things/Norms",
-    "340/Loss Functions",
+    "Mathy-Things",
     "Images/Screenshot 2025-11-20 at 5.41.05 PM.png",
-    "340/Models/Neural Networks",
-    "340/Unsupervised Learning",
-    "340/Supervised Learning",
     "Images/Screenshot 2025-11-20 at 5.36.16 PM.png",
     "Images/Screenshot 2025-11-20 at 5.34.07 PM.png",
-    "Images/Screenshot 2025-11-20 at 5.31.30 PM.png"
+    "Images/Screenshot 2025-11-20 at 5.31.30 PM.png",
+    "Images/Screenshot 2025-11-20 at 5.28.11 PM.png",
+    "Images/Screenshot 2025-11-20 at 5.26.32 PM.png",
+    "Images/Screenshot 2025-11-20 at 5.21.56 PM.png",
+    "Images/Screenshot 2025-11-20 at 2.57.07 PM.png",
+    "Images/Screenshot 2025-11-20 at 2.56.24 PM.png",
+    "Images/Screenshot 2025-11-20 at 2.56.03 PM.png",
+    "Images",
+    "310/Code Design/Design Patterns/Model-View-ViewModel(MVVM).md",
+    "310/Code Design/Design Patterns/Model-View-Presenter(MVP).md",
+    "310/Code Design/Design Patterns/Model View Controller (MVC).md",
+    "310/Code Design/Design Patterns/GUI Design Patterns.md",
+    "310/Code Design/Design Patterns/Component Based.md",
+    "304/Tables.md",
+    "304/IsA.md",
+    "304/SQL/Tables.md",
+    "304/Database.md",
+    "General Coding things/Interface.md",
+    "General Coding things",
+    "310/Code Design/Design Patterns/Structural/Adapter.md",
+    "310/Code Design/Design Patterns/Design Patterns.md",
+    "Templates/Design Pattern.md",
+    "310/Code Design/Design Patterns/Behavioural/Observer.md",
+    "310/Code Design/Design Patterns/Behavioural",
+    "310/Code Design/Design Patterns/Structural",
+    "310/Code Design/Design Patterns/Creational",
+    "Templates",
+    "Untitled.canvas"
   ]
 }

@@ -11,6 +11,12 @@ Code smells may not need to be immediately solved, but are indicative of technic
 	- [[Feature Envy]]
 	- [[Divergent Changes]]
 	- [[Shotgun Surgery]]
+<<<<<<< HEAD
 #310
 #310
+=======
+
+References
+- [Refactoring Guru](https://refactoring.guru/refactoring/smells)
+>>>>>>> 77196c9 (vault backup: 2025-11-21 14:59:56{{time}})
 #310
