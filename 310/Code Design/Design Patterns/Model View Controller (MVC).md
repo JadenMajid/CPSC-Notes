@@ -14,3 +14,5 @@ The Controller can be responsible for validation, but should not be responsible 
 
 ![[Screenshot 2025-11-20 at 5.21.56 PM.png]]![[Screenshot 2025-11-20 at 5.26.32 PM.png]]
 #310
+#310
+#310

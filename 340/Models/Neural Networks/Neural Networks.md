@@ -12,3 +12,5 @@ $$h(v)=\frac{1}{1+e^{-v}}$$
 	- but the layer might need to be huge
 - some functions can be approximated with exponentially fewer parameters if we use [[Deep Learning]]
 #340
+#340
+#340

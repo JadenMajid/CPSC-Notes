@@ -3,3 +3,6 @@ Parametric models are models in which a fixed amount of parameters are [[Trainin
 The opposite of a [[Parametric Models|Parametric Model]] is a [[Non-Parametric Models| Non Parametric Model]].
 
 A general rule of thumb for [[Parametric Models]], is `Given an infinite dataset, a parametric model will have a fixed size`\
+
+#340
+#340

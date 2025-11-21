@@ -4,3 +4,5 @@ MVVM is similar to [[Model-View-Presenter(MVP)]], however decreases the complexi
 
 ![[Screenshot 2025-11-20 at 5.31.30 PM.png]]
 #310
+#310
+#310

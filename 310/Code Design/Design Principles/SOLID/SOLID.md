@@ -7,3 +7,5 @@ SOLID is a set of design principles and heuristics that enforce modularity
 	- [[Dependency Inversion Principle]]
 - 
 #310
+#310
+#310

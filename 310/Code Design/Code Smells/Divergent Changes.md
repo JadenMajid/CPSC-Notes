@@ -5,3 +5,5 @@ Divergent changes happen when one class has too many responsibilities, and shoul
 Divergent changes are the opposite code smell to [[Shotgun Surgery]], but appears similar.
 The difference is that Divergent changes happen within the same class, but shotgun surgery is when changes are for many different classes.
 #310
+#310
+#310

@@ -2,3 +2,5 @@ Duplicate code is honestly pretty self explanatory. When code is duplicated, cha
 
 we can solve duplicate code with refactoring out the duplicated code to its own function or method.
 #310
+#310
+#310

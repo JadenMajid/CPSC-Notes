@@ -8,3 +8,5 @@ Closely related with [[Cohesion]]
 ![[Screenshot 2025-11-20 at 2.56.24 PM.png]]
 
 #310
+#310
+#310

@@ -17,3 +17,5 @@ In order to abstract, we can use [[Decomposition]] to reduce apparent complexity
 Abstraction is the core principle of [[OOP]]
 
 #310
+#310
+#310

@@ -10,3 +10,5 @@ It leads to the avoidance of method chaining like:
 customer.getWallet().getMoney()
 ```
 #310
+#310
+#310

@@ -12,3 +12,5 @@ Code smells may not need to be immediately solved, but are indicative of technic
 	- [[Divergent Changes]]
 	- [[Shotgun Surgery]]
 #310
+#310
+#310

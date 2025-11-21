@@ -1,1 +1,3 @@
 Training is the process in which rules are learned for a given dataset. It can be very different for [[Parametric Models]] and [[Non-Parametric Models]]. For example, in [[KNN]], a type of [[Supervised Learning]], training is only the storage of [[Training]] Data.
+#340
+#340

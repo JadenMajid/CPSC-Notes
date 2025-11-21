@@ -16,3 +16,5 @@ Smart vs Dumb components
 \n the below example, each red box is a different element that is responsible for updating itself, handling UI interaction, and its subset of the data model. 
  ![[Screenshot 2025-11-20 at 5.34.07 PM.png]]
 #310
+#310
+#310

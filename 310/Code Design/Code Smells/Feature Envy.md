@@ -2,3 +2,5 @@ Feature envy is when some container class primarily uses the methods of some sub
 
 The [[Law of Demeter]] is a good rule of thumb for when a method is in the wrong place
 #310
+#310
+#310

@@ -6,3 +6,5 @@ we CAN do this with [[Neural Networks]]
 with 2 inputs, and 3 neurons, we map our data into a 3 dimensional space that is [[linearly separable]]
 
 #340
+#340
+#340

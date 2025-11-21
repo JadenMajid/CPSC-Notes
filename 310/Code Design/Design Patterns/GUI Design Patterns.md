@@ -14,3 +14,5 @@ GUIs can be thin, or thick. Neither is good nor bad, just different and for diff
 	- [[Model-View-ViewModel(MVVM)]]
 	- [[Component Based]]
 #310
+#310
+#310

@@ -12,3 +12,5 @@ The fundamental tradeoff is an idea from [[Classical Machine Learning]], that st
 The [[Fundamental Tradeoff]] is limited to [[Classical Machine Learning]]. Newer models such as in [[Deep Learning]] violate the [[Fundamental Tradeoff]], exhibiting a phenomena called [[Double Descent]], where increasing model complexity can lead to lower [[Validation]] Error
 
 #340
+#340
+#340
