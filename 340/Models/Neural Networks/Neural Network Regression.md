@@ -2,3 +2,5 @@
 	- $$\hat{y_i}=v^Th(Wx_i)$$
 - we might train the squared residual
 	-$$ f(W,v)=\frac{1}{2}\sum^n_{i=1}(\hat{y_i}-y_i)^2$$
+
+#340

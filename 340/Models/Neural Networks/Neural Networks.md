@@ -11,3 +11,4 @@ $$h(v)=\frac{1}{1+e^{-v}}$$
 - 1 layer gives us a universal approximator
 	- but the layer might need to be huge
 - some functions can be approximated with exponentially fewer parameters if we use [[Deep Learning]]
+#340

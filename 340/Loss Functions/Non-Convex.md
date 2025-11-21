@@ -1,0 +1,1 @@
+Non  convexity occurs when a function violates the [[Convex]] principle, that any points above the function can be joined by only other points above that function

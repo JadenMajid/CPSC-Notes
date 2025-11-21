@@ -4,3 +4,4 @@
 - $$V=l \text{ by } x $$
 - can convert to probabilities by taking [[Softmax]]
 - 
+#340

@@ -8,34 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "316eab5f9e1a1e50",
+            "id": "ed1303b6e43f0f7f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "340/Norms/Norms.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Norms"
             }
           },
           {
-            "id": "a4b67c3ea3802762",
+            "id": "64a6b9699561b374",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "340/Norms/L1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "L1"
+            }
+          },
+          {
+            "id": "a7727b486dc119b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Norms/L2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L2"
+            }
+          },
+          {
+            "id": "8e1a9080917b39b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Norms/L-inf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L-inf"
+            }
+          },
+          {
+            "id": "79def00a3398017e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Norms/Frobenius.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frobenius"
+            }
+          },
+          {
+            "id": "59a36393459ba02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Loss Functions/Loss Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loss Function"
+            }
+          },
+          {
+            "id": "f0856ab33e531d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Loss Functions/Loss Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loss Function"
+            }
+          },
+          {
+            "id": "6e5bf3b6b9831560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Classical ML/Variance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variance"
+            }
+          },
+          {
+            "id": "173963488221aaf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "304/SQL/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "0a6daa8bbb45deb8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20251120191739.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251120191739"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -67,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "training",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Images/Pasted image 20251120191739.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Pasted image 20251120191739"
             }
           },
           {
@@ -127,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Images/Pasted image 20251120191739.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Pasted image 20251120191739"
             }
           },
           {
@@ -205,19 +318,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4b67c3ea3802762",
+  "active": "249d9a4f4a28ee97",
   "lastOpenFiles": [
+    "README.md",
+    "IsA.md",
+    "304/ER Diagrams/ER Diagrams.md",
+    "Images/Pasted image 20251120191739.png",
+    "Images/Pasted image 20251120191510.png",
+    "304/Query Languages.md",
+    "Database.md",
+    "304/SQL/SQL.md",
+    "Tables.md",
+    "disjoint.md",
+    "Images/Pasted image 20251120190452.png",
+    "310/GUI.md",
+    "310/Information Security.md",
+    "340/Loss Functions/Non-Convex.md",
+    "340/Loss Functions/Convex.md",
+    "340/Validation.md",
+    "340/Training.md",
+    "340/Supervised Learning/Binary Classification.md",
+    "340/Parametric Models.md",
+    "340/Classical ML/Fundamental Tradeoff.md",
+    "340/Classical ML/Optimization Bias.md",
+    "Training Data.md",
+    "310/APIs/APIs.md",
+    "340/Non-Parametric Models.md",
+    "304/Datalog/Datalog Inclass.md",
     "Untitled.canvas",
-    "Deep Learning.md",
-    "Neural Networks.md",
-    "The XOR Problem.md",
-    "Neural Network.md",
-    "Neural Network Regression.md",
-    "Neural Network for Multiclass Classification.md",
-    "Softmax.md",
-    "Binary Classification.md"
+    "340/Classical ML/Variance.md",
+    "340/Classical ML",
+    "340/Loss Functions/Loss Function.md",
+    "Images/Pasted image 20251120184600.png",
+    "Images/Pasted image 20251120184959.png",
+    "340/Norms/Norms.md",
+    "340/Norms/Frobenius.md",
+    "340/Models",
+    "Images/Pasted image 20251120183041.png",
+    "340/Norms",
+    "340/Loss Functions",
+    "Images/Screenshot 2025-11-20 at 5.41.05 PM.png",
+    "340/Models/Neural Networks",
+    "340/Unsupervised Learning",
+    "340/Supervised Learning",
+    "Images",
+    "304/ER Diagrams",
+    "304/RA",
+    "Images/Screenshot 2025-11-20 at 5.36.16 PM.png",
+    "Images/Screenshot 2025-11-20 at 5.34.07 PM.png",
+    "Images/Screenshot 2025-11-20 at 5.31.30 PM.png"
   ]
 }
