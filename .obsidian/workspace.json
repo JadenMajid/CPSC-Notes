@@ -69,14 +69,10 @@
             "id": "a077e89c26f2126b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "310/Code Design/Code Smells/Code Smells.md",
-                "bFile": "310/Code Design/Code Smells/Code Smells.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Code Smells"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -232,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -251,11 +247,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a077e89c26f2126b",
+  "active": "50f133bde6a8c303",
   "lastOpenFiles": [
+    "310/Code Design/Design Patterns/GUI/Model View Controller (MVC).md",
+    "310/Code Design/Design Patterns/GUI/GUI Design Patterns.md",
+    "310/Code Design/Design Patterns/GUI/Component Based.md",
+    "310/Code Design/Design Patterns/Creational/Factory.md",
+    "Templates/Design Pattern.md",
+    "Untitled.base",
     "conflict-files-obsidian-git.md",
     "304/ER Diagrams/IsA.md",
-    "Untitled.base",
     "Mathy-Things/Sets/Non-Convex.md",
     "Mathy-Things/Sets/Disjoint.md",
     "Mathy-Things/Sets/Convex.md",
@@ -289,12 +290,7 @@
     "304/IsA.md",
     "304/SQL/Tables.md",
     "304/Database.md",
-    "General Coding things/Interface.md",
     "General Coding things",
-    "310/Code Design/Design Patterns/Structural/Adapter.md",
-    "310/Code Design/Design Patterns/Design Patterns.md",
-    "Templates/Design Pattern.md",
-    "310/Code Design/Design Patterns/Behavioural/Observer.md",
     "310/Code Design/Design Patterns/Behavioural",
     "310/Code Design/Design Patterns/Structural",
     "310/Code Design/Design Patterns/Creational",

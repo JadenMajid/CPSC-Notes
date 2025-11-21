@@ -5,45 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "340",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "310",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "304",
-      "color": {
-        "a": 1,
-        "rgb": 5402336
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.759318033854167,
-  "repelStrength": 20,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-<<<<<<< HEAD
-  "scale": 0.5908919836287716,
+  "linkDistance": 250,
+  "scale": 0.5923754607154593,
   "close": false
-=======
-  "scale": 1.0461329128164656,
-  "close": true
->>>>>>> 77196c9 (vault backup: 2025-11-21 14:59:56{{time}})
 }
