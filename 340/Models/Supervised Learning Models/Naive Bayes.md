@@ -15,26 +15,30 @@ Naive Bayes is commonly implemented with [[Bag of Words]], a way to convert text
 
 NB can be parametric, or non-parametric depending on how the dimensionality of the dataset is handled. If an infinite number of examples have some finite dimensionality to their features, then it is [[Parametric Models|Parametric]]. If an infinite dataset results in infinite dimensionality in feature space, then it is [[Non-Parametric Models|Non-Parametric]]. 
 
+### Bayes Poisoning
+Bayes poisoning is when a data point has not been seen with a given class, resulting in a $P(x_{ij} = c \mid y_i = \text{class})=0$. This 0 propagates across the entire chain of probabilities, resulting in an output prediction of % for the class.
+
 ### Laplace Smoothing
-Laplace smoothing is when a smoothing term is added to avoid Bayes Poisoning. On a conceptual level, Laplace smoothing shifts the model from assuming the dataset is a factual representation of the true distribution, to assuming that any 
+Laplace smoothing is when a smoothing term is added to avoid **Bayes Poisoning**. On a conceptual level, Laplace smoothing shifts the model from assuming the dataset is a factual representation of the true distribution, to assuming that there's a small chance of observing any possible event, even if it wasn't present in the training data.
 $$P(x_{ij} = c \mid y_i = \text{class}) \approx 
 \frac{\text{\# examples in class with } x_{ij} = c}{\text{\# examples in class}}$$
 ## Hyper Parameters
-- Laplace Smoothing
+- Laplace Smoothing(if used)
 	- $\beta$ : smoothing constant
 		- $\beta < 1$ : weaker smoothing(trust data)
 		- $\beta = 1$ : standard smoothing
 		- $\beta > 1$ : stronger smoothing(don't trust data)
 ## Training
+We need to learn the distribution for $d$ features across $k$ classes.
 
 ### Steps
 1. 
-$$$$
 ## Prediction
 
 ## Cost
 - $n$ examples
 - $d$ features
+- $k$ classes
 ### Training
 $$$$
 ### Prediction
