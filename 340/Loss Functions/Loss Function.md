@@ -15,5 +15,3 @@ The [[Norms]] used in a loss function can be used to control model complexity.
 We want [[Convex]] loss functions, because all minima in a [[Convex]] loss function are guaranteed to be global minima.
 
 Loss functions can add [[Regularization]], a tool to reduce [[Optimization Bias]]
-
-#340

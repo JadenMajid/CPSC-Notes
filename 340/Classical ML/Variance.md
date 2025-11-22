@@ -1,8 +1,5 @@
 ---
 tags:
-  - "CPSC340"
+  - CPSC340
+  - Statistics
 ---
-
-#340
-#340
-#340
