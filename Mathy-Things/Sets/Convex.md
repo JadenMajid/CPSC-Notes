@@ -6,6 +6,4 @@ For functions, convexity occurs when any points above f(x) can be joined without
 ![[Pasted image 20251120184959.png]]
 
 
-#304
-#340
-#Math
+#CPSC304 #CPSC340 #Math

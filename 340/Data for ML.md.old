@@ -1,0 +1,37 @@
+---
+tags:
+  - CPSC340
+---
+# Description
+Data consists of Features(columns) and Examples(rows). As a general rule, we should have 10x more examples than features
+
+### Types of Data
+- Numerical
+	- Numbers
+- Categorical
+	- Nominal
+
+### Cleaning
+- Data is often [[Variance|noisy]] and includes irrelevant features and [[Outliers]]
+- We want to clean our data to remove irrelevant features
+- We can clean with aggregation or binning
+
+### Summary Statistics
+
+
+# Data Exploration Model
+- Simple
+	- Collect Data
+	- Mine Data for Insights
+	- Profit?
+- Realistic
+	- Learn about process
+	- Identify mining task
+	- Collect data
+	- Clean and preprocess data
+	- Choose algorithm
+	- Mine data
+	- Evaluate results & visualize
+	- Profit?
+
+##

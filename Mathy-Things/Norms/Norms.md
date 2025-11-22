@@ -1,16 +1,19 @@
-Vector Norms
+[[Vector]] Norms
 - [[L0]]
 	- [[Non-Convex]]
-- [[L1]]
-	- [[Convex]]
-- [[L2]]
-	- [[Convex]]
-- [[L-inf]]
-	- [[Convex]]
-Matrix Norms
+	- Technically not a true [[p-Norm]]
+- [[p-Norms]]
+	- The p-Norms are a group of norms
+	- [[L1]]
+		- [[Convex]]
+	- [[L2]]
+		- [[Convex]]
+	- [[L-inf]]
+		- [[Convex]]
+- 
+[[Matrix]] Norms
 - [[Frobenius]]
-	- Like the L2 norm over an entire Matrix
+	- Like the [[L2]] norm over an entire Matrix
 	- 
 
-#340
-#Math
+#CPSC340 #Math

@@ -9,12 +9,9 @@ $$h(v)=\frac{1}{1+e^{-v}}$$
 [[Neural Network Regression]] vs [[Binary Classification]]
 [[Neural Network for Multiclass Classification]]
 
-## Summary
+# Summary
 - unprecedented performance on difficult pattern recognition tasks
 - allow for classification on non [[linearly separable]] data
 - 1 layer gives us a universal approximator
 	- but the layer might need to be huge
 - some functions can be approximated with exponentially fewer parameters if we use [[Deep Learning]]
-#340
-#340
-#340

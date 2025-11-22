@@ -1,8 +1,9 @@
-## Description
+#Math #Sets
+# Description
 Sets are a [[Collection]] of distinct objects with no repetitions. Sets are generally unordered, but can be ordered. Ordered sets are similar to [[Lists]], but do not allow repetition.
 
 
-## Properties
+# Properties
 - Sets do not allow repetition of objects
 - Any object can be in a set, including other sets, or itself
 - [[Convex|Convexity]]
@@ -13,7 +14,7 @@ Sets are a [[Collection]] of distinct objects with no repetitions. Sets are gene
 		- ![[Pasted image 20251121154321.png|300]]
 - [[Concave|Concavity]]
 	- Concavity for sets is not well defined
-## Operations
+# Operations
 -  $\cup$ : Union
 	- Union is the joining of two sets into one new set. 
 	- Sets cannot have duplicate items, so $||A \cup B|| \le ||A|| + ||B||$
@@ -29,14 +30,24 @@ Sets are a [[Collection]] of distinct objects with no repetitions. Sets are gene
 - $A^c\text{ or }\bar{A}$  : Complement
 	- The complement of a set $A$ is $U - A$
 
-## Set Relationships
+# Set Relationships
 - $A\supseteq B$ : Superset
 	- $A$ is a set that contains as least every element of $B$
 	- $A\cup B = A$
+	- $A\cap B = B$
 - $A\supset B$ : Proper Superset
-	- 
+	- $A$ is a set that contains every element of $B$
+	- $A$ contains elements that $B$ does not contain
+	- $A\cup B = A$
+	- $A\cap B = B$
+	- $A\ne B$
+- $A\subseteq B$ : Subset
+	- $B \supseteq A$
+- $A\subset B$ : Proper Subset
+	- $B\supset A$
+	- $A\ne B$
 
-## Special Sets
+# Special Sets
 - $\varnothing$ : The null set
 	- The same as an empty set
 	- All empty/null sets are 

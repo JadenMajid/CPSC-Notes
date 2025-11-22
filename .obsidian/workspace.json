@@ -24,45 +24,82 @@
             }
           },
           {
-            "id": "885ec87a3036a530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "304/ER Diagrams/IsA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IsA"
-            }
-          },
-          {
-            "id": "e767a3f536589c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "304/ER Diagrams/IsA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IsA"
-            }
-          },
-          {
             "id": "a077e89c26f2126b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "be1950d5b6c4673b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets.md",
+                "file": "340/Models/Supervised Learning Models/Decision Stump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sets"
+              "title": "Decision Stump"
+            }
+          },
+          {
+            "id": "109149229b5bd0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Naive Bayes"
+            }
+          },
+          {
+            "id": "fe9c3bf6e6965e5b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "AllPages.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "AllPages"
+            }
+          },
+          {
+            "id": "af6a042fdfa2e837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Independent & Identically Distributed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Independent & Identically Distributed"
+            }
+          },
+          {
+            "id": "fcbda74861e690bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "340/Classical ML/Generalization Gap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generalization Gap"
             }
           },
           {
@@ -71,12 +108,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Loss Functions/Regularization.md",
+                "file": "Templates/340 ML Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regularization"
+              "title": "340 ML Model"
             }
           }
         ],
@@ -112,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CPSC310",
+                "query": "tag:#CPSC340",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets.md",
+                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sets"
+              "title": "Backlinks for Naive Bayes"
             }
           },
           {
@@ -172,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets.md",
+                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sets"
+              "title": "Outgoing links from Naive Bayes"
             }
           },
           {
@@ -215,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets.md",
+                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sets"
+              "title": "Outline of Naive Bayes"
             }
           },
           {
@@ -233,9 +270,31 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9194744829226282",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e2e0791b64ec5896",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "340/Models/Supervised Learning Models/Naive Bayes.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Naive Bayes"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -254,54 +313,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a077e89c26f2126b",
+  "active": "109149229b5bd0d2",
   "lastOpenFiles": [
+    "340/Parametric Models.md",
+    "340/Non-Parametric Models.md",
+    "340/Models/Supervised Learning Models/Naive Bayes.md",
+    "340/Models/Supervised Learning Models/Decision Stump.md",
+    "Untitled.md",
+    "340/Training.md",
+    "340/No Free Lunch.md",
+    "340/Cross Validation.md",
+    "AllPages.base",
+    "General Coding things/Interface.md",
+    "Untitled",
+    "340/Data.md",
+    "340/Independent & Identically Distributed.md",
+    "340/Classical ML/Generalization Gap.md",
+    "340/Validation.md",
+    "340/Models/Neural Networks/Neural Networks.md",
+    "340/Models/Neural Networks/Deep Learning.md",
+    "Attachments/Pasted image 20251122145012.png",
+    "Mathy-Things/Norms/p-Norms.md",
+    "340/Loss Functions/Loss Function.md",
+    "340/Loss Functions/Information Entropy.md",
+    "340/Loss Functions/Regularization.md",
+    "340/Loss Functions/Softmax.md",
+    "340/Loss Functions/Infogain.md",
+    "340/Loss Functions/Error.md",
+    "340/Loss Functions/Accuracy.md",
+    "340/Classical ML/Optimization Bias.md",
+    "Attachments/Pasted image 20251122144611.png",
+    "Attachments/Pasted image 20251122144545.png",
+    "340/Classical ML/Fundamental Tradeoff.md",
+    "Mathy-Things/Norms/Norms.md",
+    "Attachments/Pasted image 20251122133817.png",
+    "Attachments/Pasted image 20251122133640.png",
+    "Attachments/Pasted image 20251122132929.png",
+    "Mathy-Things/Statistics",
+    "Templates/340 ML Model.md.old",
+    "Templates/310 Design Pattern.md.old",
+    "Unix Things/Commands/Find Replace all in Directory.md.old",
+    "340/Data for ML.md.old",
+    "Unix Things/Untitled",
+    "Unix Things/Commands",
+    "310/Process/INVEST.md.old",
     "Attachments/Pasted image 20251121154321.png",
     "Attachments/Pasted image 20251121154127.png",
-    "Sets.md",
-    "304/ER Diagrams/IsA.md",
-    "Templates/Generic Topic.md",
-    "Templates/Design Pattern.md",
-    "340/Loss Functions/Regularization.md",
-    "340/Loss Functions/Information Entropy.md",
-    "340/Loss Functions/Loss Function.md",
-    "340/Loss Functions/Infogain.md",
-    "340/Loss Functions/Softmax.md",
-    "340/Classical ML/Variance.md",
-    "340/Classical ML/Fundamental Tradeoff.md",
-    "340/Classical ML/Optimization Bias.md",
-    "README.md",
-    "AllPages.base",
-    "Math.md",
-    "304/Datalog/Datalog.md",
-    "340/Supervised Learning/Binary Classification.md",
-    "304/Database.md",
-    "310/Code Design/Design Principles/Abstraction.md",
-    "310/Code Design/Design Patterns/Design Patterns.md",
-    "310/Code Design/Design Patterns/GUI/Model View Controller (MVC).md",
-    "310/Code Design/Design Patterns/GUI/GUI Design Patterns.md",
-    "310/Code Design/Design Patterns/GUI/Component Based.md",
-    "310/Code Design/Design Patterns/Creational/Factory.md",
-    "conflict-files-obsidian-git.md",
-    "Mathy-Things/Sets/Non-Convex.md",
-    "Mathy-Things/Sets",
-    "Mathy-Things/Norms",
-    "Mathy-Things",
     "Images/Screenshot 2025-11-20 at 5.41.05 PM.png",
     "Images/Screenshot 2025-11-20 at 5.36.16 PM.png",
-    "Images/Screenshot 2025-11-20 at 5.34.07 PM.png",
-    "Images/Screenshot 2025-11-20 at 5.31.30 PM.png",
-    "Images/Screenshot 2025-11-20 at 5.28.11 PM.png",
-    "Images/Screenshot 2025-11-20 at 5.26.32 PM.png",
-    "Images/Screenshot 2025-11-20 at 5.21.56 PM.png",
-    "Images/Screenshot 2025-11-20 at 2.57.07 PM.png",
-    "Images/Screenshot 2025-11-20 at 2.56.24 PM.png",
-    "Images",
-    "General Coding things",
-    "310/Code Design/Design Patterns/Behavioural",
-    "310/Code Design/Design Patterns/Structural",
-    "310/Code Design/Design Patterns/Creational",
-    "Templates",
     "Untitled.canvas"
   ]
 }

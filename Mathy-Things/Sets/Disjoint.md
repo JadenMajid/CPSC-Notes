@@ -1,5 +1,4 @@
-Disjointness is property between [[Sets]] in which 2 or more sets have no overlap.
+Disjointness is property between [[Sets]] in which 2 or more sets have no overlap
+$$A\cap B = \varnothing$$
 
-#304
-#340
-#Math
+#Math #CPSC304 
