@@ -263,8 +263,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0fe7b13d13133d91",
+  "active": "6ba360aa94033dc5",
   "lastOpenFiles": [
+    "index.md",
+    "Untitled",
     "CPSC 340/Models/Problems/Clustering.md",
     "CPSC 340/Models/Problems/Classification.md",
     "CPSC 340/Models/Problems/Binary Classification.md",
@@ -294,7 +296,6 @@
     "CPSC 340/Loss Functions/Mean Squared Error.md",
     "Templates/340",
     "CPSC 340/Loss Functions/Regularization.md",
-    "CPSC 340/Classical ML/Data.md",
     "Attachments/Recording 20251122171956.m4a",
     "Math/Collections/Untitled",
     "Math/Collections/Lists",
@@ -302,7 +303,6 @@
     "Math/Calculus",
     "Math/Linear Algebra/Untitled",
     "Math/Linear Algebra",
-    "Math/Numbers",
     "Attachments/Pasted image 20251122163159.png",
     "Attachments/Pasted image 20251122145012.png",
     "Attachments/Pasted image 20251122144611.png",
