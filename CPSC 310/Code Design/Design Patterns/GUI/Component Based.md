@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Component based UIs are extremely modular UIs, where single components handle everything themselves. Component based UIs are a full melding of the business logic with the UIs, where the state of the UI IS the state of the program
 
@@ -19,6 +19,6 @@ Smart vs Dumb components
 
 \n the below example, each red box is a different element that is responsible for updating itself, handling UI interaction, and its subset of the data model. 
  ![[Screenshot 2025-11-20 at 5.34.07 PM.png]]
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

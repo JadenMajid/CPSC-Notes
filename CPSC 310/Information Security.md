@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 - Understanding
 	- What does it mean for a system to be secure?
@@ -31,6 +31,6 @@ tags:
 		- Elevation of privilege
 			- Gain access and controls you should have
 	- 
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

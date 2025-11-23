@@ -1,10 +1,10 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Feature envy is when some container class primarily uses the methods of some subclass that it contains. This implies that the subclass should be the container class, removing a layer of abstraction.
 
 The [[Law of Demeter]] is a good rule of thumb for when a method is in the wrong place
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

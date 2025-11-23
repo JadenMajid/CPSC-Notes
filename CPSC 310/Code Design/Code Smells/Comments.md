@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Comments are not necessarily a bad thing, but an overabundance of comments in code can indicate that the code being written is unclear or hard to read.
 
@@ -15,6 +15,6 @@ are there because the code is bad.
 ```
 
 
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

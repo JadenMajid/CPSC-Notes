@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 A class must be closed for internal change, but open for extension
 If we have a method that is very large and does not use [[Abstraction]], and we want to make a new class that has largely the same functionality, but changes one section, then we are forced to completely rewrite the method
@@ -64,6 +64,6 @@ Console.WriteLine(generator.GenerateReport(excel));
 
 code snippets from https://medium.com/@mishra.pankaj/mastering-the-open-closed-principle-with-c-with-examples-94f5e5fb4519
 
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

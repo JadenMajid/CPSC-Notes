@@ -1,6 +1,9 @@
 ---
 tags:
   - Machine-Learning/CPSC340
+  - Machine-Learning/Problems/Clustering
+  - Machine-Learning/Models/Unsupervised
+  - Machine-Learning/Models/Non-Parametric
 ---
 # Description
 
@@ -13,6 +16,7 @@ tags:
 ## Prediction
 ### Steps
 1. 
+---
 ## Cost
 - $n$ training examples
 - $m$ testing examples
@@ -22,6 +26,7 @@ tags:
 $$$$
 #### Space
 $$$$
+---
 ### Prediction
 #### Time
 $$$$

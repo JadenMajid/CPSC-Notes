@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 INVEST is a set of principles that [[User Stories]] should follow.
 - INVEST
@@ -16,6 +16,6 @@ INVEST is a set of principles that [[User Stories]] should follow.
 		- User stories should be for small features, that may sum into a larger feature. If a user story is too large, then it can't be assigned to one person
 	- Testable
 		- We need to be able to know when we are done, and if what we have done is correct
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

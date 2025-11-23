@@ -1,8 +1,13 @@
 ---
+aliases:
+  - Classify
 tags:
-  - Machine-Learning/CPSC340
-  - "#Machine-Learning/Model/Classifier"
+  - Machine-Learning/Problems/Classification
+  - Machine-Learning/Models/Supervised
 ---
+
+
+# Binary Classification 
 - For Binary Classification our prediction is
 	- $$o_i=v^Th(Wx_i)$$
 	- $$\hat{y_i}=sign(o_i)$$

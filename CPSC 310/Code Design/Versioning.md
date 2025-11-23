@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Versioning is the process of tracking changes to software
 
@@ -10,6 +10,6 @@ Semantic Versioning
 - MAJOR.MINOR.PATCH
 	- 0.12.1
 	- numbers can be above 9, 
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

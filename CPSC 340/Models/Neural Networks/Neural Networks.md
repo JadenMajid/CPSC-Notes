@@ -6,7 +6,7 @@ adding Bias variables:
 
 $$\hat{y}_i=\sum_{c=1}^{k}v_ch(w_c^Tx_i+\beta_c)+\beta$$
 $$h(v)=\frac{1}{1+e^{-v}}$$
-[[Neural Network Regression]] vs [[Binary Classification]]
+[[Neural Network Regression]] vs [[Classification]]
 [[Neural Network for Multiclass Classification]]
 
 # Summary

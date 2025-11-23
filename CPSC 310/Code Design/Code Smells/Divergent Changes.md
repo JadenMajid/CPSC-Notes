@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Divergent changes are when changes to a method lead to needed changes to unrelated methods in the same class. 
 
@@ -8,6 +8,6 @@ Divergent changes happen when one class has too many responsibilities, and shoul
 
 Divergent changes are the opposite code smell to [[Shotgun Surgery]], but appears similar.
 The difference is that Divergent changes happen within the same class, but shotgun surgery is when changes are for many different classes.
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

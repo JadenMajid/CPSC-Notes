@@ -1,10 +1,10 @@
 ---
 tags:
   - Machine-Learning/CPSC340
-  - Machine-Learning/Model/Parametric
-  - Machine-Learning/Model/Non-Parametric
-  - Machine-Learning/Model/Supervised
-  - "#Machine-Learning/Model/Classifier"
+  - Machine-Learning/Models/Parametric
+  - Machine-Learning/Models/Non-Parametric
+  - Machine-Learning/Models/Supervised
+  - "#Machine-Learning/Problems/Classification"
 ---
 # Description
 Naive Bayes(NB) is a type of [[Supervised Learning]] model that is a [[Probabilistic Classifier]]. It uses from [[Bayes Theorem]] as a statistical basis. It is called Naive because it assumes that features are [[Independence|Independent]] given some class $C$, massively simplifying calculation. 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 # Description
 The Adapter [[Design Patterns|Design Pattern]] is a design pattern where an object A covers an [[Interface]] so that some object B can understand. Adapters are useful because they allow application that store or use data in different formats to interact. Adapters wrap the translatee object, taking the calls to its methods and outputting the proper format for the requestee object

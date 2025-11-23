@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC304"
+  - "Databases/CPSC304"
 ---
 - Rules
 	- Multiple rules of the same name correspond to a Union
@@ -29,7 +29,7 @@ tags:
 - [[Datalog Rule Safety]]
 - [[Datalog Views]]
 - 
-#CPSC304
-#CPSC304
-#CPSC304
-#CPSC304
+#Databases/CPSC304
+#Databases/CPSC304
+#Databases/CPSC304
+#Databases/CPSC304

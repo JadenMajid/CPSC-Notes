@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Long parameter lists make it hard to remember what parameter does what. If two parameters have the same type, then it can be hard to differentiate them. 
 
@@ -22,6 +22,6 @@ day_of_week(date: datetime):
 dt = datetime.datetime.now()
 day_of_week(dt):
 ```
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

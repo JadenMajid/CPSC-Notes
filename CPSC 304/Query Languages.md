@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC304"
+  - "Databases/CPSC304"
 ---
 [[SQL]] and [[Datalog]] are types of Declarative Query Languages for relational data. 
 

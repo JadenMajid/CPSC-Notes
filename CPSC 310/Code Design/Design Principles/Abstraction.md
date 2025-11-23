@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Abstraction is when we encapsulate the internal workings of things, and expose the minimal complexity to the outside in order to the get desired effects
 
@@ -20,6 +20,6 @@ In order to abstract, we can use [[Decomposition]] to reduce apparent complexity
 
 Abstraction is the core principle of [[OOP]]
 
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

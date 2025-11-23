@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 SOLID is a set of design principles and heuristics that enforce modularity
 - SOLID
@@ -10,6 +10,6 @@ SOLID is a set of design principles and heuristics that enforce modularity
 	- [[Interface Segregation Principle]]
 	- [[Dependency Inversion Principle]]
 - 
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

@@ -1,13 +1,13 @@
 ---
 tags:
   - Machine-Learning/CPSC340
-  - Machine-Learning/Model/Parametric
-  - Machine-Learning/Model/Non-Parametric
-  - Machine-Learning/Model/Supervised
-  - Machine-Learning/Model/Classifier
+  - Machine-Learning/Models/Parametric
+  - Machine-Learning/Models/Non-Parametric
+  - Machine-Learning/Models/Supervised
+  - Machine-Learning/Problems/Classification
 ---
 # Description
-Random Forests are an [[Ensemble Methods|Ensemble]] [[Supervised Learning|Supervised]] [[Classifier]] machine learning model that uses a set of $k$ [[Bootstrapping|Bootstrapped]] [[Decision Trees]], then predict the [[Mode]] of the output. Random forests are a very generalist classifier that is hard to beat. Random forests generally outperform [[Decision Trees]] in [[Generalization Gap|Egap]] because they leverage multiple trees that make [[Independence|Independent]] errors that are more tolerant to [[Variance]]. 
+Random Forests are an [[Ensemble Methods|Ensemble]] [[Supervised Learning|Supervised]] [[CPSC 340/Classical ML/Classification]] machine learning model that uses a set of $k$ [[Bootstrapping|Bootstrapped]] [[Decision Trees]], then predict the [[Mode]] of the output. Random forests are a very generalist classifier that is hard to beat. Random forests generally outperform [[Decision Trees]] in [[Generalization Gap|Egap]] because they leverage multiple trees that make [[Independence|Independent]] errors that are more tolerant to [[Variance]]. 
 ## Hyper Parameters
 - $k$ : Number of [[Decision Trees|Trees]]
 - $t$ : maximum depth

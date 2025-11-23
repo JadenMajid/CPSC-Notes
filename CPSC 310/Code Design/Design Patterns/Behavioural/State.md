@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 # Description
 State is a [[Design Patterns|Design Pattern]] where the state of a system is stored as its own [[Object Orientation|Objects]]. This design pattern helps [[Abstraction|Abstract]] change of state functionality a set of [[Class|Classes]] that manage state specific behaviour, such as State transition. 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 Long methods make code harder to understand. By reducing long methods into smaller chunks, we abstract out implementation details, and can reduce amount of information we need to keep in our short term memory when interpreting code.
 
@@ -27,6 +27,6 @@ void printDetails(double outstanding) {
   System.out.println("amount: " + outstanding);
 }
 ```
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310

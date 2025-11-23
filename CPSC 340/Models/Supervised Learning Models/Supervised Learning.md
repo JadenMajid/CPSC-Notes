@@ -1,6 +1,7 @@
 ---
 tags:
   - Machine-Learning/CPSC340
+  - Machine-Learning/Models/Supervised
 aliases:
   - Supervised
 ---

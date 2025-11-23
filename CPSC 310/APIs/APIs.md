@@ -1,6 +1,6 @@
 ---
 tags:
-  - "CPSC310"
+  - "SoftwareEngineering/CPSC310"
 ---
 The unconstrained nature of software makes it easy to make decisions that will end up being ‘bad’ in the long run.
 
@@ -36,6 +36,6 @@ APIs should hide their internal implementation details, leaving only what is nec
 	- [[SOAP]]
 	- 
 - 
-#CPSC310
-#CPSC310
-#CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
+#SoftwareEngineering/CPSC310
