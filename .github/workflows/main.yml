@@ -1,0 +1,24 @@
+            - name: Build Quartz for GitHub Pages
+  # You may pin to the exact commit or the version.
+  # uses: konstfish/quartz-build-action@f15402f8aff68dd71509a6ef889c81fbaee531f5
+  uses: konstfish/quartz-build-action@v6
+  with:
+    # The directory to build from
+    source: # default is ./
+    # The directory to write output into
+    destination: # optional, default is ./_site
+    # Title of resulting Quartz Page
+    page_title: "Jaden's University Notes" # optional, default is Quartz
+    # Base URL (Required when setting icon or banner)
+    page_base_url: # optional, default is example.com
+    # Path to custom Quartz config file
+    quartz_config: # optional
+    # Path to custom Quartz layout file
+    quartz_layout: # optional
+    # Path to custom Quartz Page icon (png)
+    quartz_icon: # optional
+    # Path to custom Quartz Page banner (png)
+    quartz_banner: # optional
+    # Path to custom Quartz Page css
+    quartz_custom_css: # optional
+          
