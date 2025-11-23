@@ -4,9 +4,9 @@ tags:
 ---
 The unconstrained nature of software makes it easy to make decisions that will end up being ‘bad’ in the long run.
 
-APIs(Application Programming Interfaces) are ways that applications can communicate with eachother, whether locally, or through a network.
+APIs(Application Programming Interfaces) are ways that applications can communicate with each other, whether locally, or through a network.
 
-The 'User' of an api is a developer, who creates a program that can interact with an API.
+The 'User' of an API is a developer, who creates a program that can interact with an API.
 
 Good APIs should be completely [[Coupling|Decoupled]] from their implementations. Any dependence on specific implementation for an API is a sign of a [[Code Smells|Code Smell]]
 
@@ -14,15 +14,15 @@ How to Design an API
 - Talk to stakeholders
 - start with a one page spec to create use cases
 - code tests to simulate client code
-- most apis have fundamental limitations that are suboptimal
+- most APIs have fundamental limitations that are suboptimal
 
 API Design Principles
 - Do one thing, and do it well (kinda like [[Linux]]!)
 - APIs should be as small as possible, but no smaller
 - Names matter
-	- Things that are hard to use, dont get used
+	- Things that are hard to use, don't get used
 - Documentation Matters
-	- Things that are hard to learn, dont get learned
+	- Things that are hard to learn, don't get learned
 - Implementation Matters
 	- Leaking implementation is a fundamental mistake
 - Minimize access
@@ -36,6 +36,3 @@ APIs should hide their internal implementation details, leaving only what is nec
 	- [[SOAP]]
 	- 
 - 
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310

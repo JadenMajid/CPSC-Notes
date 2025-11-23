@@ -11,7 +11,7 @@ Factories
 	- Useful when we don't know the types and dependencies of the objects we are working with
 	- Useful when we want to let other developers extend components that are internal types of our library/framework
 	- Can save system resources when instantiating expensive objects
-		- [[Database Connections
+		- Database Connections
 		- File Systems
 		- Network Connections
 	- Avoids tight [[Coupling]] between creator and concrete products
