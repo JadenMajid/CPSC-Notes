@@ -1,28 +1,47 @@
-            - name: Build Quartz for GitHub Pages
-  uses: konstfish/quartz-build-action@v6
-  with:
-    # The directory to build from (using default: ./)
-    source: ./
-    # The directory to write output into (using default: ./_site)
-    destination: ./_site
+name: Deploy Quartz Site
+
+on:
+push:
+branches: ["main"] # The branch you push your source files to
+
+jobs:
+build_and_deploy:
+# This environment is needed for GitHub Pages deployment
+environment:
+name: github-pages
+url: ${{ steps.deployment.outputs.page_url }}
+
+runs-on: ubuntu-latest
+
+# Permissions are crucial for the deployment actions
+permissions:
+  contents: write 
+  pages: write 
+  id-token: write 
+  
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
     
-    # Title of resulting Quartz Page
-    page_title: "Jaden's University Notes"
-    
-    # Base URL (Required when setting icon or banner)
-    page_base_url: https://JadenMajid.github.io/UniversityNotes/ # Leave empty to use the default or set your actual URL, e.g., https://<YOUR_USERNAME>.github.io/<YOUR_REPO>/
-    
-    # Path to custom Quartz config file
-    # quartz_config:
-    
-    # Path to custom Quartz layout file
-    # quartz_layout:
-    
-    # Path to custom Quartz Page icon (png)
-    # quartz_icon:
-    
-    # Path to custom Quartz Page banner (png)
-    # quartz_banner:
-    
-    # Path to custom Quartz Page css
-    # quartz_custom_css:
+  # === YOUR FIXED BUILD STEP STARTS HERE ===
+  - name: Build Quartz for GitHub Pages
+    uses: konstfish/quartz-build-action@v6
+    with:
+      source: ./
+      destination: ./_site
+      page_title: "Jaden's University Notes"
+      page_base_url: https://JadenMajid.github.io/UniversityNotes/
+  # === YOUR FIXED BUILD STEP ENDS HERE ===
+
+  - name: Setup Pages
+    uses: actions/configure-pages@v4
+
+  - name: Upload artifact
+    uses: actions/upload-pages-artifact@v3
+    with:
+      # Must match the 'destination' path above
+      path: './_site' 
+
+  - name: Deploy to GitHub Pages
+    id: deployment
+    uses: actions/deploy-pages@v4
