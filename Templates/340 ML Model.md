@@ -1,6 +1,6 @@
 ---
 tags:
-  - CPSC340
+  - Machine-Learning/CPSC340
 ---
 # Description
 
@@ -10,13 +10,20 @@ tags:
 
 ### Steps
 1. 
-$$$$
 ## Prediction
-
+### Steps
+1. 
 ## Cost
-- $n$ examples
+- $n$ training examples
+- $m$ testing examples
 - $d$ features
 ### Training
+#### Time
+$$$$
+#### Space
 $$$$
 ### Prediction
+#### Time
+$$$$
+#### Space
 $$$$

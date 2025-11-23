@@ -9,5 +9,6 @@
   },
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments",
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false
 }

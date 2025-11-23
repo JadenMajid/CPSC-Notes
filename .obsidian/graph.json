@@ -3,19 +3,19 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#CPSC340  ",
+      "query": "tag:#Machine-Learning",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#CPSC304  ",
+      "query": "tag:#Math  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -29,17 +29,10 @@
       }
     },
     {
-      "query": "tag:#Math  ",
+      "query": "tag:#CPSC304  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#Statistics  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 13652704
       }
     }
   ],
@@ -53,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6477271933980584,
-  "close": true
+  "scale": 0.646389549561573,
+  "close": false
 }

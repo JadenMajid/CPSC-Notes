@@ -53,53 +53,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
+                "file": "CPSC 340/Models/Binary Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naive Bayes"
+              "title": "Binary Classification"
             }
           },
           {
-            "id": "fe9c3bf6e6965e5b",
+            "id": "0fe7b13d13133d91",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "AllPages.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "AllPages"
-            }
-          },
-          {
-            "id": "af6a042fdfa2e837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Independent & Identically Distributed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Independent & Identically Distributed"
-            }
-          },
-          {
-            "id": "fcbda74861e690bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Classical ML/Generalization Gap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generalization Gap"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -117,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CPSC340",
+                "query": "tag:#CPSC310",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +139,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Naive Bayes"
+              "title": "Backlinks"
             }
           },
           {
@@ -209,12 +178,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Naive Bayes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -252,13 +220,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "340/Models/Supervised Learning Models/Naive Bayes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Naive Bayes"
+              "title": "Outline"
             }
           },
           {
@@ -269,16 +236,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "9194744829226282",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
             }
           },
           {
@@ -313,54 +270,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "109149229b5bd0d2",
+  "active": "c859f63203ee627a",
   "lastOpenFiles": [
-    "340/Parametric Models.md",
-    "340/Non-Parametric Models.md",
-    "340/Models/Supervised Learning Models/Naive Bayes.md",
-    "340/Models/Supervised Learning Models/Decision Stump.md",
-    "Untitled.md",
-    "340/Training.md",
-    "340/No Free Lunch.md",
-    "340/Cross Validation.md",
+    "CPSC 340/Models/Ensemble Methods/Random Forest.md",
+    "Templates/340 ML Model.md",
+    "CPSC 340/Models/Ensemble Methods/Ensemble Methods.md",
+    "Math/Collections/Sets/Concave.md",
+    "Math/Collections/Sets/Convex.md",
+    "Math/Collections/Sets/Disjoint.md",
+    "Math/Collections/Sets/Non-Convex.md",
+    "Math/Collections/Sets/Sets.md",
+    "Math/Collections/Untitled",
+    "Math/Collections/Lists",
+    "Math/Collections",
+    "Math/Norms/L0.md",
+    "Math/Norms/L2.md",
+    "Math/Norms/L1.md",
+    "Math/Norms/p-Norms.md",
+    "Math/Norms/Norms.md",
+    "Math/Norms/L-inf.md",
+    "Math/Norms/Frobenius.md",
+    "Math/Linear Algebra/Matrices.md",
+    "Math/Linear Algebra/Vectors.md",
+    "Math/Numbers/Real Numbers.md",
+    "Math/Calculus",
+    "Math/Numbers/Types of numbers.md",
+    "Math/Numbers/Rational Numbers.md",
+    "Math/Numbers/Irrational Numbers.md",
+    "Math/Linear Algebra/Untitled",
+    "Math/Linear Algebra",
+    "Math/Numbers",
+    "CPSC 340/Models/Supervised Learning Models/Supervised Learning.md",
+    "CPSC 320",
+    "CPSC 340/Models/Supervised Learning Models/Naive Bayes.md",
+    "CPSC 340/Models/Supervised Learning Models/K Nearest Neighbors.md",
+    "CPSC 340/Models/Supervised Learning Models/Decision Trees.md",
+    "CPSC 340/Models/Supervised Learning Models/Decision Stump.md",
+    "Attachments/Pasted image 20251122163159.png",
+    "CPSC 340/Models/Ensemble Methods",
     "AllPages.base",
-    "General Coding things/Interface.md",
-    "Untitled",
-    "340/Data.md",
-    "340/Independent & Identically Distributed.md",
-    "340/Classical ML/Generalization Gap.md",
-    "340/Validation.md",
-    "340/Models/Neural Networks/Neural Networks.md",
-    "340/Models/Neural Networks/Deep Learning.md",
     "Attachments/Pasted image 20251122145012.png",
-    "Mathy-Things/Norms/p-Norms.md",
-    "340/Loss Functions/Loss Function.md",
-    "340/Loss Functions/Information Entropy.md",
-    "340/Loss Functions/Regularization.md",
-    "340/Loss Functions/Softmax.md",
-    "340/Loss Functions/Infogain.md",
-    "340/Loss Functions/Error.md",
-    "340/Loss Functions/Accuracy.md",
-    "340/Classical ML/Optimization Bias.md",
     "Attachments/Pasted image 20251122144611.png",
     "Attachments/Pasted image 20251122144545.png",
-    "340/Classical ML/Fundamental Tradeoff.md",
-    "Mathy-Things/Norms/Norms.md",
     "Attachments/Pasted image 20251122133817.png",
     "Attachments/Pasted image 20251122133640.png",
     "Attachments/Pasted image 20251122132929.png",
-    "Mathy-Things/Statistics",
-    "Templates/340 ML Model.md.old",
-    "Templates/310 Design Pattern.md.old",
-    "Unix Things/Commands/Find Replace all in Directory.md.old",
-    "340/Data for ML.md.old",
-    "Unix Things/Untitled",
-    "Unix Things/Commands",
-    "310/Process/INVEST.md.old",
     "Attachments/Pasted image 20251121154321.png",
     "Attachments/Pasted image 20251121154127.png",
     "Images/Screenshot 2025-11-20 at 5.41.05 PM.png",
-    "Images/Screenshot 2025-11-20 at 5.36.16 PM.png",
     "Untitled.canvas"
   ]
 }
