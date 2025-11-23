@@ -1,7 +1,5 @@
-# My notes for CPSC 5th year
+# My University Notes
 
-These are my notes my 5th year CPSC Courses on Obsidian.
+These are my notes for University. I only started using Obsidian in November of my 5th year, but I'm doing my best to add any relevant math/stats/computer science stuff.
 
-I only switched to obsidian from paper notes later in the term, so I will need to back prop my paper notes onto this repo.
-
-This may take some time as my courses are very meaty.
+I'm currently working on back propagating my older notes, so this is currently incomplete.
