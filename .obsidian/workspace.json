@@ -4,167 +4,117 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd1f12950a07012",
+        "id": "42c366e3ed107da5",
         "type": "tabs",
         "children": [
           {
-            "id": "ed1303b6e43f0f7f",
+            "id": "2d6f28c2c00d32a7",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Norms/Norms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Norms"
+              "title": "New tab"
             }
           },
           {
-            "id": "64a6b9699561b374",
+            "id": "a077e89c26f2126b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/L1.md",
+                "file": "CPSC 340/Models/Unsupervised Learning Models/K-Means.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1"
+              "title": "K-Means"
             }
           },
           {
-            "id": "a7727b486dc119b6",
+            "id": "993b69e9b1d40414",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "42eea5c4a665e7de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/L2.md",
+                "file": "Templates/340/340 ML Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2"
+              "title": "340 ML Model"
             }
           },
           {
-            "id": "8e1a9080917b39b9",
+            "id": "215364e8635698f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/L-inf.md",
+                "file": "CPSC 340/Models/Loss Functions/Rectified Linear Units.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L-inf"
+              "title": "Rectified Linear Units"
             }
           },
           {
-            "id": "79def00a3398017e",
+            "id": "a27f871c3ad1de6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Norms/Frobenius.md",
+                "file": "CPSC 340/Models/Neural Networks/Automatic Differentiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frobenius"
+              "title": "Automatic Differentiation"
             }
           },
           {
-            "id": "59a36393459ba02c",
+            "id": "cec38f3339b6609a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Loss Functions/Loss Function.md",
+                "file": "CPSC 340/Models/Neural Networks/Convolutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loss Function"
+              "title": "Convolutions"
             }
           },
           {
-            "id": "f0856ab33e531d62",
+            "id": "28025c5650d1560b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "340/Loss Functions/Loss Function.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loss Function"
-            }
-          },
-          {
-            "id": "6e5bf3b6b9831560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Classical ML/Variance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variance"
-            }
-          },
-          {
-            "id": "173963488221aaf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "304/SQL/SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "00cd38bfb57e368f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC 310/APIs/APIs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "APIs"
-            }
-          },
-          {
-            "id": "fc3814f4b45318e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathy-Things/Sets/Concave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concave"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -184,7 +134,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -196,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Machine-Learning/Models/Non-Parametric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20251120191739.png",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251120191739"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -256,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20251120191739.png",
+                "file": "CPSC 340/Models/Problems/Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251120191739"
+              "title": "Outgoing links from Regression"
             }
           },
           {
@@ -299,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "CPSC 340/Models/Problems/Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Regression"
             }
           },
           {
@@ -319,13 +269,15 @@
             }
           },
           {
-            "id": "d30721bb7e19e3ce",
+            "id": "e2e0791b64ec5896",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "type": "file-properties",
+              "state": {
+                "file": "340/Models/Supervised Learning Models/Naive Bayes.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Naive Bayes"
             }
           }
         ],
@@ -337,7 +289,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -346,57 +297,58 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "00cd38bfb57e368f",
+  "active": "28025c5650d1560b",
   "lastOpenFiles": [
-    "CPSC 340/Loss Functions/Mean Squared Error.md",
-    "CPSC 340/Loss Functions/Loss Function.md",
-    "index.md",
-    "README.md",
-    "CPSC 340/Loss Functions/Softmax.md",
-    "Vector.md",
+    "CPSC 340/Models/Neural Networks/Convolutions.md",
+    "conflict-files-obsidian-git.md",
+    "CPSC 340/Models/Neural Networks/Automatic Differentiation.md",
+    "CPSC 340/Models/Neural Networks/Vanishing Gradients.md",
+    "CPSC 340/Models/Neural Networks/Deep Learning.md",
+    "CPSC 340/Models/Loss Functions/Rectified Linear Units.md",
+    "Attachments/Screenshot 2025-11-24 at 1.47.23 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.48.14 PM.png",
     "package-lock.json",
-    "Math/Collections/Sets/Sets.md",
-    "CPSC 310/Code Design/Design Patterns/Creational/Factory.md",
-    "CPSC 304/Database.md",
-    "Templates/340/340 ML Model.md",
-    "Templates/340/340 ML Topic.md",
-    "Templates/340/340 ML Loss Function.md",
-    "Templates/Statistics Snippet.md",
-    "Templates/Math Snippet.md",
-    "Templates/Linux Commands.md",
-    "Templates/Generic Topic.md.old",
-    "Templates/Generic Topic.md",
-    "Templates/Design Pattern.md.old",
-    "Templates/340 ML Model.md.old",
-    "Templates/340",
-    "Templates/310 Design Pattern.md.old",
-    "Templates/310 Design Pattern.md",
-    "Templates",
-    "README.md.old",
-    "Programming+Computer Science/Object Orientation.md",
-    "Programming+Computer Science/Interface.md.old",
-    "Programming+Computer Science/Interface.md",
-    "Programming+Computer Science/Diamond Problem.md",
-    "Programming+Computer Science",
-    "Math/Collections/Sets/Non-Convex.md",
-    "Math/Collections/Sets/Disjoint.md",
-    "Math/Collections/Sets/Convex.md",
+    "Attachments/Screenshot 2025-11-24 at 1.38.17 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.35.01 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.31.09 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.29.18 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.28.54 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.24.49 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.05.38 PM.png",
+    "CPSC 340/Models/Training Methods/Gradient Descent.md",
+    "CPSC 340/Models/Training Methods/Stochastic Gradient Descent.md",
+    "CPSC 340/Models/Training Methods/\"Other\" Normal Equations.md",
+    "CPSC 340/Models/Training Methods/Normal Equations.md",
+    "CPSC 340/Models/Training Methods",
+    "CPSC 340/Automatic DIfferentiation.md",
     "Math/Collections/Sets/Concave.md",
+    "Math/Collections/Sets/Convex.md",
+    "Math/Statistics/Average.md",
+    "Math/Statistics/Mean.md",
     "Math/Statistics/Variance.md",
     "Math/Statistics/Summary Statistics.md",
-    "Attachments/Screenshot 2025-11-21 at 2.42.00 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.40.01 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.23.22 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.21.52 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.21.33 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.06.06 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.05.56 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 12.56.41 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 1.59.28 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 1.37.42 PM.png",
+    "Math/Statistics/Median.md",
+    "Math/Statistics/Bias.md",
+    "CPSC 340/Models/Problems/Classification.md",
+    "Math/Linear Algebra/Matrices.md",
+    "index.md",
+    "Untitled",
+    "CPSC 340/Models/Problems/Clustering.md",
+    "CPSC 340/Models/Problems/Binary Classification.md",
+    "CPSC 340/Models/Neural Networks/Neural Networks.md",
+    "CPSC 340/Models/Ensemble Methods.md",
+    "Attachments/Pasted image 20251122181819.png",
+    "CPSC 340/Models/Problems",
+    "Templates/340",
+    "Attachments/Recording 20251122171956.m4a",
+    "Math/Collections/Untitled",
+    "Math/Collections/Lists",
+    "Math/Collections",
+    "Math/Calculus",
     "Untitled.canvas"
   ]
 }
