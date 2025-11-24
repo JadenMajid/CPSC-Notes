@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Databases  ",
@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "tag:#Math  ",
+      "query": "tag:#Math/Statistics  ",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Math/Sets  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 17.2916666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.45050811767578125,
-  "close": false
+  "scale": 0.6590199966781128,
+  "close": true
 }

@@ -17,17 +17,32 @@ What do we do at the edges?
 # Formal Definition
 ![[Screenshot 2025-11-24 at 2.30.48 PM.png]]
 # Naive Convolutions
-The obvious way to do this is to give the [[Mean]] Pixel intensity in the neighborhood, but it has some drawbacks
+The obvious way to do this is to give the [[Mean]] Pixel intensity in the neighbourhood, but it has some drawbacks
 - Loss of spatial information
 - Effectively a blur
 	- We lose the crispness of edges
+$$w_i=c, c\in \mathbb{R}$$
 
 # Gaussian Blur
 This controlled blur is like a weighted average focused on closer pixels.
-
+$$w_i\alpha \exp(-\frac{1}{2}(\frac{i}{\sigma})^2)$$
 # Negative Weights
 Can use negative weights to get very specific feature relationships
 
+## Laplacian of Gaussian
+a smoothed 2nd derivative approximation
+![[Screenshot 2025-11-24 at 2.48.17 PM.png]]
+## Sharpen
+An average that places negative weights on the surrounding pixels
+$$w=[-a,b,-a]$$
+## Centered Difference
+Approximates 1st derivatives
+$$w=[-1,0,1]$$
+## Gabor Filter(2D)
+[[Gaussian]] multiplied by $\sin$ or $\cos$ in $x$ or $y$. 
+![[Screenshot 2025-11-24 at 2.50.01 PM.png]]
+We can take the max of a vertical and horizontal Gabor to get a Horizontal/Vertical [[Edge Detector]]
+![[Screenshot 2025-11-24 at 2.50.10 PM.png]]
 # For [[Deep Learning]]
 We can apply several different convolutions and create new features that we train the model on.
 ![[Screenshot 2025-11-24 at 2.24.42 PM.png]]
