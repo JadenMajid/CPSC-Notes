@@ -20,6 +20,19 @@ Some ensemble methods train many different types of models on the data, then tra
 ## Training
 
 ### Steps
-1. 
-$$$$
+1. Select the type of base learners plus any re-sampling / feature sub-selection scheme.
+2. Train each of the $b$ base learners on its assigned data slice (these runs are independent and can be parallelized).
+3. Store every fitted learner alongside its aggregation rule.
 ## Prediction
+1. Score the query point with every base learner.
+2. Aggregate predictions (vote, mean, weighted combination, meta-model, etc.) to produce the final output.
+
+## Cost
+- $b$ base learners where training learner $i$ costs $T_i$ time and occupies $S_i$ space.
+- $P_i$ denotes the per-example prediction cost of learner $i$.
+### Training
+Time: $$O\left(\sum_{i=1}^{b} T_i\right)$$ which simplifies to $$O(b\,T_{base})$$ when every learner has similar cost $T_{base}$.  
+Space: $$O\left(\sum_{i=1}^{b} S_i\right)$$ to keep all fitted learners plus any aggregation weights.
+### Prediction
+Time: $$O\left(\sum_{i=1}^{b} P_i + b\right)$$ (the additional $b$ counts aggregation work; for uniform learners this is $$O(b\,P_{base})$$).  
+Space: $$O(1)$$ additional per query because the models are pre-stored.

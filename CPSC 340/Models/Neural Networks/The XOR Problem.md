@@ -12,3 +12,7 @@ with 2 inputs, and 3 neurons, we map our data into a 3 dimensional space that is
 #Machine-Learning/CPSC340
 #Machine-Learning/CPSC340
 #Machine-Learning/CPSC340
+
+## Cost
+- The canonical XOR network uses two hidden neurons and one output neuron, so forward or backward passes are constant-size $$O(1)$$ computations with respect to the dataset dimensionality.
+- Training therefore scales linearly with the number of labeled XOR examples: $$O(E\,n)$$ for $E$ passes through $n$ samples, because each pass performs constant work per example.

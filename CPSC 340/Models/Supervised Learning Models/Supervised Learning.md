@@ -13,6 +13,11 @@ Supervised learning is a [[Classical Machine Learning|Machine Learning]] paradig
 2. Evaluate model on rest of data
 3. Goal: high [[Testing]] performance, not [[Training]] performance
 
+## Complexity
+- Most parametric supervised learners train in $$O(E\,n\,d)$$ time for $E$ passes over $n$ examples with $d$ features (e.g., linear models, logistic regression, simple neural nets).
+- Non-parametric learners (KNN, unrestricted trees) often shift the cost to inference, e.g., $$O(n\,d)$$ per query for KNN or $$O(t)$$ for a depth-$t$ decision tree.
+- Data preprocessing (feature scaling, shuffling, batching) adds linear $$O(n\,d)$$ overhead but is usually dominated by model training.
+
 ```dataview
 TABLE
     contains(file.tags, "Supervised") AS Supervised,

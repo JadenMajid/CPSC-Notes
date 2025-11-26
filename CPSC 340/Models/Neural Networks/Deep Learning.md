@@ -11,6 +11,10 @@ $$z_{i1}^{(2)}=h(x_{i1})$$
 # Cost of layers
 ## Prediction
 $$O(k^1d+k^1k^2...)$$
+## Training
+- $E$ epochs, $n$ examples, layer widths $k^0=d, k^1,\dots,k^L$.
+- Backpropagation roughly doubles the work of a forward pass, so training is $$O\left(E\,n\,\sum_{\ell=0}^{L-1} k^\ell k^{\ell+1}\right)$$.
+- Memory for activations during training is $$O\left(\sum_{\ell=0}^{L} k^\ell\right)$$ if activations are checkpointed layer by layer.
 - need fewer parameters than "shallow but wide" [[Neural Networks]]
 - Empirical Motivation for using multiple layers
 	- Deep networks have lead to unprecedented performance
