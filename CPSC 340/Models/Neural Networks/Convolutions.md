@@ -2,11 +2,11 @@
 tags:
   - "#Machine-Learning/Models/Neural-Networks"
 ---
+# Description
 When training [[Neural Networks]] on images, the individual activations of pixels is almost meaningless. We need to represent the context of the pixel
 
 We can use convolutions in the neighbourhood of a given pixel to show context. 
 Convolutions have some input vector or matrix, some kernel/weights/filter vector or matrix, and output some vector or matrix.
-
 ## Boundary Issue
 What do we do at the edges?
 - Pad outside input with zeros
@@ -14,19 +14,19 @@ What do we do at the edges?
 - mirror at the image edge
 - ignore(return shorter $Z$ than input $X$)
 
-# Formal Definition
+## Formal Definition
 ![[Screenshot 2025-11-24 at 2.30.48 PM.png]]
-# Naive Convolutions
+## Naive Convolutions
 The obvious way to do this is to give the [[Mean]] Pixel intensity in the neighbourhood, but it has some drawbacks
 - Loss of spatial information
 - Effectively a blur
 	- We lose the crispness of edges
 $$w_i=c, c\in \mathbb{R}$$
 
-# Gaussian Blur
+## Gaussian Blur
 This controlled blur is like a weighted average focused on closer pixels.
 $$w_i\alpha \exp(-\frac{1}{2}(\frac{i}{\sigma})^2)$$
-# Negative Weights
+## Negative Weights
 Can use negative weights to get very specific feature relationships
 
 ## Laplacian of Gaussian
@@ -46,6 +46,18 @@ We can take the max of a vertical and horizontal Gabor to get a Horizontal/Verti
 # For [[Deep Learning]]
 We can apply several different convolutions and create new features that we train the model on.
 ![[Screenshot 2025-11-24 at 2.24.42 PM.png]]
+# Multi-Channel Inputs And Stride
+Images can be seen as a [[Tensors|Tensor]], where each [[Color Models|Layer]] is a matrix in that [[Tensors|Tensor]]. 
+
+Below, we see a [[RGB]] image mapped to a 16 layer tensor, where each layer is a different convolution on the original image. We take a $(3\times 64\times 64)\rightarrow(16 \times3\times3\times3)\text{ for each convolution area}\rightarrow(16\times64\times64)$
+![[Screenshot 2025-11-26 at 2.05.03 PM.png]]
+
+## Stride
+Stride is the "skipping" of elements when applying convolutions. With a stride of 2, we reduce the dimensionality of the output of the convolution by a factor of $\frac{1}{2}$.
+![[Screenshot 2025-11-26 at 2.19.13 PM.png]]
+
+
+
 # Examples
 ## 1D Convolution
 We can apply convolutions on a signal $\vec x$, with some filter/kernel/weight $\vec v$, to product some final output vector $\vec z$
