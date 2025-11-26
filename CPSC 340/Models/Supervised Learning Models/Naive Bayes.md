@@ -29,11 +29,17 @@ $$P(x_{ij} = c \mid y_i = \text{class}) \approx
 		- $\beta = 1$ : standard smoothing
 		- $\beta > 1$ : stronger smoothing(don't trust data)
 ## Training
-We need to learn the distribution for $d$ features across $k$ classes. we can iterate across $d$ dimensions, grouping examples by class in y
+We need to learn the conditional distribution of each of the $d$ features for every class.
 
 ### Steps
-1. 
+1. Initialize class-count and feature-count tables to zero.
+2. For every training example, increment its class count and update the per-feature statistics associated with that class (categorical counts or running Gaussian means/variances).
+3. Apply Laplace/variance smoothing as needed so that unseen feature values still receive non-zero probability mass.
+4. Store the class priors $P(y=c)$ and the conditional likelihood parameters $P(x_j \mid y=c)$ for all $j,c$.
 ## Prediction
+### Steps
+1. For a new point, compute the log-posterior for each class: $\log P(y=c) + \sum_j \log P(x_j \mid y=c)$.
+2. Choose the class with the highest posterior or return the normalized probabilities.
 
 ## Cost
 - $n$ training examples
@@ -42,9 +48,11 @@ We need to learn the distribution for $d$ features across $k$ classes. we can it
 - $k$ classes
 ### Training
 Time
-$$O(ndk)$$
+$$O(nd)$$ to sweep the dataset once (each example updates only the stats for its class).
 Space
 $$O(dk)$$
 ### Prediction
 Time
 $$O(mdk)$$
+Space
+$$O(k)$$ working memory for the per-class log-likelihoods.

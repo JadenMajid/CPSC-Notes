@@ -1,18 +1,26 @@
----
 tags:
   - Machine-Learning/Models/Unsupervised
   - "#Machine-Learning/Problems/Clustering"
----
-Clustering is an [[Unsupervised Learning]] problem where similar examples in some dataset are grouped. Evaluating the performance of a Clustering algorithm can be difficult because there is no ground truth to compare against.
+# Description
+Clustering is an [[Unsupervised Learning]] problem where similar examples are grouped without labeled targets. Because no ground truth is given, evaluation is harder than in [[Classification]].
 
-Clustering is closely related to [[Classification]]
-![[Pasted image 20251122180356.png]]
-# Algorithms
-- [[K-Means]]
-- [[DB-SCAN]]
-- [[Hierarchical Clustering]]
-- [[Agglomerative Clustering]]
-# Ensemble Clustering
+## Objectives
+- Discover coherent structure (dense regions, connected components, manifolds) in the data.
+- Remain robust to noise/outliers and insensitive to feature scaling when possible.
+
+## Typical Datasets
+- Customer segmentation, document/topic grouping, gene expression data, image patches.
+
+## Common Algorithms
+- [[K-Means]] / [[K-Medians]] for convex clusters.
+- [[DB-SCAN]] for density-based shapes.
+- [[Hierarchical Clustering]] and [[Agglomerative Clustering]] for nested partitions.
+- Ensemble clustering (e.g., consensus functions) averages multiple partitionings to improve stability.
+
+## Evaluation
+- Internal metrics: silhouette score, Davies–Bouldin, within-cluster sum of squares.
+- External metrics (only when labels exist): adjusted Rand index, mutual information.
+- Visualization (t-SNE/UMAP) to inspect structure qualitatively.
 
 ## Complexity
 - [[K-Means]] / [[K-Medians]]: $$O(t\,p\,n\,k\,d)$$ to fit $k$ centroids over $t$ random restarts and $p$ iterations; $$O(kd)$$ space.

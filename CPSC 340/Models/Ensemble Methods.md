@@ -10,13 +10,15 @@ Ensemble methods are a category of models that train sub-models, and use their o
 Some ensemble methods train many different types of models on the data, then train some model on the submodel's predictions that attempts to learn patterns in the accuracies of the submodels.
 ![[Pasted image 20251122163159.png]]
 ## Hyper Parameters
-- What models to use
-	- Mixed or Uniform?
-- How to create final prediction from individual predictions
+- Base learner choice (homogeneous like all trees vs heterogeneous mixes of trees/linear models/etc.).
+- Resampling or feature-subsetting policy (bagging, pasting, random subspaces).
+- Aggregation rule (majority vote, probability averaging, weighted combination, meta-learner for stacking).
 
 ## Examples
-- [[Random Forest]]
-- [[Hierarchical Clustering]]
+- [[Random Forest]] (bagging over decision trees)
+- [[AdaBoost]] (boosting weak learners)
+- [[Gradient Boosted Trees]]
+- [[Stacking]] ensembles that train a meta-model on base learner outputs
 ## Training
 
 ### Steps

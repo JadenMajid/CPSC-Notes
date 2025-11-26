@@ -6,15 +6,15 @@ tags:
   - Machine-Learning/Models/Supervised
   - Machine-Learning/Problems/Classification
 ---
-# Description
-Random Forests are an [[Ensemble Methods|Ensemble]] [[Supervised Learning|Supervised]] [[CPSC 340/Classical ML/Classification]] machine learning model that uses a set of $k$ [[Bootstrapping|Bootstrapped]] [[Decision Trees]], then predict the [[Mode]] of the output. Random forests are a very generalist classifier that is hard to beat. Random forests generally outperform [[Decision Trees]] in [[Generalization Gap|Egap]] because they leverage multiple trees that make [[Independence|Independent]] errors that are more tolerant to [[Variance]]. 
-## Hyper Parameters
-- $k$ : Number of [[Decision Trees|Trees]]
-- $t$ : maximum depth
-	- [[Non-Parametric Models|Non-Parametric]] if $t=\infty$ 
+#### Time
+Each bootstrapped tree costs roughly $$O(n\,d\,t)$$ when scanning thresholds or $$O(n\,d\,\log n)$$ when maintaining sorted feature lists, so the full forest is $$O(k\,n\,d\,t)$$ (or $$O(k\,n\,d\,\log n)$$ in the sorted variant).
+#### Space
+$$O(k\,2^t)$$ to store the tree structures plus $$O(n\,d)$$ for the bootstrapped samples if they are materialized.
 	- [[Parametric Models|Parametric]] if $t<\infty$ 
 - Bootstrapping method for examples
 	- Normally select $n$ random examples from $X$, with replacement
+#### Space
+$$O(k)$$ to keep the per-tree votes/logits before aggregation.
 - Bootstrapping method for features
 	- Normally select $\sqrt{n}$ random features at each [[Decision Stump]]
 ## Training

@@ -22,4 +22,4 @@ $$O(k^1d+k^1k^2...)$$
 - Memory for activations during training is $$O\left(\sum_{\ell=0}^{L} k^\ell\right)$$ if activations are checkpointed layer by layer.
 - need fewer parameters than "shallow but wide" [[Neural Networks]]
 - Empirical Motivation for using multiple layers
-	- Deep networks have lead to unprecedented performance
+	- Deep networks have led to unprecedented performance

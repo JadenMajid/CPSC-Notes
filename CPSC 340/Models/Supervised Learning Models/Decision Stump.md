@@ -22,7 +22,7 @@ To learn a stump we need to find the following:
 	1. Get a baseline(like the [[Mode]] of the input)
 	2. Iterate on examples(as thresholds)
 	3. Iterate on features(nested)
-$$$$
+2. Select the feature/threshold pair with the best score and record the leaf labels for each side.
 ## Prediction
 Apply found rules to input data, outputting $\hat{y}$
 ## Cost
@@ -32,4 +32,4 @@ Apply found rules to input data, outputting $\hat{y}$
 ### Training
 $$O(ndk)$$
 ### Prediction
-$$O(1)$$
+Per example: $$O(1)$$ (single comparison)
