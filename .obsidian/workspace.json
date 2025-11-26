@@ -98,76 +98,6 @@
               "icon": "lucide-file",
               "title": "Convolutions"
             }
-          },
-          {
-            "id": "f0856ab33e531d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Loss Functions/Loss Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loss Function"
-            }
-          },
-          {
-            "id": "6e5bf3b6b9831560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "340/Classical ML/Variance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variance"
-            }
-          },
-          {
-            "id": "173963488221aaf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "304/SQL/SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "00cd38bfb57e368f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "scratch"
-            }
-          },
-          {
-            "id": "fc3814f4b45318e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathy-Things/Sets/Concave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concave"
-            }
           }
         ],
         "currentTab": 6
@@ -359,16 +289,29 @@
   },
   "active": "cec38f3339b6609a",
   "lastOpenFiles": [
-    "CPSC 310/APIs/APIs.md",
     "scratch.md",
-    "CPSC 340/Loss Functions/Mean Squared Error.md",
-    "CPSC 340/Loss Functions/Loss Function.md",
-    "index.md",
-    "README.md",
-    "CPSC 340/Loss Functions/Softmax.md",
-    "Vector.md",
+    "Templates/340/340 ML Problem.md",
+    "Attachments/Screenshot 2025-11-24 at 2.50.10 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 2.50.01 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 2.49.15 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 2.48.17 PM.png",
+    "CPSC 340/Models/Neural Networks/Automatic Differentiation.md",
+    "Math/Numbers/Types of numbers.md",
+    "Math/Numbers/Rational Numbers.md",
+    "Math/Numbers/Irrational Numbers.md",
+    "Math/Numbers/Real Numbers.md",
+    "CPSC 340/Models/Neural Networks/Convolutions.md",
+    "Attachments/Screenshot 2025-11-24 at 2.30.48 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 2.26.52 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 2.24.58 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 2.24.42 PM.png",
+    "conflict-files-obsidian-git.md",
+    "CPSC 340/Models/Neural Networks/Vanishing Gradients.md",
+    "CPSC 340/Models/Neural Networks/Deep Learning.md",
+    "CPSC 340/Models/Loss Functions/Rectified Linear Units.md",
+    "Attachments/Screenshot 2025-11-24 at 1.47.23 PM.png",
+    "Attachments/Screenshot 2025-11-24 at 1.48.14 PM.png",
     "package-lock.json",
-    "Attachments/Screenshot 2025-11-24 at 1.38.17 PM.png",
     "CPSC 340/Models/Training Methods/Gradient Descent.md",
     "CPSC 340/Models/Training Methods/Stochastic Gradient Descent.md",
     "CPSC 340/Models/Training Methods/\"Other\" Normal Equations.md",
@@ -376,16 +319,22 @@
     "CPSC 340/Models/Training Methods",
     "CPSC 340/Automatic DIfferentiation.md",
     "Math/Collections/Sets/Concave.md",
-    "Attachments/Screenshot 2025-11-21 at 2.42.00 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.40.01 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.23.22 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.21.52 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.21.33 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.06.06 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 2.05.56 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 12.56.41 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 1.59.28 PM.png",
-    "Attachments/Screenshot 2025-11-21 at 1.37.42 PM.png",
+    "Math/Collections/Sets/Convex.md",
+    "Math/Statistics/Average.md",
+    "Math/Statistics/Mean.md",
+    "Math/Statistics/Variance.md",
+    "Math/Statistics/Summary Statistics.md",
+    "Math/Statistics/Median.md",
+    "Math/Statistics/Bias.md",
+    "CPSC 340/Models/Problems/Classification.md",
+    "Untitled",
+    "CPSC 340/Models/Problems",
+    "Templates/340",
+    "Attachments/Recording 20251122171956.m4a",
+    "Math/Collections/Untitled",
+    "Math/Collections/Lists",
+    "Math/Collections",
+    "Math/Calculus",
     "Untitled.canvas"
   ]
 }
