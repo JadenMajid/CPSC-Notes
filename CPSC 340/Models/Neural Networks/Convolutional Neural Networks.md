@@ -21,6 +21,7 @@ As we keep applying convolutions, we increase the side of the receptive fields
 ## Hyper Parameters
 - number of [[Convolutions|Convolution]] layers
 	- number of output channels per convolutional layer
+	- how large each 
 - number of [[Classification]] layers
 - 
 ## Training
