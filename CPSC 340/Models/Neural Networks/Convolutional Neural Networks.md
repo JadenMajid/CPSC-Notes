@@ -13,17 +13,19 @@ Convolutional Neural networks are [[Neural Networks]] that are trained on datase
 Consider training a model on a 500x500 pixel image, $d$ for this model is 250,000, if the first layer has $k=10,000$ then $W$ has $2.5$ billion parameters. Convolutional Neural Networks drastically reduce the number of parameters.
 
 ## Receptive Fields
-As we keep applying convolutions, we increase the side of the receptive fields
-> Deeper layers depend on increasingly non local data.
+As we keep applying convolutions, we increase the side of the receptive fields. If we look at the upstream "scope" we can see that layers can agglomerate increasingly complex relationships between data.
 
+> Deeper layers depend on increasingly non local data.
 
 ![[Screenshot 2025-11-26 at 2.53.18 PM.png]]
 ## Hyper Parameters
-- number of [[Convolutions|Convolution]] layers
-	- number of output channels per convolutional layer
-	- how large each 
-- number of [[Classification]] layers
-- 
+- Number of [[Convolutions|Convolution]] layers
+	- Number of output channels per convolutional layer
+	- Kernel dimensions
+- [[Classification]] layers
+	- Number of layers
+	- Nodes per layer
+	- Non linear function applied at each layer
 ## Training
 
 ### Steps
