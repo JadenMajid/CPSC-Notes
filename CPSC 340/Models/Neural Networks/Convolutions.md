@@ -1,0 +1,54 @@
+---
+tags:
+  - "#Machine-Learning/Models/Neural-Networks"
+---
+When training [[Neural Networks]] on images, the individual activations of pixels is almost meaningless. We need to represent the context of the pixel
+
+We can use convolutions in the neighbourhood of a given pixel to show context. 
+Convolutions have some input vector or matrix, some kernel/weights/filter vector or matrix, and output some vector or matrix.
+
+## Boundary Issue
+What do we do at the edges?
+- Pad outside input with zeros
+- pad outside input with edge value
+- mirror at the image edge
+- ignore(return shorter $Z$ than input $X$)
+
+# Formal Definition
+![[Screenshot 2025-11-24 at 2.30.48 PM.png]]
+# Naive Convolutions
+The obvious way to do this is to give the [[Mean]] Pixel intensity in the neighbourhood, but it has some drawbacks
+- Loss of spatial information
+- Effectively a blur
+	- We lose the crispness of edges
+$$w_i=c, c\in \mathbb{R}$$
+
+# Gaussian Blur
+This controlled blur is like a weighted average focused on closer pixels.
+$$w_i\alpha \exp(-\frac{1}{2}(\frac{i}{\sigma})^2)$$
+# Negative Weights
+Can use negative weights to get very specific feature relationships
+
+## Laplacian of Gaussian
+a smoothed 2nd derivative approximation
+![[Screenshot 2025-11-24 at 2.48.17 PM.png]]
+## Sharpen
+An average that places negative weights on the surrounding pixels
+$$w=[-a,b,-a]$$
+## Centered Difference
+Approximates 1st derivatives
+$$w=[-1,0,1]$$
+## Gabor Filter(2D)
+[[Gaussian]] multiplied by $\sin$ or $\cos$ in $x$ or $y$. 
+![[Screenshot 2025-11-24 at 2.50.01 PM.png]]
+We can take the max of a vertical and horizontal Gabor to get a Horizontal/Vertical [[Edge Detector]]
+![[Screenshot 2025-11-24 at 2.50.10 PM.png]]
+# For [[Deep Learning]]
+We can apply several different convolutions and create new features that we train the model on.
+![[Screenshot 2025-11-24 at 2.24.42 PM.png]]
+# Examples
+## 1D Convolution
+We can apply convolutions on a signal $\vec x$, with some filter/kernel/weight $\vec v$, to product some final output vector $\vec z$
+![[Screenshot 2025-11-24 at 2.24.58 PM.png]]
+
+![[Screenshot 2025-11-24 at 2.26.52 PM.png]]
