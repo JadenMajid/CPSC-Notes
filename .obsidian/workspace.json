@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 340/Models/Neural Networks/Convolutions.md",
+                "file": "CPSC 340/Models/Neural Networks/Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convolutions"
+              "title": "Convolutional Neural Networks"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPSC 340/Models/Neural Networks/Convolutions.md",
+                "file": "CPSC 340/Models/Neural Networks/Convolutional Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Convolutions"
+              "title": "Backlinks for Convolutional Neural Networks"
             }
           },
           {
@@ -303,8 +303,8 @@
   },
   "active": "cec38f3339b6609a",
   "lastOpenFiles": [
-    "CPSC 340/Models/Neural Networks/Convolutional Neural Networks.md",
     "CPSC 340/Models/Neural Networks/Convolutions.md",
+    "CPSC 340/Models/Neural Networks/Convolutional Neural Networks.md",
     "Attachments/Screenshot 2025-11-26 at 2.39.40 PM.png",
     "Attachments/Screenshot 2025-11-26 at 2.37.39 PM.png",
     "Attachments/Screenshot 2025-11-26 at 2.33.14 PM.png",
