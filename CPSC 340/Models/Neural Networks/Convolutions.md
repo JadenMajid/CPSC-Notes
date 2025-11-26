@@ -1,6 +1,8 @@
 ---
 tags:
   - "#Machine-Learning/Models/Neural-Networks"
+aliases:
+  - Convolution
 ---
 # Description
 When training [[Neural Networks]] on images, the individual activations of pixels is almost meaningless. We need to represent the context of the pixel

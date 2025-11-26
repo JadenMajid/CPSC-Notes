@@ -1,6 +1,9 @@
+---
 tags:
-  - "Machine-Learning/CPSC340"
--# Description
+  - Machine-Learning/CPSC340
+  - Machine-Learning/Models/Neural-Networks
+---
+# Description
 Neural network regression uses one or more hidden layers to learn a nonlinear mapping from inputs to a continuous output. A common setup is a single hidden layer with activation $h(\cdot)$ followed by a linear readout $v$ so that $\hat{y}_i = v^\top h(W x_i)$.
 
 ## Hyper Parameters
