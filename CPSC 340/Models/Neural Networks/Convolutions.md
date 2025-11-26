@@ -7,6 +7,13 @@ When training [[Neural Networks]] on images, the individual activations of pixel
 
 We can use convolutions in the neighbourhood of a given pixel to show context. 
 Convolutions have some input vector or matrix, some kernel/weights/filter vector or matrix, and output some vector or matrix.
+## Major Arguments
+- Filter is the convolution we are applying
+- Output channels is the amount of layers in the output tensor
+- Padding is the number of "added rows and columns" on the outside of the input layer
+- Stride is the number of pixels that are "skipped" per applied convolution
+![[Screenshot 2025-11-26 at 2.21.45 PM.png]]
+
 ## Boundary Issue
 What do we do at the edges?
 - Pad outside input with zeros
@@ -52,12 +59,29 @@ Images can be seen as a [[Tensors|Tensor]], where each [[Color Models|Layer]] is
 Below, we see a [[RGB]] image mapped to a 16 layer tensor, where each layer is a different convolution on the original image. We take a $(3\times 64\times 64)\rightarrow(16 \times3\times3\times3)\text{ for each convolution area}\rightarrow(16\times64\times64)$
 ![[Screenshot 2025-11-26 at 2.05.03 PM.png]]
 
-## Stride
+## Padding & Stride
 Stride is the "skipping" of elements when applying convolutions. With a stride of 2, we reduce the dimensionality of the output of the convolution by a factor of $\frac{1}{2}$.
 ![[Screenshot 2025-11-26 at 2.19.13 PM.png]]
+Padding is applied to the outside of the input layer that increases the "size" of each layer.
+![[Pasted image 20251126142340.png]]
+![[Screenshot 2025-11-26 at 2.22.43 PM.png]]
 
+# Translation Invariance
+Process each window the same way. Regardless of where we are in the image we should be applying the same operations.
 
+> Apply the same weights regardless of where inside the image we are looking
 
+## Local Connection & Weight Sharing
+
+![[Screenshot 2025-11-26 at 2.30.03 PM.png]]
+We can construct some weight matrix that is equivalent to applying a convolution on the input 
+![[Screenshot 2025-11-26 at 2.33.14 PM.png]]
+
+## Unfold/im2col
+A way to gather local information and transform images into tensors.
+![[Screenshot 2025-11-26 at 2.37.39 PM.png]]
+
+![[Screenshot 2025-11-26 at 2.39.40 PM.png]]
 # Examples
 ## 1D Convolution
 We can apply convolutions on a signal $\vec x$, with some filter/kernel/weight $\vec v$, to product some final output vector $\vec z$
