@@ -19,8 +19,20 @@ $$z_{i1}^{(2)}=h(x_{i1})$$
 	- Deep models continue to improve performance, but at a slowing rate recently
 	- Some overfitting to popular datasets like ImageNet
 		- But the drop is very consistent, so this suggests that it may ![[Screenshot 2025-12-03 at 2.12.01 PM.png]]
-		- 
+- We are still missing a lot of theory and understanding for deep learning
+	- we don't really understand why it works so well
+	- sometimes models look smarter than they really are because training data/validation data is flawed
 
+## Limitations
+> [!QUOTE]
+> Try to break your models, don't just get them to work
+
+ ![[Screenshot 2025-12-03 at 2.21.12 PM.png]]
+
+### Adversarial usage
+- Adversarial noise can be added which breaks some models
+	- Here, imperceptible noise can be added which breaks the model's predictions.![[Screenshot 2025-12-03 at 2.23.03 PM.png]]
+- 
 
 ## Learning
 [[Loss Function|Loss Functions]] in Deep learning tend to be highly [[Non-Convex]], meaning they have many local minima. However, many of these local minima are actually quite good.
