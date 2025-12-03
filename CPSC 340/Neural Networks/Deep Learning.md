@@ -27,7 +27,7 @@ $$z_{i1}^{(2)}=h(x_{i1})$$
 > [!QUOTE]
 > Try to break your models, don't just get them to work
 
- ![[Screenshot 2025-12-03 at 2.21.12 PM.png]]
+ Weird inputs can make models act unpredictably.![[Screenshot 2025-12-03 at 2.21.12 PM.png]]
 
 ### Adversarial usage
 - Adversarial noise can be added which breaks some models
