@@ -30,7 +30,7 @@ $$z_{i1}^{(2)}=h(x_{i1})$$
  Weird inputs can make models act unpredictably.![[Screenshot 2025-12-03 at 2.21.12 PM.png]]
 
 - Networks may not understand fundamental concepts. 
-- Is being surrounded by grass a part of the fundamental idea of being a cow?![[Screenshot 2025-12-03 at 2.34.52 PM.png]]
+	- Is being surrounded by grass a part of the fundamental idea of being a cow?![[Screenshot 2025-12-03 at 2.34.52 PM.png]]
 	- Kids can do this, but models can struggle with this
 - The model will learn from ALL available info in the training data
 	- Here, the model learned that the type of scan affects the likelihood that the enlarged heart condition is present.![[Screenshot 2025-12-03 at 2.36.49 PM.png]]
@@ -39,7 +39,11 @@ $$z_{i1}^{(2)}=h(x_{i1})$$
 	- We need to be mindful of what data we make available to models.
 	- Can be a major issue depending on context
 		- "Predicting repeat offenders"
-	- 
+
+
+> [!QUOTE]
+> Sometimes no model is better than a broken model
+
 ### Adversarial usage
 - Adversarial noise can be added which breaks some models
 	- Here, imperceptible noise can be added which breaks the model's predictions.![[Screenshot 2025-12-03 at 2.23.03 PM.png]]

@@ -1,6 +1,9 @@
 ---
 tags:
-  - "Machine-Learning/CPSC340"
+  - Machine-Learning/CPSC340
+  - Machine-Learning/Models/Neural-Networks
+aliases:
+  - Neural Network
 ---
 adding Bias variables:
 
