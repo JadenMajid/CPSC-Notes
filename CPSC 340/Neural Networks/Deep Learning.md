@@ -14,6 +14,13 @@ Deep learning sometimes results in a phenomena called [[Double Descent]], that v
 
 $$o_i=h(z_{i1}^{(2)})$$
 $$z_{i1}^{(2)}=h(x_{i1})$$
+- For speech recognition and computer vision and language processing
+	- Non non-deep learning methods have ever given this level of performance.
+	- Deep models continue to improve performance, but at a slowing rate recently
+	- Some overfitting to popular datasets like ImageNet
+		- But the drop is very consistent, so this suggests that it may ![[Screenshot 2025-12-03 at 2.12.01 PM.png]]
+		- 
+
 
 ## Learning
 [[Loss Function|Loss Functions]] in Deep learning tend to be highly [[Non-Convex]], meaning they have many local minima. However, many of these local minima are actually quite good.
