@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 340/Neural Networks/Diffusion Models.md",
+                "file": "Templates/340/340 ML Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diffusion Models"
+              "title": "340 ML Model"
             }
           }
         ]
@@ -203,17 +203,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2d6f28c2c00d32a7",
   "lastOpenFiles": [
-    "CPSC 340/Neural Networks/Auto Encoder.md",
-    "CPSC 340/Neural Networks/Diffusion Models.md",
-    "CPSC 340/Neural Networks/Neural Networks.md",
     "CPSC 340/Neural Networks/Deep Learning.md",
+    "CPSC 340/Models/Supervised Learning Models/Decision Stump.md",
+    "Math/Statistics/Mode.md",
+    "CPSC 340/Models/Loss Functions/Accuracy.md",
+    "CPSC 340/Models/Supervised Learning Models/Decision Trees.md",
+    "CPSC 340/Models/Loss Functions/Error.md",
+    "CPSC 340/Classical ML/Data.md",
+    "CPSC 340/Classical ML/Cross Validation.md",
+    "CPSC 340/Neural Networks/Diffusion Models.md",
+    "CPSC 340/Neural Networks/Auto Encoder.md",
+    "CPSC 340/Neural Networks/Neural Networks.md",
     "Attachments/Screenshot 2025-12-03 at 2.38.44 PM.png",
     "Attachments/Screenshot 2025-12-03 at 2.36.49 PM.png",
     "Attachments/Screenshot 2025-12-03 at 2.34.52 PM.png",
@@ -239,14 +246,7 @@
     "Math/Numbers/Types of numbers.md",
     "Math/Numbers/Rational Numbers.md",
     "Math/Numbers/Irrational Numbers.md",
-    "Math/Numbers/Real Numbers.md",
-    "conflict-files-obsidian-git.md",
-    "CPSC 340/Neural Networks/Vanishing Gradients.md",
     "package-lock.json",
-    "CPSC 340/Models/Training Methods/Gradient Descent.md",
-    "CPSC 340/Models/Training Methods/Stochastic Gradient Descent.md",
-    "CPSC 340/Models/Training Methods/\"Other\" Normal Equations.md",
-    "CPSC 340/Models/Training Methods/Normal Equations.md",
     "CPSC 340/Models/Training Methods",
     "Untitled",
     "CPSC 340/Models/Problems",
