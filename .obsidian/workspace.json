@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/340/340 ML Model.md",
+                "file": "CPSC 310/Code Design/Design Patterns/GUI/Model-View-Presenter(MVP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "340 ML Model"
+              "title": "Model-View-Presenter(MVP)"
             }
           }
         ]
@@ -210,9 +210,11 @@
   },
   "active": "2d6f28c2c00d32a7",
   "lastOpenFiles": [
+    "CPSC 310/Code Design/Design Patterns/GUI/Model View Controller (MVC).md",
+    "CPSC 310/GUI.md",
+    "Templates/340/340 ML Model.md",
     "Attachments/Recording 20251205164126.m4a",
     "CPSC 340/Neural Networks/New Model.md",
-    "Templates/340/340 ML Model.md",
     "CPSC 340/Neural Networks/Deep Learning.md",
     "CPSC 340/Models/Supervised Learning Models/Decision Stump.md",
     "Math/Statistics/Mode.md",
@@ -245,7 +247,6 @@
     "Math/Linear Algebra/Vectors.md",
     "scratch.md",
     "Templates/340/340 ML Problem.md",
-    "Math/Numbers/Types of numbers.md",
     "package-lock.json",
     "CPSC 340/Models/Training Methods",
     "Untitled",
@@ -255,7 +256,6 @@
     "Math/Collections/Untitled",
     "Math/Collections/Lists",
     "Math/Collections",
-    "Math/Calculus",
     "Untitled.canvas"
   ]
 }
