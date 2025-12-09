@@ -53,6 +53,10 @@
   "repelStrength": 17.2916666666667,
   "linkStrength": 1,
   "linkDistance": 30,
+<<<<<<< HEAD
   "scale": 0.24185864696646567,
+=======
+  "scale": 0.29289777630138325,
+>>>>>>> aafda97 (vault backup: 2025-12-09 14:36:30)
   "close": true
 }
