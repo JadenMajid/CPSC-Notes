@@ -1,7 +1,7 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - "#Machine-Learning/Models/Non-Parametric"
+  - machine-learning/CPSC340
+  - "#machine-learning/models/non-parametric"
 aliases:
   - Non-Parametric
 ---

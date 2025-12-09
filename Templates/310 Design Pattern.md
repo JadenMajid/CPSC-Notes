@@ -1,6 +1,6 @@
 ---
 tags:
-  - SoftwareEngineering/CPSC310
+  - software-engineering/CPSC310
 ---
 # Description
 The __ [[Design Patterns|Design Pattern]] is a design pattern where ...

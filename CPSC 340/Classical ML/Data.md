@@ -1,6 +1,6 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
+  - machine-learning/CPSC340
 ---
 # Description
 Data consists of Features(columns) and Examples(rows). As a general rule, we should have 10x more examples than features. We should be careful using [[Summary Statistics]], because they can be misleading.

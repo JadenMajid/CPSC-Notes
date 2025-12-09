@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - software-engineering/CPSC310
 ---
 - Cohesion is the interdependence between modules.
 - Low cohesion means that modules accomplish one task, with minimal relations between modules
@@ -18,6 +18,6 @@ Closely related with [[Coupling]]
 ![[Screenshot 2025-11-20 at 2.57.07 PM.png]]
 
 
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - Machine-Learning/Models/Neural-Networks
+  - machine-learning/CPSC340
+  - machine-learning/models/neural-networks
 aliases:
   - ConvNet
   - CNN

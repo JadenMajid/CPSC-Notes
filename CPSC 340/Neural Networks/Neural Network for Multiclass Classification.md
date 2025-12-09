@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Machine-Learning/CPSC340"
+  - "machine-learning/CPSC340"
 ---
 # Description
 Fully connected neural networks for multiclass classification map an input vector $x \in \mathbb{R}^d$ through one or more hidden layers before producing $k$ logits $o_{ic}$ at the output layer. The final prediction is obtained by taking the argmax of the logits or by normalizing them with [[Softmax]] to obtain class probabilities.

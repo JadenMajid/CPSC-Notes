@@ -1,8 +1,8 @@
 ---
 tags:
-  - Math/Norms
-  - Machine-Learning
-  - Machine-Learning/CPSC340
+  - math/norms
+  - machine-learning
+  - machine-learning/CPSC340
 ---
 Convexity is when any two points within a given area can be joined, without leaving the area. The "opposite" of convexity is [[Concave|Concavity]], however the two are not [[Disjoint]]. For example f(x)=0 is both convex and [[Concave]].
 

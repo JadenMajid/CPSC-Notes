@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - software-engineering/CPSC310
 ---
 All classes should have a single responsibility
 
@@ -28,6 +28,6 @@ public class ReportGenerator {
 	public reportHours(emp: Employee): string;  
 }
 ```
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310

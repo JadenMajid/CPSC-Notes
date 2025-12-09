@@ -1,9 +1,9 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - Machine-Learning/Models/Supervised
-  - "#Machine-Learning/Problems/Classification"
-  - "#Machine-Learning/Models/Non-Parametric"
+  - machine-learning/CPSC340
+  - machine-learning/models/supervised
+  - "#machine-learning/problems/classification"
+  - "#machine-learning/models/non-parametric"
 aliases:
   - KNN
 ---

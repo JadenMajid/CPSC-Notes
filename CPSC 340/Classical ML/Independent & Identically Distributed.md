@@ -2,7 +2,7 @@
 aliases:
   - IID
 tags:
-  - Machine-Learning/CPSC340
+  - machine-learning/CPSC340
 ---
 The IID assumption an assumption for [[Classical Machine Learning]]. We need the IID assumption because it allows us to assume that the data we train on is representative of the true distribution in feature space to prediction space.
 

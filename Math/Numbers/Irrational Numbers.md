@@ -1,4 +1,4 @@
 ---
 tags:
-  - Math/Numbers
+  - math/numbers
 ---

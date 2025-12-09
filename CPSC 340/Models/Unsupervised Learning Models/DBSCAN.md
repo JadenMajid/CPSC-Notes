@@ -1,9 +1,9 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - Machine-Learning/Problems/Clustering
-  - Machine-Learning/Models/Unsupervised
-  - Machine-Learning/Models/Non-Parametric
+  - machine-learning/CPSC340
+  - machine-learning/problems/clustering
+  - machine-learning/models/unsupervised
+  - machine-learning/models/non-parametric
 ---
 # Description
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) groups points that have at least `minPts` neighbors within an $\varepsilon$ radius and marks isolated points as noise. It can recover arbitrarily shaped clusters and automatically discards low-density regions.

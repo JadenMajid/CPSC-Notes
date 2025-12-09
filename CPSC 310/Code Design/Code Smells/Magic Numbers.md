@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - software-engineering/CPSC310
 ---
 Magic numbers are when specific values are used that are not explained or abstracted in code. They make changes difficult because they are hard to interpret, and two usages of the same magic number can be extremely difficult to tell apart
 
@@ -16,6 +16,6 @@ G = 6.6743 × 10 ** -11 # Gravitational constant
 def f(m1,m2,r):
 	return G * m1 * m1 / (r ** 2)
 ```
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
+  - machine-learning/CPSC340
 ---
 # Description
 Algorithm is still [[Stochastic Gradient Descent]], but we have an algorithm that finds the gradient of the loss function automatically. Computing the gradient has the same cost as computing the loss(same [[Big O]]). Closely related with [[Back Propagation]].

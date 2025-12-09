@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Machine-Learning/CPSC340"
+  - "machine-learning/CPSC340"
 ---
 Training is the process in which rules are learned for a given dataset. 
 

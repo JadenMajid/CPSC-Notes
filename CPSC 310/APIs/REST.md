@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - software-engineering/CPSC310
 ---
 - built on HTTP
 - A type of HTTP [[APIs]]
@@ -40,6 +40,6 @@ tags:
 - NOUN
 	- anything
 
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310

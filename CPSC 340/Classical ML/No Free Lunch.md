@@ -1,6 +1,6 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
+  - machine-learning/CPSC340
 ---
 The No Free Lunch Theorem states that there is no universally "best" model. It relates to the idea of a [[Generalization Gap]]. The evaluation of a model is dependent on the data used to test it. A general purpose algorithm may be a "jack of all trades, master of none".
 

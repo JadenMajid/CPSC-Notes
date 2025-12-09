@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math/Statistics
+  - math/statistics
 ---
 # Definition
 $$\text{mode}(\vec v) = \text{most common value in $\vec v$}$$

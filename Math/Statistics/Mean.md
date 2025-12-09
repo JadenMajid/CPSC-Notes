@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math/Statistics
+  - math/statistics
 ---
 # Definition
 $$\mu(v) =\frac{\sum v}{\dim(v)}$$

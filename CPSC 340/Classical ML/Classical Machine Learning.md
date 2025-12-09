@@ -1,6 +1,6 @@
 ---
 tags:
-  - Machine-Learning
+  - machine-learning
 aliases:
   - Traditional Machine Learning
 ---

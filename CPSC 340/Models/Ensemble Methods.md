@@ -1,6 +1,6 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
+  - machine-learning/CPSC340
 aliases:
   - Ensemble
 ---

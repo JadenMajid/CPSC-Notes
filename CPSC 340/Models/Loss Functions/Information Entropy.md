@@ -1,4 +1,4 @@
 ---
 tags:
-  - "Machine-Learning/CPSC340"
+  - "machine-learning/CPSC340"
 ---

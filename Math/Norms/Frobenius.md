@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math/Norms
+  - math/norms
 aliases:
   - Frobenius Norm
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - software-engineering/CPSC310
 ---
 [[GUI]] design patterns are patterns that apply to the graphical interfaces of applications
 The design patterns still apply, we want to minimize [[Coupling]] and maximize [[Cohesion]]
@@ -17,6 +17,6 @@ GUIs can be thin, or thick. Neither is good nor bad, just different and for diff
 	- [[Model-View-Presenter(MVP)]]
 	- [[Model-View-ViewModel(MVVM)]]
 	- [[Component Based]]
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Coding/Linux/Commands
+  - coding/linux/commands
 ---
 
 | Property Name | Function |

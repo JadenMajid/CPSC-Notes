@@ -1,10 +1,10 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - "#Machine-Learning/Models/Non-Parametric"
-  - "#Machine-Learning/Models/Parametric"
-  - "#Machine-Learning/Models/Supervised"
-  - "#Machine-Learning/Problems/Classification"
+  - machine-learning/CPSC340
+  - "#machine-learning/models/non-parametric"
+  - "#machine-learning/models/Parametric"
+  - "#machine-learning/models/supervised"
+  - "#machine-learning/problems/classification"
 ---
 # Description
 Decision Trees are a type of [[Supervised Learning]] where simple rules for datasets are learned.

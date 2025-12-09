@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - "software-engineering/CPSC310"
 ---
 The unconstrained nature of software makes it easy to make decisions that will end up being ‘bad’ in the long run.
 

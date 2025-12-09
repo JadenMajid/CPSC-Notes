@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Machine-Learning/CPSC340"
+  - "machine-learning/CPSC340"
 ---
 # Description
 Regularization is a way to penalize model complexity by inducing complexity penalties

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Databases/CPSC304"
+  - "databases/CPSC304"
 ---
 IsA indicates an [[Entity]] that extends some other entity
 

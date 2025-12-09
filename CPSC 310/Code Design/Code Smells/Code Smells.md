@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - software-engineering/CPSC310
 ---
 Code smells are general ideas that code can exhibit that point to some underlying design issue.
 Code smells may not need to be immediately solved, but are indicative of technical debt that will need to be solved at some future point
@@ -16,11 +16,11 @@ Code smells may not need to be immediately solved, but are indicative of technic
 	- [[Divergent Changes]]
 	- [[Shotgun Surgery]]
 <<<<<<< HEAD
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
 =======
 
 References
 - [Refactoring Guru](https://refactoring.guru/refactoring/smells)
 >>>>>>> 77196c9 (vault backup: 2025-11-21 14:59:56{{time}})
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310

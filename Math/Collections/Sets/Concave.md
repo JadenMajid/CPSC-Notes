@@ -1,5 +1,5 @@
 ---
 tags:
-  - Math/Sets
+  - math/sets
 ---
 

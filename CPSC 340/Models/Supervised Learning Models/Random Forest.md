@@ -1,10 +1,10 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - Machine-Learning/Models/Parametric
-  - Machine-Learning/Models/Non-Parametric
-  - Machine-Learning/Models/Supervised
-  - Machine-Learning/Problems/Classification
+  - machine-learning/CPSC340
+  - machine-learning/models/Parametric
+  - machine-learning/models/non-parametric
+  - machine-learning/models/supervised
+  - machine-learning/problems/classification
 ---
 #### Time
 Each bootstrapped tree costs roughly $$O(n\,d\,t)$$ when scanning thresholds or $$O(n\,d\,\log n)$$ when maintaining sorted feature lists, so the full forest is $$O(k\,n\,d\,t)$$ (or $$O(k\,n\,d\,\log n)$$ in the sorted variant).

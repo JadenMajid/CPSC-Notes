@@ -1,6 +1,6 @@
 ---
 tags:
-  - Coding
+  - coding
 ---
 An interface is a contract that specifies what operations a type must provide without specifying how those operations are implemented.
 

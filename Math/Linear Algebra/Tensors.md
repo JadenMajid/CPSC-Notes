@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math/Linear-Algebra
+  - math/linear-algebra
 aliases:
   - Tensors
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Machine-Learning/Models/Unsupervised
+  - machine-learning/models/unsupervised
 aliases:
   - Supervised
 ---

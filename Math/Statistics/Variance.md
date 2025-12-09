@@ -1,5 +1,5 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - Math/Statistics
+  - machine-learning/CPSC340
+  - math/statistics
 ---

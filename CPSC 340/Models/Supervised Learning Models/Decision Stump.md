@@ -1,9 +1,9 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - "#Machine-Learning/Models/Supervised"
-  - "#Machine-Learning/Models/Parametric"
-  - "#Machine-Learning/Problems/Classification"
+  - machine-learning/CPSC340
+  - "#machine-learning/models/supervised"
+  - "#machine-learning/models/Parametric"
+  - "#machine-learning/problems/classification"
 ---
 # Description
 Decision Stumps are equivalent to [[Decision Trees]] with a depth of 1. One rule is learned on a dataset, and predictions are made depending on that rule. 

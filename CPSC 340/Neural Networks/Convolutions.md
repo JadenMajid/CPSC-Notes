@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#Machine-Learning/Models/Neural-Networks"
+  - "#machine-learning/models/neural-networks"
 aliases:
   - Convolution
 ---

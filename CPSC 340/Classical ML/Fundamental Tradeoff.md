@@ -1,7 +1,7 @@
 ---
 tags:
-  - Machine-Learning/CPSC340
-  - Math/Statistics
+  - machine-learning/CPSC340
+  - math/statistics
 ---
 The fundamental tradeoff is an idea from [[Classical Machine Learning]], that states that there are 3 sources of error:
 - Irreducible Error

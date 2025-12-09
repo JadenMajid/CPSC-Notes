@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math
+  - math
 ---
 # Definition
 $$$$

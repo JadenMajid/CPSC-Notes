@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Databases/CPSC304"
+  - "databases/CPSC304"
 ---
 Here are some relations that exist in a database for a symphony.  
 [[Datalog]]
@@ -46,7 +46,7 @@ show.
 Ans4(s):- Musician(i, _, "violin", _, _), PerformedIn(i, ) ?????
 
 I really don't think we covered this in class...
-#Databases/CPSC304
-#Databases/CPSC304
-#Databases/CPSC304
-#Databases/CPSC304
+#databases/CPSC304
+#databases/CPSC304
+#databases/CPSC304
+#databases/CPSC304

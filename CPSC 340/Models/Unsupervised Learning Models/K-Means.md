@@ -1,8 +1,8 @@
 ---
 tags:
-  - Machine-Learning/Models/Unsupervised
-  - "#Machine-Learning/Problems/Clustering"
-  - Machine-Learning/Models/Parametric
+  - machine-learning/models/unsupervised
+  - "#machine-learning/problems/clustering"
+  - machine-learning/models/Parametric
 aliases:
   - K-Medians
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Machine-Learning/CPSC340"
+  - "machine-learning/CPSC340"
 ---
 loss functions are scoring functions that determine the error of a model
 

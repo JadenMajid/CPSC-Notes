@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Databases/CPSC304"
+  - "databases/CPSC304"
 ---
 ER diagrams are a way to represent Relational [[Database|Databases]].
 
@@ -15,5 +15,5 @@ ER diagrams are a way to represent Relational [[Database|Databases]].
 - Entities can participate in an [[IsA]], shown with a triangle, and participation can be [[Total]], [[Partial]], [[Disjoint]] or [[Overlapping]]
 - 
 ![[Pasted image 20251120191739.png]]
-#Databases/CPSC304
-#Databases/CPSC304
+#databases/CPSC304
+#databases/CPSC304

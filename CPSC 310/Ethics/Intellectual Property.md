@@ -1,6 +1,6 @@
 ---
 tags:
-  - SoftwareEngineering/CPSC310
+  - software-engineering/CPSC310
 aliases:
   - IP
 ---
@@ -17,4 +17,11 @@ All technology companies consume and generate IP in some way or another.
 	- in Canada, copyright lasts the lifetime of the author+50 years, then becomes public domain
 	- contrasted by [[Copyleft]]
 - Patents
-	- patents are like trademarks in that they must be registered, but they protect the specific implementation 
+	- patents are like trademarks in that they must be registered, but they protect the specific implementation of an invention. Patents must be proven to be non-obvious and unique
+- Licenses
+	- licenses clarify how code can be used and whether it can be modified
+	- common types
+		- GPL
+		- LGPL
+		- MPL
+		- CC-by

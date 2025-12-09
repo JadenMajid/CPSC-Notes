@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math/Statistics
+  - math/statistics
 ---
 # Description
 - Summary statistics are single values that summarize over a whole dataset

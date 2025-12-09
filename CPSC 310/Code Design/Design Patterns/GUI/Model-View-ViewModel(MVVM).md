@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - "software-engineering/CPSC310"
 ---
 MVVM is similar to [[Model-View-Presenter(MVP)]], however decreases the complexity of the connection between view and viewmodel, by introducing an automatic binding between the view and viewmodel 
 

@@ -2,7 +2,7 @@
 aliases:
   - CV
 tags:
-  - Machine-Learning/CPSC340
+  - machine-learning/CPSC340
 ---
 # Description
 Cross-validation is a method used in machine learning and statistics to evaluate how well a model [[Generalization Gap|generalizes]] to unseen data. It’s a way to get a more reliable estimate of model performance than just splitting your data into a single [[Training]] set and [[Testing]] set.

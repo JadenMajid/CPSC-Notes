@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - "software-engineering/CPSC310"
 ---
 # Description
 The Strategy [[Design Patterns|Design Pattern]] is a design pattern that varies behaviour of our system by [[Abstraction|Abstracting]] the specifics of behaviour into a container that executes the desired behaviour. 

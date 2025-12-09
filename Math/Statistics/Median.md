@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math/Statistics
+  - math/statistics
 ---
 # Definition
 If $\dim(\vec v)$ is even

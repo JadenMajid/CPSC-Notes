@@ -1,6 +1,6 @@
 ---
 tags:
-  - Math/Sets
+  - math/sets
 ---
 # Description
 Sets are a [[Collection]] of distinct objects with no repetitions. Sets are generally unordered, but can be ordered. Ordered sets are similar to [[Lists]], but do not allow repetition.

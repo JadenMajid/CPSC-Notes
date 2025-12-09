@@ -2,7 +2,7 @@
 aliases:
   - Norm
 tags:
-  - Math/Norms
+  - math/norms
 ---
 [[Vectors|Vector]] Norms
 - [[L0]]

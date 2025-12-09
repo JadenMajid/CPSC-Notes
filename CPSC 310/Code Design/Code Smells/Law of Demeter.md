@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - "software-engineering/CPSC310"
 ---
 The law of Demeter states a method should only call methods from
 - itself
@@ -13,6 +13,3 @@ It leads to the avoidance of method chaining like:
 ```python
 customer.getWallet().getMoney()
 ```
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310

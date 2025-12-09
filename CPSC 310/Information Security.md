@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - "software-engineering/CPSC310"
 ---
 - Understanding
 	- What does it mean for a system to be secure?

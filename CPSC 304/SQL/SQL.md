@@ -1,6 +1,6 @@
 ---
 tags:
-  - "Databases/CPSC304"
+  - "databases/CPSC304"
 ---
 # What is SQL?
 
@@ -20,8 +20,8 @@ tags:
 - SQL can create [[views]] in a [[Database]]
 - SQL can set permissions on [[Tables]], [[procedures]], and [[views]]
 <<<<<<< HEAD
-#Databases/CPSC304
-#Databases/CPSC304
+#databases/CPSC304
+#databases/CPSC304
 =======
 >>>>>>> 77196c9 (vault backup: 2025-11-21 14:59:56{{time}})
-#Databases/CPSC304
+#databases/CPSC304

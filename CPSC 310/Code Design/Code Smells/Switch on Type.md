@@ -1,6 +1,6 @@
 ---
 tags:
-  - "SoftwareEngineering/CPSC310"
+  - software-engineering/CPSC310
 ---
 Switches depending on the type of an input object are a type of [[Code Smells]]. They're an indicator that a method is doing too much, and indicates too much [[Coupling]] between a encapsulation and subtypes in a system. 
 
@@ -59,6 +59,6 @@ class NorwegianBlueParrot extends Bird {
 }
 
 ```
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
-#SoftwareEngineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
+#software-engineering/CPSC310
