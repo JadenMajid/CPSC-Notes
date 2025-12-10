@@ -8,10 +8,3 @@ said differently, subclasses can only expand functionality given by the supercla
 
 Preconditions: Must be unaffected or widened
 Postconditions: must be unaffected or narrowed
-
-
-
-
-#software-engineering/CPSC310
-#software-engineering/CPSC310
-#software-engineering/CPSC310
