@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 310/Code Design/Code Smells/Code Smells.md",
+                "file": "2025-12-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code Smells"
+              "title": "2025-12-09"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPSC 310/Code Design/Code Smells/Code Smells.md",
+                "file": "2025-12-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code Smells"
+              "title": "Outline of 2025-12-09"
             }
           }
         ],
@@ -198,10 +198,11 @@
   },
   "active": "ba19b7d47bb71b9f",
   "lastOpenFiles": [
+    "CPSC 310/Code Design/Code Smells/Code Smells.md",
+    "2025-12-09.md",
     "CPSC 310/Code Design/Code Smells/Comments.md",
     "CPSC 310/Code Design/Code Smells/Divergent Changes.md",
     "CPSC 310/Code Design/Code Smells/Long Methods.md",
-    "CPSC 310/Code Design/Code Smells/Code Smells.md",
     "CPSC 310/Code Design/Design Principles/Coupling.md",
     "CPSC 310/Code Design/Design Principles/Cohesion.md",
     "CPSC 310/Code Design/Design Principles/Abstraction.md",
@@ -229,7 +230,6 @@
     "CPSC 310/Security/DREAD_BASE_1618913.md",
     "CPSC 310/Security/DREAD_BACKUP_1618913.md",
     "CPSC 310/GUI.md.orig",
-    "CPSC 310/GUI_REMOTE_1618913.md",
     "CPSC 340/Models/Neural Networks",
     "CPSC 310/Security",
     "CPSC 340/Neural Networks/The XOR Problem.md.old",
