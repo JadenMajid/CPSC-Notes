@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 310/Code Design/Design Principles/Coupling.md",
+                "file": "CPSC 310/Code Design/Code Smells/Code Smells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coupling"
+              "title": "Code Smells"
             }
           }
         ]
@@ -145,6 +145,35 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6362c5f0587565bb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b68155115974d853",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPSC 310/Code Design/Code Smells/Code Smells.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Code Smells"
+            }
           }
         ],
         "currentTab": 3
@@ -169,13 +198,16 @@
   },
   "active": "ba19b7d47bb71b9f",
   "lastOpenFiles": [
+    "CPSC 310/Code Design/Code Smells/Comments.md",
+    "CPSC 310/Code Design/Code Smells/Divergent Changes.md",
+    "CPSC 310/Code Design/Code Smells/Long Methods.md",
+    "CPSC 310/Code Design/Code Smells/Code Smells.md",
+    "CPSC 310/Code Design/Design Principles/Coupling.md",
     "CPSC 310/Code Design/Design Principles/Cohesion.md",
     "CPSC 310/Code Design/Design Principles/Abstraction.md",
     "CPSC 310/Process/INVEST.md",
     "CPSC 310/Security/STRIDE.md",
-    "CPSC 310/Code Design/Code Smells/Comments.md",
     "CPSC 310/Code Design/Code Smells/Untitled.base",
-    "CPSC 310/Code Design/Code Smells/Code Smells.md",
     "CPSC 340/Neural Networks/Neural Networks.md.orig",
     "CPSC 340/Neural Networks/Neural Networks_REMOTE_1618913.md",
     "CPSC 340/Neural Networks/Neural Networks_LOCAL_1618913.md",
@@ -198,9 +230,6 @@
     "CPSC 310/Security/DREAD_BACKUP_1618913.md",
     "CPSC 310/GUI.md.orig",
     "CPSC 310/GUI_REMOTE_1618913.md",
-    "CPSC 310/GUI_LOCAL_1618913.md",
-    "CPSC 310/GUI_BASE_1618913.md",
-    "CPSC 310/GUI_BACKUP_1618913.md",
     "CPSC 340/Models/Neural Networks",
     "CPSC 310/Security",
     "CPSC 340/Neural Networks/The XOR Problem.md.old",
