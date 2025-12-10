@@ -19,7 +19,3 @@ In order to abstract, we can use [[Decomposition]] to reduce apparent complexity
 
 
 Abstraction is the core principle of [[OOP]]
-
-#software-engineering/CPSC310
-#software-engineering/CPSC310
-#software-engineering/CPSC310

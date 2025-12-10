@@ -10,7 +10,3 @@ Closely related with [[Cohesion]]
 ![[Screenshot 2025-11-20 at 2.56.03 PM.png]]
 
 ![[Screenshot 2025-11-20 at 2.56.24 PM.png]]
-
-#software-engineering/CPSC310
-#software-engineering/CPSC310
-#software-engineering/CPSC310
