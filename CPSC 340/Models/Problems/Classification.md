@@ -18,7 +18,7 @@ which mirrors [[logistic regression]] with learned features.
 - Email spam vs. ham, medical diagnosis (disease vs. healthy), fraud detection.
 
 ## Common Algorithms
-- [[Logistic Regression]], linear / kernel SVMs, [[Decision Trees]], [[Random Forest]], [[Neural Networks]].
+- [[Logistic Regression]], linear / kernel SVMs, [[CPSC 340/Models/Supervised Learning Models/Decision Trees]], [[Random Forest]], [[Neural Networks]].
 
 ## Evaluation
 - Metrics: accuracy, precision/recall, F1, ROC-AUC, PR-AUC depending on imbalance.

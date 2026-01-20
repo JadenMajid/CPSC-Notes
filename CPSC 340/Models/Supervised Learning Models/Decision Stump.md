@@ -6,7 +6,7 @@ tags:
   - "#machine-learning/problems/classification"
 ---
 # Description
-Decision Stumps are equivalent to [[Decision Trees]] with a depth of 1. One rule is learned on a dataset, and predictions are made depending on that rule. 
+Decision Stumps are equivalent to [[CPSC 340/Models/Supervised Learning Models/Decision Trees]] with a depth of 1. One rule is learned on a dataset, and predictions are made depending on that rule. 
 ![[Pasted image 20251122133817.png]]
 ## Hyper Parameters
 - Scoring function

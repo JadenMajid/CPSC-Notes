@@ -30,7 +30,9 @@ Apply found rules to input data, outputting $\hat{y}$
 - $t$ depth
 - Sorting each feature once per node lets us evaluate candidate thresholds in linear time after an initial $$O(n \log n)$$ sort.
 ### Training
-Time (typical implementation): $$O(n\,d\,t)$$ when scanning unsorted thresholds or $$O(d\,n\log n)$$ when maintaining sorted feature lists at every split.  
+Time (typical implementation): $$O(n\,d\,t)$$ when scanning unsorted thresholds or 
+
+$$O(d\,n\log n)$$ when maintaining sorted feature lists at every split.  
 Space: $$O(n + 2^t)$$ to hold the data subsets (or pointers) plus the tree nodes.
 ### Prediction
 Per example: $$O(t)$$ comparisons along the path from root to leaf, so $$O(m\,t)$$ for $m$ predictions.  

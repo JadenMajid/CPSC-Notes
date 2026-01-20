@@ -16,6 +16,11 @@ Naive Bayes is commonly implemented with [[Bag of Words]], a way to convert text
 
 NB can be parametric, or non-parametric depending on how the dimensionality of the dataset is handled. If an infinite number of examples have some finite dimensionality to their features, then it is [[Parametric Models|Parametric]]. If an infinite dataset results in infinite dimensionality in feature space, then it is [[Non-Parametric Models|Non-Parametric]]. 
 
+We can add a cost table that we optimize on, rather than raw probabilities(if we want to weight the cost of misclassification to be different than uniform)
+![[Screenshot 2026-01-12 at 16.58.36.png]]
+
+Naive Bayes is similar to product of bernoullis, except we tighten assumption to "dims of X are indep given y class"
+
 ### Bayes Poisoning
 Bayes poisoning is when a data point has not been seen with a given class, resulting in a $P(x_{ij} = c \mid y_i = \text{class})=0$. This 0 propagates across the entire chain of probabilities, resulting in an output prediction of % for the class.
 ### Laplace Smoothing
