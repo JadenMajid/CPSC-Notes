@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 340/Neural Networks/Convolutional Neural Networks.md",
+                "file": "CPSC 418/Shared Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convolutional Neural Networks"
+              "title": "Shared Memory"
             }
           }
         ],
@@ -351,6 +351,9 @@
   },
   "active": "edc3690bfdc8aa82",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2026-01-21 at 15.11.41.png",
+    "CPSC 340/Neural Networks/Convolutional Neural Networks.md",
+    "CPSC 418/Shared Memory.md",
     "Templates/Course Syllabus.md",
     "Personal/Chess Tournament/Overview.md",
     "Personal/Chess Tournament",
@@ -394,9 +397,6 @@
     "Attachments/Screenshot 2026-01-14 at 16.32.26.png",
     "Attachments/Screenshot 2026-01-14 at 16.21.38.png",
     "ASTR 333/Syllabus.md",
-    "2025-12-09.md",
-    "conflict-files-obsidian-git.md",
-    "CPSC 340/Neural Networks/Convolutional Neural Networks.md",
     "Untitled.canvas"
   ]
 }
