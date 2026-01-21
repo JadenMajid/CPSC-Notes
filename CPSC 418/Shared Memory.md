@@ -16,6 +16,7 @@ Does either cache change contents when the other CPU does a write?
 caches communicate so that multiple CPUs can have read only copies of data
 #### MESI
 - Cache coherence protocol
+- Guarantees [[Sequential Consistency]]
 - States
 	- Modified
 		- This cache has the only copy of this line and it differs from main memory

@@ -1,0 +1,1 @@
+All memory reads and writes from all processors can be arranged into a single, sequential order, such that global ordering of reads and writes is preserved.
