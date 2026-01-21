@@ -26,6 +26,7 @@ caches communicate so that multiple CPUs can have read only copies of data
 	- Invalid
 		- This cache does not have a valid copy of the line
 ![[Screenshot 2026-01-21 at 15.21.12.png]]
+### Snooping and Directories
 #### Snooping
 Each cache has two copies for tags
 - Personal
@@ -37,3 +38,13 @@ Each cache has two copies for tags
 	- bit-vector that record which processors have copies
 	- a bit to indicate that one processor has a copy and it may be modified
 	- ordering
+#### Directories
+Main memory keeps data and a bit vector that keeps track of which processor has what memory
+- memory unit sends targeted messages to and from cores
+- ordering of messages is enforced, so memory stays consistent
+
+#### Snooping vs Directories
+neither scale well to massive amounts of processors
+- snooping is better for small numbers of processors
+- directory is better for larger numbers
+	- Scales better, but not for really large numbers(ie:GPUs)
