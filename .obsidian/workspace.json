@@ -160,65 +160,9 @@
               "icon": "lucide-file",
               "title": "Convolutional Neural Networks"
             }
-          },
-          {
-            "id": "0f4153d2181e9db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC 440/Binary Density Estimation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary Density Estimation"
-            }
-          },
-          {
-            "id": "2f71bdde2ebfdd31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC 440/Multivariate Binary Density Estimation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multivariate Binary Density Estimation"
-            }
-          },
-          {
-            "id": "1b3ab007449970a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC 440/Discriminative Classifiers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Discriminative Classifiers"
-            }
-          },
-          {
-            "id": "1dc99c8677def8ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPSC 440/Feature Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feature Engineering"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -405,16 +349,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c28ddcf125628594",
+  "active": "edc3690bfdc8aa82",
   "lastOpenFiles": [
-    "CPSC 440/Feature Engineering.md",
-    "conflict-files-obsidian-git.md",
-    "Attachments/Screenshot 2026-01-19 at 17.05.21.png",
-    "CPSC 440/Discriminative Classifiers.md",
-    "Attachments/Screenshot 2026-01-19 at 16.08.19.png",
+    "Templates/Course Syllabus.md",
+    "Personal/Chess Tournament/Overview.md",
+    "Personal/Chess Tournament",
+    "Personal",
+    "Math/Algebra/Commutativity.md",
+    "Math/Algebra/Associativity.md",
+    "Math/Algebra",
+    "FRST 304/Syllabus.md",
+    "FRST 304/Photo essay rubric_FRST 304_2025.pdf",
+    "FRST 304",
+    "CPSC 440/Syllabus.md",
     "CPSC 440/Multivariate Binary Density Estimation.md",
-    "CPSC 440/Binary Density Estimation.md",
+    "CPSC 440/Feature Engineering.md",
+    "CPSC 440/Discriminative Classifiers.md",
     "CPSC 440/Categorical Distribution.md",
+    "CPSC 440/Binary Density Estimation.md",
+    "CPSC 440",
+    "CPSC 418/Syllabus.md",
+    "CPSC 418/Parallel Programming.md",
+    "CPSC 418/Iterator Operations.md",
+    "CPSC 418/Functional programming.md",
+    "CPSC 418/Erlang.md",
+    "CPSC 418",
+    "CPSC 340/Neural Networks/Neural Networks.md.orig",
+    "CPSC 340/Models/Neural Networks/Deep Learning.md.orig",
+    "CPSC 340/Models/Neural Networks/Deep Learning.md",
+    "CPSC 340/Models/Neural Networks",
+    "CPSC 330/Syllabus.md",
+    "CPSC 330/Decision Trees.md",
+    "CPSC 310/Security/STRIDE.md",
+    "CPSC 310/Security/DREAD.md",
+    "CPSC 310/Ethics/Intellectual Property.md",
+    "Attachments/Screenshot 2026-01-19 at 17.05.21.png",
+    "Attachments/Screenshot 2026-01-19 at 16.08.19.png",
     "Attachments/Screenshot 2026-01-14 at 17.09.07.png",
     "Attachments/Screenshot 2026-01-14 at 16.59.25.png",
     "Attachments/Screenshot 2026-01-14 at 16.55.43.png",
@@ -423,35 +393,10 @@
     "Attachments/Screenshot 2026-01-14 at 16.34.29.png",
     "Attachments/Screenshot 2026-01-14 at 16.32.26.png",
     "Attachments/Screenshot 2026-01-14 at 16.21.38.png",
-    "CPSC 440/Syllabus.md",
-    "CPSC 418/Iterator Operations.md",
-    "Math/Algebra/Commutativity.md",
-    "Math/Algebra/Associativity.md",
-    "Personal/Chess Tournament/Overview.md",
-    "Math/Algebra",
-    "CPSC 340/Neural Networks/Convolutional Neural Networks.md",
-    "Personal/Chess Tournament",
-    "Personal",
-    "CPSC 340/Models/Supervised Learning Models/Naive Bayes.md",
-    "CPSC 418/Parallel Programming.md",
-    "CPSC 418/Erlang.md",
-    "CPSC 418/Functional programming.md",
-    "CPSC 418/Syllabus.md",
-    "CPSC 330/Decision Trees.md",
-    "CPSC 330/Syllabus.md",
     "ASTR 333/Syllabus.md",
-    "Templates/Course Syllabus.md",
-    "FRST 304/Syllabus.md",
-    "FRST 304/Photo essay rubric_FRST 304_2025.pdf",
-    "ASTR 333",
-    "FRST 304",
-    "CPSC 418",
-    "CPSC 440",
-    "CPSC 330",
-    "CPSC 340/Models/Supervised Learning Models/Decision Stump.md",
-    "CPSC 340/Models/Supervised Learning Models/Decision Trees.md",
-    "CPSC 340/Classical ML/Cross Validation.md",
-    "CPSC 340/Neural Networks/Neural Networks.md.orig",
+    "2025-12-09.md",
+    "conflict-files-obsidian-git.md",
+    "CPSC 340/Neural Networks/Convolutional Neural Networks.md",
     "Untitled.canvas"
   ]
 }
