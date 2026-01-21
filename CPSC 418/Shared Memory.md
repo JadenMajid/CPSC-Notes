@@ -25,6 +25,15 @@ caches communicate so that multiple CPUs can have read only copies of data
 		- Multiple caches have this copy and all match main memory
 	- Invalid
 		- This cache does not have a valid copy of the line
-
-
-
+![[Screenshot 2026-01-21 at 15.21.12.png]]
+#### Snooping
+Each cache has two copies for tags
+- Personal
+	- updated with MESI protocol when this CPU reads or writes a line in this cache
+- Bus
+	- updated with MESI protocol when other CPUs read or write a line in this cache
+- Main memory 
+	- keeps data 
+	- bit-vector that record which processors have copies
+	- a bit to indicate that one processor has a copy and it may be modified
+	- ordering
