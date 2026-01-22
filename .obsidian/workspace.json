@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 418/Sequential Consistency.md",
+                "file": "CPSC 440/Gaussians and Bayesian Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequential Consistency"
+              "title": "Gaussians and Bayesian Learning"
             }
           }
         ],
@@ -351,8 +351,9 @@
   },
   "active": "edc3690bfdc8aa82",
   "lastOpenFiles": [
-    "CPSC 418/Shared Memory.md",
     "CPSC 418/Sequential Consistency.md",
+    "CPSC 440/Gaussians and Bayesian Learning.md",
+    "CPSC 418/Shared Memory.md",
     "Attachments/Screenshot 2026-01-21 at 15.21.12.png",
     "Attachments/Screenshot 2026-01-21 at 15.20.58.png",
     "Attachments/Screenshot 2026-01-21 at 15.11.41.png",
@@ -396,7 +397,6 @@
     "Attachments/Screenshot 2026-01-14 at 16.55.43.png",
     "Attachments/Screenshot 2026-01-14 at 16.54.52.png",
     "Attachments/Screenshot 2026-01-14 at 16.46.52.png",
-    "ASTR 333/Syllabus.md",
     "Untitled.canvas"
   ]
 }
