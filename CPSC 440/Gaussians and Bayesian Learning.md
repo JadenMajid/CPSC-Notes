@@ -43,3 +43,5 @@ MAP allows us to account for uncertainty in our model $w$
 $$Var[y|X]=\sigma^2\not\propto n$$
 
 MAP commits to a single best $w$, 
+![[Screenshot 2026-01-21 at 17.01.48.png]]
+
