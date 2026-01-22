@@ -38,3 +38,8 @@ we want $f(x)$ for
 ### MLE for univariate Gaussians
 ![[Screenshot 2026-01-21 at 16.32.46.png]]
 
+## Predictive Uncertainty
+MAP allows us to account for uncertainty in our model $w$
+$$Var[y|X]=\sigma^2\not\propto n$$
+
+MAP commits to a single best $w$, 
