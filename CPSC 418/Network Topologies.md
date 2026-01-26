@@ -18,7 +18,8 @@ generally pretty cheap devices
 
 ## Mesh
 ![[Screenshot 2026-01-26 at 15.06.13.png]]
-
+- Good for nearest neighbour communication but more limited for non local communication
+- 
 ## Toroid
 ![[Screenshot 2026-01-26 at 15.05.38.png]]
 
