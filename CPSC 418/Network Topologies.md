@@ -16,3 +16,15 @@ generally pretty cheap devices
 ## Star Networks
 ![[Screenshot 2026-01-23 at 15.12.34.png]]
 
+## Mesh
+![[Screenshot 2026-01-26 at 15.06.13.png]]
+
+## Toroid
+![[Screenshot 2026-01-26 at 15.05.38.png]]
+
+## Hypercube
+![[Screenshot 2026-01-26 at 15.05.23.png]]
+## Trees
+![[Screenshot 2026-01-26 at 15.07.31.png]]
+## Fat-Trees
+![[Screenshot 2026-01-26 at 15.07.10.png]]
