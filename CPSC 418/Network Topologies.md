@@ -19,12 +19,17 @@ generally pretty cheap devices
 ## Mesh
 ![[Screenshot 2026-01-26 at 15.06.13.png]]
 - Good for nearest neighbour communication but more limited for non local communication
-- 
+![[Screenshot 2026-01-26 at 15.24.47.png]]
 ## Toroid
 ![[Screenshot 2026-01-26 at 15.05.38.png]]
 
 ## Hypercube
 ![[Screenshot 2026-01-26 at 15.05.23.png]]
+- Need insane amount of connections, can be infeasible for larger systems
+- Works well for small $d$ networks
+![[Screenshot 2026-01-26 at 15.24.35.png]]
+![[Screenshot 2026-01-26 at 15.27.53.png]]
+
 ## Trees
 ![[Screenshot 2026-01-26 at 15.07.31.png]]
 ## Fat-Trees
