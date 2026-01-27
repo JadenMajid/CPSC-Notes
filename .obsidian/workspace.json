@@ -51,16 +51,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 418/Network Topologies.md",
+                "file": "CPSC 440/Gaussians and Bayesian Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Topologies"
+              "title": "Gaussians and Bayesian Learning"
+            }
+          },
+          {
+            "id": "979bde024526e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 440/Multivariate Gaussians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multivariate Gaussians"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,13 +261,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36b90812c6357f61",
+  "active": "979bde024526e7d7",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2026-01-26 at 16.25.17.png",
+    "Attachments/Screenshot 2026-01-26 at 16.16.56.png",
+    "Attachments/Screenshot 2026-01-26 at 16.16.28.png",
+    "Attachments/Screenshot 2026-01-26 at 16.13.38.png",
+    "CPSC 440/Gaussians and Bayesian Learning.md",
+    "CPSC 440/Multivariate Gaussians.md",
+    "Untitled",
+    "CPSC 418/Network Topologies.md",
     "Attachments/Screenshot 2026-01-26 at 15.47.35.png",
     "CPSC 418/Iterator Operations.md",
     "CPSC 418/Functional programming.md",
     "CPSC 418/Parallel Programming.md",
-    "CPSC 418/Network Topologies.md",
     "Attachments/Screenshot 2026-01-26 at 15.27.53.png",
     "Attachments/Screenshot 2026-01-26 at 15.24.47.png",
     "Attachments/Screenshot 2026-01-26 at 15.24.35.png",
@@ -263,11 +284,6 @@
     "Attachments/Screenshot 2026-01-26 at 15.14.24.png",
     "Attachments/Screenshot 2026-01-26 at 15.07.31.png",
     "Attachments/Screenshot 2026-01-26 at 15.07.10.png",
-    "Attachments/Screenshot 2026-01-26 at 15.06.13.png",
-    "Attachments/Screenshot 2026-01-26 at 15.05.38.png",
-    "Attachments/Screenshot 2026-01-26 at 15.05.23.png",
-    "Attachments/Screenshot 2026-01-23 at 15.12.58.png",
-    "CPSC 440/Gaussians and Bayesian Learning.md",
     "CPSC 440/Feature Engineering.md",
     "CPSC 440/Discriminative Classifiers.md",
     "CPSC 340/Models/Supervised Learning Models/Decision Stump.md",
@@ -290,11 +306,9 @@
     "FRST 304/Syllabus.md",
     "FRST 304/Photo essay rubric_FRST 304_2025.pdf",
     "FRST 304",
-    "CPSC 440/Multivariate Binary Density Estimation.md",
     "CPSC 440",
     "CPSC 418",
     "CPSC 340/Neural Networks/Neural Networks.md.orig",
-    "CPSC 340/Models/Neural Networks/Deep Learning.md.orig",
     "Untitled.canvas"
   ]
 }
