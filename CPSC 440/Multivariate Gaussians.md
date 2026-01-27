@@ -9,4 +9,7 @@ Gaussians are degenerate if $\Sigma$ is not invertible
 ![[Screenshot 2026-01-26 at 16.25.17.png]]
 - Degeneracy is possible to all linear subspaces of a dimension(other than $d$)
 ![[Screenshot 2026-01-26 at 16.33.22.png]]
+![[Screenshot 2026-01-26 at 16.53.08.png]]
+- $x,z$ are normal in their univariate dists, but not normal in $xz$ bivariate space
+![[Screenshot 2026-01-26 at 16.52.57.png]]
 
