@@ -32,7 +32,6 @@
 ### GPUs
 ![[Screenshot 2026-01-28 at 15.30.31.png]]
 
-### Hyperscalars
+### Hyperscalers/Data Centres
 - 1.5% of global electricity consumption, growing at 12% per year
 	- 4% in the US, expected to grow to 9-12% by 2030
-	- 
