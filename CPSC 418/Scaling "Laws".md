@@ -1,5 +1,4 @@
 - Scaling in CS isn't really determined by laws, but laws described useful trends.
-
 ## Moore's Law
 - The economics of scaling
 - has been slow for the last ~10-15 years 
