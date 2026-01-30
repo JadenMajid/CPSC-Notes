@@ -40,4 +40,4 @@ generally pretty cheap devices
 
 ## Dragonfly Networks
 - easy to build high radix crossbar routers
-- 
+- optimized for random traffic
