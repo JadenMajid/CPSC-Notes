@@ -37,3 +37,7 @@ generally pretty cheap devices
 ![[Screenshot 2026-01-26 at 15.07.31.png]]
 ## Fat-Trees
 ![[Screenshot 2026-01-26 at 15.07.10.png]]
+
+## Dragonfly Networks
+- easy to build high radix crossbar routers
+- 

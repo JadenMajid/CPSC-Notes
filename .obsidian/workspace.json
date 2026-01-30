@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 418/Scaling \"Laws\".md",
+                "file": "CPSC 418/Network Topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaling \"Laws\""
+              "title": "Network Topologies"
             }
           }
         ],
@@ -263,6 +263,7 @@
   },
   "active": "979bde024526e7d7",
   "lastOpenFiles": [
+    "CPSC 418/Scaling \"Laws\".md",
     "Attachments/Screenshot 2026-01-28 at 15.30.31.png",
     "Attachments/Pasted image 20251120190452.png",
     "Attachments/Pasted image 20251120184600.png",
@@ -271,7 +272,6 @@
     "Templates/Linux Commands.md",
     "Templates/Statistics Snippet.md",
     "Templates/Math Snippet.md",
-    "CPSC 418/Scaling \"Laws\".md",
     "CPSC 418/Computer Hardware.md",
     "Attachments/Screenshot 2026-01-28 at 15.08.58.png",
     "Attachments/Screenshot 2026-01-28 at 15.07.05.png",
@@ -284,7 +284,6 @@
     "CPSC 418/Parallel Algorithms/Magic Sort.md",
     "CPSC 418/Network Topologies.md",
     "Attachments/Screenshot 2026-01-26 at 17.06.44.png",
-    "Attachments/Screenshot 2026-01-26 at 17.00.12.png",
     "Untitled",
     "CPSC 418/Iterator Operations.md",
     "CPSC 418/Functional programming.md",
