@@ -19,3 +19,6 @@ $$p(x|\theta)=\frac{h(x)\exp(\eta(\theta)^Ts(x))}{Z(\theta)}$$
 ### Showing Gaussian $\in$ Exp Fam.
 ![[Screenshot 2026-02-02 at 16.42.45.png]]
 
+## Learning with Exp. Fam.
+![[Screenshot 2026-02-02 at 17.01.23.png]]
+
