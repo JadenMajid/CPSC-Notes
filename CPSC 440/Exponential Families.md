@@ -22,3 +22,5 @@ $$p(x|\theta)=\frac{h(x)\exp(\eta(\theta)^Ts(x))}{Z(\theta)}$$
 ## Learning with Exp. Fam.
 ![[Screenshot 2026-02-02 at 17.01.23.png]]
 
+## Conjugate Priors
+![[Screenshot 2026-02-02 at 17.08.53.png]]
