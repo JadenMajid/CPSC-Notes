@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 418/Superscalar Processors.md",
+                "file": "CPSC 440/Exponential Families.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Superscalar Processors"
+              "title": "Exponential Families"
             }
           }
         ],
@@ -277,6 +277,13 @@
   },
   "active": "b9fcdf571dfd909c",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2026-02-02 at 16.42.45.png",
+    "Attachments/Screenshot 2026-02-02 at 16.40.23.png",
+    "CPSC 440/Empirical Bayes.md",
+    "CPSC 440/Exponential Families.md",
+    "Attachments/Screenshot 2026-02-02 at 16.25.29.png",
+    "Attachments/Screenshot 2026-02-02 at 16.23.34.png",
+    "CPSC 418/Superscalar Processors.md",
     "Attachments/Screenshot 2026-02-02 at 15.43.49.png",
     "Attachments/Screenshot 2026-02-02 at 15.43.07.png",
     "Attachments/Screenshot 2026-02-02 at 15.36.08.png",
@@ -284,13 +291,8 @@
     "Attachments/Screenshot 2026-02-02 at 15.17.59.png",
     "Attachments/Screenshot 2026-02-02 at 15.17.15.png",
     "CPSC 418/Network Topologies.md",
-    "CPSC 418/Superscalar Processors.md",
     "Attachments/Screenshot 2026-01-30 at 15.27.16.png",
     "CPSC 418/Scaling \"Laws\".md",
-    "Attachments/Screenshot 2026-01-28 at 15.30.31.png",
-    "Attachments/Pasted image 20251120190452.png",
-    "Attachments/Pasted image 20251120184600.png",
-    "Attachments/Pasted image 20251120184959.png",
     "Templates/Linux Commands.md",
     "Templates/Statistics Snippet.md",
     "Templates/Math Snippet.md",
@@ -313,8 +315,6 @@
     "CPSC 440/Syllabus.md",
     "CPSC 440/Binary Density Estimation.md",
     "CPSC 330/Syllabus.md",
-    "Math/Norms/L0.md",
-    "CPSC 418/Sequential Consistency.md",
     "Personal/Chess Tournament",
     "Personal",
     "Math/Algebra",
