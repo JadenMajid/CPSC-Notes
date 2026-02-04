@@ -23,3 +23,12 @@ $$\text{Efficiency}=\frac{\text{speedup}}{P}$$
 
 $$\text{Work}=\text{number of vertices}=\text{min seq. time}$$
 $$\text{Span}=\text{depth of the tree}=\text{minimum parallel cost}$$
+
+## Amdahl's Law
+- given seq. program where
+	- fraction $s$ of program is inherently sequential
+	- fraction $f=1-s$ benefits perfectly from parallel speedup
+- P processor runtime
+	- $$T_{\text{parallel}}=T_{\text{sequential}}(s+\frac f P)$$
+	- $$\text{speedup}=(s+\frac s P)^{-1})\le \min(P,1/s)$$
+	- 
