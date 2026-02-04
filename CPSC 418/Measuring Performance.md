@@ -30,5 +30,5 @@ $$\text{Span}=\text{depth of the tree}=\text{minimum parallel cost}$$
 	- fraction $f=1-s$ benefits perfectly from parallel speedup
 - P processor runtime
 	- $$T_{\text{parallel}}=T_{\text{sequential}}(s+\frac f P)$$
-	- $$\text{speedup}=(s+\frac s P)^{-1})\le \min(P,1/s)$$
+	- $$\text{speedup}=(s+\frac f P)^{-1})\le \min(P,1/s)$$
 	- 
