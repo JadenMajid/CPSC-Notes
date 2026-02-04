@@ -23,4 +23,3 @@ $$\text{Efficiency}=\frac{\text{speedup}}{P}$$
 
 $$\text{Work}=\text{number of vertices}=\text{min seq. time}$$
 $$\text{Span}=\text{depth of the tree}=\text{minimum parallel cost}$$
-
