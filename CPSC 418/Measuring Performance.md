@@ -30,5 +30,15 @@ $$\text{Span}=\text{depth of the tree}=\text{minimum parallel cost}$$
 	- fraction $f=1-s$ benefits perfectly from parallel speedup
 - P processor runtime
 	- $$T_{\text{parallel}}=T_{\text{sequential}}(s+\frac f P)$$
-	- $$\text{speedup}=(s+\frac f P)^{-1})\le \min(P,1/s)$$
-	- 
+	- $$\text{speedup}=(s+\frac f P)^{-1}\le \min(P,1/s)$$
+
+## Gustafson's Law
+- Amdahl's law assumes a fixed problem size
+- most computations $s$ decreases as $n$ increases
+![[Screenshot 2026-02-04 at 15.35.09.png]]
+
+## Law of Modest Returns
+- Parallelism gives modest improvement unless the problem is not complex
+	- Often good enough
+- sometimes problems have huge $n$, with low complexity, like data mining, ML, and graphics
+- if algorithm $O(?)$ is big, speedup may be kinda bad
