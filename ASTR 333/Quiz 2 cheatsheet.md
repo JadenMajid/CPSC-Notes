@@ -66,3 +66,50 @@
 * **Panspermia:** Life hitchhiking on meteorites (e.g., ALH84001).
 * **Chemosynthesis:** Energy from chemical reactions (e.g., $H_2S$) rather than sunlight.
 * **Faint Young Sun Paradox:** Earth stayed liquid despite Sun being ~30% dimmer (likely due to greenhouse gases).
+
+### Kepler's Laws
+
+1.  **The Law of Orbits**: All planets move in elliptical orbits, with the Sun at one focus.
+    
+
+[Image of Kepler's first law showing an elliptical orbit with the Sun at one focus]
+
+2.  **The Law of Areas**: A line that connects a planet to the Sun sweeps out equal areas in equal times. 
+    * *Implication*: Orbital speed is non-uniform; fastest at pericentre, slowest at apocentre.
+    
+3.  **The Law of Periods**: The square of the orbital period ($P$) is proportional to the cube of the semi-major axis ($a$).
+    * Simplified (units in years/AU): $P^2 = a^3$
+    * Newtonian Generalization: $P^2 = \frac{4\pi^2 a^3}{G(M_1 + M_2)}$
+
+---
+
+### Relevant Physical Constants
+
+| Constant                     | Symbol       | Approximate Value                                                  |
+| :--------------------------- | :----------- | :----------------------------------------------------------------- |
+| Gravitational Constant       | $G$          | $6.674 \times 10^{-11} \text{ m}^3 \text{ kg}^{-1} \text{ s}^{-2}$ |
+| Astronomical Unit            | $AU$         | $1.496 \times 10^{11} \text{ m}$                                   |
+| Stefan-Boltzmann Constant    | $\sigma$     | $5.670 \times 10^{-8} \text{ W m}^{-2} \text{ K}^{-4}$             |
+| Wien's Displacement Constant | $b$          | $2.898 \times 10^{-3} \text{ m}\cdot\text{K}$                      |
+| Mass of the Sun              | $M_{\odot}$  | $1.989 \times 10^{30} \text{ kg}$                                  |
+| Mass of the Earth            | $M_{\oplus}$ | $5.972 \times 10^{24} \text{ kg}$                                  |
+| Radius of the Earth          | $R_{\oplus}$ | $6,371 \text{ km}$                                                 |
+| Speed of Light               | $c$          | $2.998 \times 10^8 \text{ m/s}$                                    |
+| Solar Luminosity             | $L_{\odot}$  | $3.828 \times 10^{26} \text{ W}$                                   |
+### SI Prefixes
+
+| Prefix    | Symbol | Factor            | Power of 10 |
+| :-------- | :----- | :---------------- | :---------- |
+| **Tera**  | T      | 1,000,000,000,000 | $10^{12}$   |
+| **Giga**  | G      | 1,000,000,000     | $10^9$      |
+| **Mega**  | M      | 1,000,000         | $10^6$      |
+| **Kilo**  | k      | 1,000             | $10^3$      |
+| **Hecto** | h      | 100               | $10^2$      |
+| **Deka**  | da     | 10                | $10^1$      |
+| *(base)*  | —      | 1                 | $10^0$      |
+| **Deci**  | d      | 0.1               | $10^{-1}$   |
+| **Centi** | c      | 0.01              | $10^{-2}$   |
+| **Milli** | m      | 0.001             | $10^{-3}$   |
+| **Micro** | μ      | 0.000001          | $10^{-6}$   |
+| **Nano**  | n      | 0.000000001       | $10^{-9}$   |
+| **Pico**  | p      | 0.000000000001    | $10^{-12}$  |
