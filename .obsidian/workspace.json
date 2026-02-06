@@ -4,11 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "81d4175002a7ace2",
+        "id": "be1a11a8d6037c1d",
         "type": "tabs",
         "children": [
           {
-            "id": "ba19b7d47bb71b9f",
+            "id": "ad6490d75b747163",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2b50cde049ff0048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 418/Network Topologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Topologies"
+            }
+          },
+          {
+            "id": "791caa366589190c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 418/Parallel Algorithms/Magic Sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic Sort"
+            }
+          },
+          {
+            "id": "36b90812c6357f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 440/Gaussians and Bayesian Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaussians and Bayesian Learning"
+            }
+          },
+          {
+            "id": "979bde024526e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 418/Network Topologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Topologies"
+            }
+          },
+          {
+            "id": "b9fcdf571dfd909c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 418/Measuring Performance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Measuring Performance"
+            }
+          },
+          {
+            "id": "bd00a21a45ef9d40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +101,8 @@
               "title": "Quiz 2 cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -53,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cohesion",
+                "query": "tag:#Machine-Learning/Models/Non-Parametric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPSC 340/Models/Neural Networks/Convolutions.md",
+                "file": "CPSC 340/Models/Neural Networks/Convolutional Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Convolutions"
+              "title": "Backlinks for Convolutional Neural Networks"
             }
           },
           {
@@ -137,17 +218,7 @@
             }
           },
           {
-            "id": "56105665124b604e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "6362c5f0587565bb",
+            "id": "946e0a0a251e7dbe",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,22 +232,44 @@
             }
           },
           {
-            "id": "b68155115974d853",
+            "id": "50f698cb4e5b3067",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-12-09.md",
+                "file": "CPSC 340/Models/Problems/Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-09"
+              "title": "Outline of Regression"
+            }
+          },
+          {
+            "id": "e2e0791b64ec5896",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "340/Models/Supervised Learning Models/Naive Bayes.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Naive Bayes"
+            }
+          },
+          {
+            "id": "c28ddcf125628594",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -191,59 +284,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba19b7d47bb71b9f",
+  "active": "bd00a21a45ef9d40",
   "lastOpenFiles": [
-    "CPSC 310/Security/STRIDE.md",
     "ASTR 333/Quiz 2 cheatsheet.md",
-    "Templates/Course Syllabus.md",
-    "Personal/Chess Tournament/Overview.md",
-    "Personal/Chess Tournament",
-    "Personal",
-    "Math/Algebra/Commutativity.md",
-    "Math/Algebra/Associativity.md",
-    "Math/Algebra",
-    "FRST 304/Syllabus.md",
-    "FRST 304/Photo essay rubric_FRST 304_2025.pdf",
-    "FRST 304",
-    "CPSC 440/Syllabus.md",
-    "CPSC 440/Multivariate Gaussians.md",
-    "CPSC 440/Multivariate Binary Density Estimation.md",
-    "CPSC 440/Gaussians and Bayesian Learning.md",
-    "CPSC 440/Feature Engineering.md",
-    "CPSC 440/Exponential Families.md",
-    "CPSC 440/Empirical Bayes.md",
-    "CPSC 440/Discriminative Classifiers.md",
-    "CPSC 440/Categorical Distribution.md",
-    "CPSC 440/Binary Density Estimation.md",
-    "CPSC 440",
-    "CPSC 418/Parallel Algorithms/Parallel Algorithms Reference.md",
-    "CPSC 418/Parallel Algorithms/Magic Sort.md",
-    "CPSC 418/Syllabus.md",
-    "CPSC 418/Superscalar Processors.md",
-    "CPSC 418/Shared Memory.md",
-    "CPSC 418/Sequential Consistency.md",
-    "CPSC 418/Scaling \"Laws\".md",
-    "CPSC 418/Parallel Programming.md",
-    "CPSC 418/Parallel Algorithms",
-    "CPSC 418/Network Topologies.md",
-    "CPSC 418",
-    "CPSC 330",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",
+    "CPSC 418/Iterator Operations.md",
+    "CPSC 418/Measuring Performance.md",
+    "CPSC 440/Exponential Families.md",
     "Attachments/Screenshot 2026-02-02 at 17.08.53.png",
     "Attachments/Screenshot 2026-02-02 at 17.01.23.png",
     "Attachments/Screenshot 2026-02-02 at 16.42.45.png",
     "Attachments/Screenshot 2026-02-02 at 16.40.23.png",
+    "CPSC 440/Empirical Bayes.md",
     "Attachments/Screenshot 2026-02-02 at 16.25.29.png",
     "Attachments/Screenshot 2026-02-02 at 16.23.34.png",
+    "CPSC 418/Superscalar Processors.md",
     "Attachments/Screenshot 2026-02-02 at 15.43.49.png",
     "Attachments/Screenshot 2026-02-02 at 15.43.07.png",
     "Attachments/Screenshot 2026-02-02 at 15.36.08.png",
-    "ASTR 333",
+    "CPSC 418/Network Topologies.md",
+    "CPSC 418/Scaling \"Laws\".md",
+    "Templates/Linux Commands.md",
+    "Templates/Statistics Snippet.md",
+    "Templates/Math Snippet.md",
+    "CPSC 418/Computer Hardware.md",
+    "CPSC 418/Syllabus.md",
+    "CPSC 418/Shared Memory.md",
+    "CPSC 440/Multivariate Gaussians.md",
+    "CPSC 440/Gaussians and Bayesian Learning.md",
+    "CPSC 418/Parallel Algorithms/Magic Sort.md",
+    "Untitled",
+    "CPSC 418/Functional programming.md",
+    "CPSC 418/Parallel Programming.md",
+    "CPSC 418/Parallel Algorithms/Parallel Algorithms Reference.md",
+    "CPSC 418/Parallel Algorithms",
+    "CPSC 440/Feature Engineering.md",
+    "CPSC 440/Discriminative Classifiers.md",
+    "CPSC 340/Models/Supervised Learning Models/Decision Stump.md",
+    "CPSC 418/Erlang.md",
+    "CPSC 440/Syllabus.md",
+    "CPSC 440/Binary Density Estimation.md",
+    "Personal/Chess Tournament",
+    "Personal",
+    "Math/Algebra",
+    "FRST 304/Photo essay rubric_FRST 304_2025.pdf",
+    "FRST 304",
+    "CPSC 440",
+    "CPSC 418",
+    "CPSC 340/Neural Networks/Neural Networks.md.orig",
     "Untitled.canvas"
   ]
 }

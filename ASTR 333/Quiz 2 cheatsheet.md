@@ -22,8 +22,6 @@
     * $A$: Bond Albedo (0 to 1)
     * $\epsilon$: Emissivity (usually 1 for black body)
 
-
-
 ---
 
 ## 3. Biology & Early Earth
