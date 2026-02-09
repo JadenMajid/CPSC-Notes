@@ -1,0 +1,19 @@
+- RAM model
+	- instructions run on a reasonable word size
+	- instructions take 1 timestep each, and are all run sequentially
+	- all memory accesses happen in 1 timestep
+	- no cache/everything is in "hot cache"
+- PRAM Model
+	- The computer is composed of $P$ processors and shared memory
+	- Processors act like the ram model
+	- Processors are completely synchronous
+	- Is good for identifying problems with practical parallelized implementation
+	- Is BAD for predicting exact algorithm runtimes
+- MP-RAM Model
+	- consists of unbounded set of processes sharing unbounded memory
+	- each process runs instructions from ram
+	- the `fork` instruction takes an int $k$ and forks $k$ new processes
+	- All children start by running the next instruction from parent
+	- first instruction after ALL children terminate is the `join` instruction
+	- also called nested parallelism because children can fork too
+- 

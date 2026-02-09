@@ -114,9 +114,23 @@
               "icon": "lucide-file",
               "title": "Performance Loss"
             }
+          },
+          {
+            "id": "d03decc62cadf3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPSC 418/RAM, PRAM & MP-RAM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAM, PRAM & MP-RAM"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -303,11 +317,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a97abd59688ac57b",
+  "active": "d03decc62cadf3eb",
   "lastOpenFiles": [
+    "CPSC 418/Functional Programming.md",
+    "CPSC 418/RAM, PRAM & MP-RAM.md",
+    "CPSC 418/Performance Loss.md",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "ASTR 333/Untitled.md",
-    "CPSC 418/Performance Loss.md",
     "ASTR 333/Quiz 2 cheatsheet.md",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",
     "CPSC 418/Iterator Operations.md",
@@ -323,7 +339,6 @@
     "CPSC 418/Superscalar Processors.md",
     "Attachments/Screenshot 2026-02-02 at 15.43.49.png",
     "Attachments/Screenshot 2026-02-02 at 15.43.07.png",
-    "Attachments/Screenshot 2026-02-02 at 15.36.08.png",
     "CPSC 418/Network Topologies.md",
     "CPSC 418/Scaling \"Laws\".md",
     "Templates/Linux Commands.md",
@@ -336,7 +351,6 @@
     "CPSC 440/Gaussians and Bayesian Learning.md",
     "CPSC 418/Parallel Algorithms/Magic Sort.md",
     "Untitled",
-    "CPSC 418/Functional programming.md",
     "CPSC 418/Parallel Programming.md",
     "CPSC 418/Parallel Algorithms/Parallel Algorithms Reference.md",
     "CPSC 418/Parallel Algorithms",
