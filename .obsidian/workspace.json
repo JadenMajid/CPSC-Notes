@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPSC 418/RAM, PRAM & MP-RAM.md",
+                "file": "CPSC 418/Performance Loss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAM, PRAM & MP-RAM"
+              "title": "Performance Loss"
             }
           }
         ],
@@ -319,8 +319,8 @@
   },
   "active": "d03decc62cadf3eb",
   "lastOpenFiles": [
-    "CPSC 418/Functional Programming.md",
     "CPSC 418/RAM, PRAM & MP-RAM.md",
+    "CPSC 418/Functional Programming.md",
     "CPSC 418/Performance Loss.md",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "ASTR 333/Untitled.md",
