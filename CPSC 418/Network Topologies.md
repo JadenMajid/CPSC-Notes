@@ -5,8 +5,7 @@ network topologies are to the message passing community what cache-coherence is 
 	- Bandwidth
 		- Bisection-width
 			- The worse way to divide the processors into sets of $\sim P/2$ processors each
-			- always an integer
-			- 
+			- Always an integer
 
 ![[Screenshot 2026-01-26 at 15.47.35.png]]
 
