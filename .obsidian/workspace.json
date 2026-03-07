@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "referential tr",
+                "query": "brent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,7 +266,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c681f9ae29374303",
+  "active": "c859f63203ee627a",
   "lastOpenFiles": [
     "Attachments/Screenshot 2026-03-02 at 15.48.44.png",
     "CPSC 418/CUDA.md",
