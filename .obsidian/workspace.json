@@ -251,46 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "d3390a728b69ece0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9d61aec68b971ed5",
-        "type": "window",
-        "children": [
-          {
-            "id": "e727b55fd4f5ccd5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3ebd6a4240830ab1",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 388,
-        "y": 121,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "ca5d95d4f0454be8",
   "lastOpenFiles": [
+    "CPSC 418/CUDA.md",
     "Users/jaden/Documents/cs-418.md",
     "Users/jaden/Documents/cs-418/hw4/hw4.md",
-    "CPSC 418/CUDA.md",
     "Users/jaden/Documents/cs-418/hw4",
     "Users/jaden/Documents/cs-418",
     "Users/jaden/Documents",
