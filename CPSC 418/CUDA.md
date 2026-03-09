@@ -58,9 +58,7 @@
 | Warp     | Group of threads that are run together(lock step) on the same SM. Max size determined by the hardware. Good to avoid thread divergence(when threads are slowed down by control flow or different behaviours which slow it down to the slowest thread) |
 | Block    | Array of warps that are run together(not necessarily lock step). Must have all execution resources available before it is launched. Switching between threads within a block is done by the hardware.                                                 |
 | Grid     | Array of blocks, up to $2^{31}$ in x dim, $2^{16}$ in y and z dims. Can be arranged in 1D, 2D, or 3D. Different blocks can be run on different machines(multiple GPUs)                                                                                |
-|          |                                                                                                                                                                                                                                                       |
-|          |                                                                                                                                                                                                                                                       |
-|          |                                                                                                                                                                                                                                                       |
+
 ## Kernels
 - Launching a Kernel
 	- we can launch ```__global__ void kernel_fun(args)``` with:
