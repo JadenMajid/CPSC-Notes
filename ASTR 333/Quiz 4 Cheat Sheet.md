@@ -116,3 +116,75 @@
 * **ISS Proposed End-of-Life:** ~2030 (planned to be safely deorbited into the South Pacific Ocean).
 * **Moon Trees:** Seeds taken into lunar orbit by Apollo 14 astronaut Stuart Roosa, then brought back and planted globally to see if spaceflight affected their growth.
 * **Grown on the Far Side of the Moon:** Cotton seeds sprouted inside a sealed biosphere canister on China's Chang'e 4 lander in 2019 (died shortly after when the lunar night froze them).
+
+
+# Exoplanet Detection & Math Cheat Sheet
+
+## 1. Core Formulas & Math
+
+**Constants to Know:**
+* **G (Gravitational Constant):** 6.674 x 10^-11 kg^-1 m^3 s^-2
+* **c (Speed of Light):** 3.0 x 10^8 m/s
+* **1 AU:** 1.496 x 10^11 m
+* **M_sun (Solar Mass):** 1.989 x 10^30 kg
+* **R_sun (Solar Radius):** 696,340 km
+* **M_jup (Jupiter Mass):** 1.898 x 10^27 kg
+* **R_jup (Jupiter Radius):** 69,911 km
+* *Note: Always convert days/years to seconds, and km to meters for gravity calculations!*
+
+**Transit Depth (Percent Drop in Flux):**
+* `Depth (%) = (R_planet / R_star)^2 * 100`
+* *Use this to find the planet's radius. Make sure both radii are in the same units before dividing.*
+
+**Doppler Shift (Radial Velocity):**
+* `v = c * (Δλ / λ_0)`
+* `v` = Radial velocity (m/s)
+* `Δλ` = Wavelength shift
+* `λ_0` = Rest wavelength
+
+**Radial Velocity Amplitude (K):**
+* Assuming a circular, edge-on orbit (sin *i* = 1) and that the planet's mass is much smaller than the star's (m_p << M_star):
+* `K = [ m_planet / (M_star)^(2/3) ] * [ (2 * π * G) / P ]^(1/3)`
+* `P` = Orbital period (in seconds)
+* `m_planet` and `M_star` must be in kg. K will be in m/s.
+
+**Blackbody Flux Ratio (Direct Imaging):**
+* Used to find the contrast between the star and planet at a specific wavelength (λ):
+* `F_star / F_planet = (R_star / R_planet)^2 * [ (e^(hc / λkT_planet) - 1) / (e^(hc / λkT_star) - 1) ]`
+* *Shortcut for λ = 10 μm:* The exponent term `(hc / λk)` evaluates to approximately `1438.8 K`. So you can use `e^(1438.8 / T)` for the intensity factors.
+
+---
+
+## 2. Detection Methods Summary
+
+**Transit Method**
+* **What it measures:** The dip in a star's brightness when a planet passes in front of it.
+* **What it tells us:** Planet's radius, orbital period, orbital distance, and inclination (must be edge-on, ~90 degrees).
+* **Bias:** Heavily favors large planets on short orbital periods (close to the star).
+
+**Radial Velocity (Doppler) Method**
+* **What it measures:** The blue-shift and red-shift of a star's spectral lines as it wobbles due to the planet's gravity.
+* **What it tells us:** The planet's *minimum* mass (M sin *i*) and orbital period.
+* **Bias:** Favors massive planets on short orbital periods.
+
+**Transit + Radial Velocity Synergy**
+* If a planet transits, we know its orbit is edge-on (sin *i* = 1).
+* This allows us to turn the RV "minimum mass" into **true mass**.
+* Mass (from RV) + Volume (from Transit Radius) = **Bulk Density** (tells us if it's rocky, gas, ice, etc.).
+
+**Direct Imaging**
+* **What it measures:** Actual photons (light) from the planet.
+* **Best conditions:** Works best in the **infrared** where young, hot giant planets glow brightly, and the host star is relatively dimmer (better contrast ratio).
+* **Bias:** Favors massive, young planets on *very wide* orbits (so they aren't lost in the star's glare).
+
+**Astrometry**
+* **What it measures:** The physical 2D movement (wobble) of a star across the plane of the sky relative to distant background stars.
+* **Best conditions:** Easier to detect around **nearby stars** (larger angular shift). Works well for massive planets on wide orbits.
+
+**Gravitational Microlensing**
+* **What it measures:** The temporary magnification of a distant background star when a foreground star (and its planet) pass in front of it, bending the light.
+* **Strengths:** Can detect planets far from their host stars (at or beyond the "snow line") and doesn't require seeing the planet's actual light.
+
+**Pulsar Timing**
+* **What it measures:** Variations in the incredibly precise, stable arrival times of radio pulses from a pulsar.
+* **Strengths:** Capable of detecting remarkably small (Earth-mass or smaller) planets.
