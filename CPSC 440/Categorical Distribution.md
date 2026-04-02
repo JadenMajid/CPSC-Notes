@@ -1,3 +1,7 @@
+---
+tags:
+  - machine-learning
+---
 
 
 ## Naive Naive Bayes

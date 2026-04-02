@@ -1,6 +1,7 @@
 ---
 tags:
   - machine-learning/CPSC440
+  - machine-learning
 ---
 Density Estimation: going from data -> prob model
 Inference: "Doing things" with a prob model

@@ -1,3 +1,7 @@
+---
+tags:
+  - machine-learning
+---
 ![[Screenshot 2026-01-26 at 16.13.38.png]]
 ![[Screenshot 2026-01-26 at 16.16.28.png]]![[Screenshot 2026-01-26 at 16.16.56.png]]
 - Above plots are for some $d=2$ data, the rings + color are the prior.

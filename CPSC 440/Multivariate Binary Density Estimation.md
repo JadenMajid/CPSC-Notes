@@ -1,6 +1,7 @@
 ---
 tags:
   - machine-learning/CPSC440
+  - machine-learning
 ---
 ## Motivation
 ### Traffic congestion Modelling

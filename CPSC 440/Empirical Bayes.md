@@ -1,3 +1,7 @@
+---
+tags:
+  - machine-learning
+---
 - Allows us to find marginal likelihood of hyper parameters
 - 
 ![[Screenshot 2026-02-02 at 16.23.34.png]]

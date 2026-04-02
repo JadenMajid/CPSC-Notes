@@ -1,3 +1,7 @@
+---
+tags:
+  - machine-learning
+---
 - If we're using a linear model, how do we encode categorical features?
 	 - we can use onehot encoding
 - Models are affected by feature scaling

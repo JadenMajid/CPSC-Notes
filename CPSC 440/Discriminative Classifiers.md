@@ -1,3 +1,7 @@
+---
+tags:
+  - machine-learning
+---
 - Generative classifiers model $p(x,y)$, to get $p(y|x)$
 	- often model $p(y)$ then $p(x|y)$
 - Why do the above? just model $p(y|x)$

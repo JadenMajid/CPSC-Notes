@@ -1,3 +1,7 @@
+---
+tags:
+  - machine-learning
+---
 - Family of distributions that include categoricals and gaussians
 - have a lot of nice properties
 $$p(x|\theta)=\frac{h(x)\exp(\eta(\theta)^Ts(x))}{Z(\theta)}$$
