@@ -1,5 +1,5 @@
 
-| **Grader**                     | Jaden Majid |
+| Grader                         | Jaden Majid |
 | ------------------------------ | ----------- |
 | Grader ID                      | 94916335    |
 | Grader CWL                     | jadenvm     |
