@@ -7,7 +7,6 @@
 | Title of world or presentation | Nerevos     |
 ### 1. Content Delivery (Detailed Breakdown)
 **Rating: 0–20** 
-*Target: A talk that is interesting and easily understood by the audience with minimal specialized terminology.*
 
 | Criteria                      | Score | Possible Points | Evaluation Criteria                                                              |
 | :---------------------------- | :---: | :-------------: | -------------------------------------------------------------------------------- |
@@ -22,18 +21,18 @@
 ### 2. Presentation & Communication
 **Rating: 0-30**
 
-| Category                | Score | Possible Points | Evaluation Criteria                                                                 |
-| :---------------------- | :---: | :-------------: | :---------------------------------------------------------------------------------- |
-| **Clarity of Slides**   |   8   |      0–10       | 10 = Extremely clear; perfect balance of text and figures.                          |
-| **Oral Communication**  |   8   |      0–10       | Based on preparation, audience connection, and clarity of speech.                   |
-| **Group Synergy**       |   7   |      0–10       | How well the speakers worked together; smooth transitions and unified contribution. |
-| **TOTAL CONTENT SCORE** |  23   |      / 30       | **SUM OF THE ABOVE CRITERIA**                                                       |
+| Category                      | Score | Possible Points | Evaluation Criteria                                                                 |
+| :---------------------------- | :---: | :-------------: | :---------------------------------------------------------------------------------- |
+| **Clarity of Slides**         |   8   |      0–10       | 10 = Extremely clear; perfect balance of text and figures.                          |
+| **Oral Communication**        |   8   |      0–10       | Based on preparation, audience connection, and clarity of speech.                   |
+| **Group Synergy**             |   8   |      0–10       | How well the speakers worked together; smooth transitions and unified contribution. |
+| **TOTAL COMMUNICATION SCORE** |  24   |      / 30       | **SUM OF THE ABOVE CRITERIA**                                                       |
 
 ---
 ### 3. Qualitative Feedback
 
-| Feedback Type              | Feedback                                                                                                               |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Slide Improvement**      | The slides were serviceable, but felt like a mash of figures from various sources at time.                             |
-| **Communication Coaching** | The first person to speak felt a bit low energy, I think having a higher energy presenter to open would be helpful to  |
-| **Additional Comments**    |                                                                                                                        |
+| Feedback Type              | Feedback                                                                                                                                     |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Slide Improvement**      | The slides were serviceable, but felt like a mash of figures from various sources at time.                                                   |
+| **Communication Coaching** | The first person to speak felt a bit low energy, I think having a higher energy presenter to open would be helpful for audience enagagement. |
+| **Additional Comments**    |                                                                                                                                              |
