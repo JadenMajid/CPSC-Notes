@@ -21,7 +21,7 @@ $$h(v)=\frac{1}{1+e^{-v}}$$
 - allow for classification on non [[linearly separable]] data
 - 1 layer gives us a universal approximator
 	- but the layer might need to be huge
-- some functions can be approximated with exponentially fewer parameters if we use [[Deep Learning]]
+- some functions can be approximated with exponentially fewer parameters if we use [[2025W/CPSC 340/Neural Networks/Deep Learning]]
 
 ## Cost
 - $L$ layers with widths $k_0=d, k_1, \dots, k_L=k$.

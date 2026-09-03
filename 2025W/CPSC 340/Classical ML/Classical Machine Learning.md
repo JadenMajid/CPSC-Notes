@@ -4,7 +4,7 @@ tags:
 aliases:
   - Traditional Machine Learning
 ---
-Classical Machine Learning(CML) refers to pre-[[Deep Learning]] techniques and [[Algorithm|Algorithms]] that originated from [[Artificial Intelligence]](Computer Science), [[Statistical Learning]](Statistics) and Neuroscience.
+Classical Machine Learning(CML) refers to pre-[[2025W/CPSC 340/Neural Networks/Deep Learning]] techniques and [[Algorithm|Algorithms]] that originated from [[Artificial Intelligence]](Computer Science), [[Statistical Learning]](Statistics) and Neuroscience.
 
 The two main problems that CML tries to solve are [[CPSC 340/Classical ML/Classification|Classification]] and [[Regression]].
 

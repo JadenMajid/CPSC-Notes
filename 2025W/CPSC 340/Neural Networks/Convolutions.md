@@ -52,7 +52,7 @@ $$w=[-1,0,1]$$
 ![[Screenshot 2025-11-24 at 2.50.01 PM.png]]
 We can take the max of a vertical and horizontal Gabor to get a Horizontal/Vertical [[Edge Detector]]
 ![[Screenshot 2025-11-24 at 2.50.10 PM.png]]
-# For [[Deep Learning]]
+# For [[2025W/CPSC 340/Neural Networks/Deep Learning]]
 We can apply several different convolutions and create new features that we train the model on.
 ![[Screenshot 2025-11-24 at 2.24.42 PM.png]]
 # Multi-Channel Inputs And Stride

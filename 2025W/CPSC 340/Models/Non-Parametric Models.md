@@ -9,7 +9,7 @@ Non parametric models are models that grow infinitely with an infinite [[Trainin
 
 Examples: 
 - [[K Nearest Neighbors|KNN]]
-- Infinite [[CPSC 340/Models/Supervised Learning Models/Decision Trees]]
+- Infinite [[2025W/CPSC 340/Models/Supervised Learning Models/Decision Trees]]
 - and many others
 
 ## Complexity
