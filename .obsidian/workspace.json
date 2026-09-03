@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -208,8 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0317917f2affbc12",
+  "active": "6ba360aa94033dc5",
   "lastOpenFiles": [
+    "AI 330",
+    "FRST 303",
+    "CPSC 425",
+    "FREN 401",
     "ASTR 333/Presentations/Presentation Rubric Group 4.md",
     "ASTR 333/Presentations/Presentation Rubric Group 14.md",
     "ASTR 333/Presentations/Presentation Rubric Group 9.md",
@@ -242,7 +248,6 @@
     "CPSC 418/Superscalar Processors.md",
     "CPSC 418/Scaling \"Laws\".md",
     "CPSC 418/Performance Loss.md",
-    "CPSC 418/Parallel Programming.md",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",
     "Attachments/Screenshot 2026-02-02 at 17.08.53.png",
@@ -253,9 +258,6 @@
     "Attachments/Screenshot 2026-02-02 at 16.23.34.png",
     "Attachments/Screenshot 2026-02-02 at 15.43.49.png",
     "CPSC 418/Parallel Algorithms",
-    "Personal/Chess Tournament",
-    "Personal",
-    "Math/Algebra",
     "Untitled.canvas"
   ]
 }
