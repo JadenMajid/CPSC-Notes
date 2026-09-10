@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2026W/FREN 401/FREN401_2026_Sept4.pdf"
+                "file": "2026W/BIOL 111/BIOL111_Syllabus_2026_102.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "FREN401_2026_Sept4"
+              "title": "BIOL111_Syllabus_2026_102"
             }
           },
           {
@@ -220,8 +220,10 @@
   },
   "active": "e493d890235f62cf",
   "lastOpenFiles": [
-    "2026W/FREN 401/La nouvelle grammaire en contexte _ notions et exercices, -- Collectif, Sarah Bertrand-savard, Marie-maude Cayouette, -- Anjou (Québec) Canada, 2013 -- isbn13 9782761761970 -- 43597ad543c08509c450bdab6cc13a30 -- Anna’s Archive.pdf",
     "2026W/BIOL 111/Syllabus.md",
+    "2026W/BIOL 111/BIOL111_Syllabus_2026_102.pdf",
+    "2026W/FREN 401/FREN401_2026_Sept4.pdf",
+    "2026W/FREN 401/La nouvelle grammaire en contexte _ notions et exercices, -- Collectif, Sarah Bertrand-savard, Marie-maude Cayouette, -- Anjou (Québec) Canada, 2013 -- isbn13 9782761761970 -- 43597ad543c08509c450bdab6cc13a30 -- Anna’s Archive.pdf",
     "Math/Linear Algebra/Tensors.md",
     "Math/Linear Algebra/Matrices.md",
     "Programming+Computer Science/Interface.md",
@@ -245,7 +247,6 @@
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 9.md",
     "ASTR 333/Presentations/Presentation Rubric Template.md",
     "2025W/CPSC 340/Neural Networks/Convolutional Neural Networks.md",
-    "2025W/ASTR 333/Presentations",
     "2025W/CPSC 340/Neural Networks/Auto Encoder.md",
     "2025W/CPSC 440/Binary Density Estimation.md",
     "2025W/CPSC 418/Shared Memory.md",
@@ -254,8 +255,6 @@
     "2025W/CPSC 418/CUDA.md",
     "Users/jaden/Documents/cs-418.md",
     "Users/jaden/Documents/cs-418/hw4/hw4.md",
-    "Users/jaden/Documents/cs-418/hw4",
-    "Users/jaden/Documents/cs-418",
     "Attachments/Screenshot 2026-03-02 at 15.48.44.png",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",
