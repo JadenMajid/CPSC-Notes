@@ -3,7 +3,9 @@ DIY Deep Learning
 Deep Learning
 
 Focus on the engineering side of deep learning
-Taught by Prof. Evan Shelhamer & Leonid Sigal
+Taught by Prof. Evan Shelhamer(shelhamer@cs.ubc.ca) & Leonid Sigal(lsigal@cs.ubc.ca)
+### Office Hrs
+Wed 3-4pm ICCS117
 
 ### Course Philosophy
 - the Error Theory of Expertise
