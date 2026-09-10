@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026W/BIOL 111/Characteristics of Life.md",
+                "file": "2026W/BIOL 111/Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Characteristics of Life"
+              "title": "Life"
+            }
+          },
+          {
+            "id": "27a07eddccbb3041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026W/BIOL 111/Cells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cells"
             }
           },
           {
@@ -31,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e493d890235f62cf",
+  "active": "27a07eddccbb3041",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2026-09-10 at 14.37.11.png",
+    "2026W/BIOL 111/Life.md",
+    "2026W/BIOL 111/Cells.md",
     "2026W/BIOL 111/BIOL111_Syllabus_2026_102.pdf",
-    "2026W/BIOL 111/Characteristics of Life.md",
     "2026W/BIOL 111/Syllabus.md",
     "2026W/FREN 401/FREN401_2026_Sept4.pdf",
     "2026W/FREN 401/La nouvelle grammaire en contexte _ notions et exercices, -- Collectif, Sarah Bertrand-savard, Marie-maude Cayouette, -- Anjou (Québec) Canada, 2013 -- isbn13 9782761761970 -- 43597ad543c08509c450bdab6cc13a30 -- Anna’s Archive.pdf",
@@ -256,7 +273,6 @@
     "2025W/CPSC 418/HW3b.md",
     "2025W/CPSC 418/Measuring Performance.md",
     "2025W/CPSC 418/CUDA.md",
-    "Users/jaden/Documents/cs-418.md",
     "Attachments/Screenshot 2026-03-02 at 15.48.44.png",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",
