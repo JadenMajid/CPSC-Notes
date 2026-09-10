@@ -11,14 +11,12 @@
             "id": "e493d890235f62cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2026W/BIOL 111/Syllabus.md",
-                "mode": "source",
-                "source": false
+                "file": "2026W/FREN 401/FREN401_2026_Sept4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Syllabus"
+              "icon": "lucide-file-text",
+              "title": "FREN401_2026_Sept4"
             }
           },
           {
@@ -31,8 +29,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "481ea8e5b7b3fbca",
+  "active": "e493d890235f62cf",
   "lastOpenFiles": [
+    "2026W/FREN 401/La nouvelle grammaire en contexte _ notions et exercices, -- Collectif, Sarah Bertrand-savard, Marie-maude Cayouette, -- Anjou (Québec) Canada, 2013 -- isbn13 9782761761970 -- 43597ad543c08509c450bdab6cc13a30 -- Anna’s Archive.pdf",
+    "2026W/BIOL 111/Syllabus.md",
     "Math/Linear Algebra/Tensors.md",
     "Math/Linear Algebra/Matrices.md",
     "Programming+Computer Science/Interface.md",
@@ -230,7 +229,6 @@
     "2026W/FRST 303/Syllabus.md",
     "2026W/FREN 401/Syllabus.md",
     "2026W/CPSC 425/Syllabus.md",
-    "2026W/BIOL 111/Syllabus.md",
     "Programming+Computer Science/Object Orientation.md",
     "Programming+Computer Science/Untitled.md",
     "2026W/BIOL 111",
@@ -259,7 +257,6 @@
     "Users/jaden/Documents/cs-418/hw4",
     "Users/jaden/Documents/cs-418",
     "Attachments/Screenshot 2026-03-02 at 15.48.44.png",
-    "2025W/ASTR 333/Syllabus.md",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",
     "Attachments/Screenshot 2026-02-02 at 17.08.53.png",
