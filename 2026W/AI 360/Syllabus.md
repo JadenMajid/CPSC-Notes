@@ -9,7 +9,6 @@ Taught by Prof. Evan Shelhamer & Leonid Sigal
 - the Error Theory of Expertise
 	- expertise = exhausting all of the errors in a field then doing it right
 	- every time we mess up, we reduce the space of "possibly correct" solutions until we have one left
-	- 
 
 ### Course Components
 - Lectures
