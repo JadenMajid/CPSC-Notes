@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026W/AI 360/Deep Learning.md",
+                "file": "2026W/CPSC 425/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Learning"
+              "title": "Syllabus"
             }
           },
           {
@@ -256,8 +256,10 @@
   },
   "active": "7c97001c78fb5aff",
   "lastOpenFiles": [
-    "2026W/AI 360/Layers.md",
+    "2026W/CPSC 425/Assignments/a0.ipynb",
+    "2026W/CPSC 425/Assignments",
     "2026W/AI 360/Deep Learning.md",
+    "2026W/AI 360/Layers.md",
     "2026W/AI 360/Shallow Learning.md",
     "2026W/AI 360/Syllabus.md",
     "2026W/AI 360/UnderstandingDeepLearning_02_09_26_C.pdf",
@@ -284,7 +286,6 @@
     "Programming+Computer Science/Diamond Problem.md",
     "2025W/ASTR 333/Quiz 4 Cheat Sheet.md",
     "2025W",
-    "2026W/AI 360",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 4.md",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 14.md",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 9.md",
@@ -292,7 +293,6 @@
     "2025W/CPSC 340/Neural Networks/Convolutional Neural Networks.md",
     "2025W/CPSC 340/Neural Networks/Auto Encoder.md",
     "2025W/CPSC 440/Binary Density Estimation.md",
-    "2025W/CPSC 418/Shared Memory.md",
     "Attachments/Screenshot 2026-03-02 at 15.48.44.png",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",

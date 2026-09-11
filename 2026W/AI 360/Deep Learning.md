@@ -10,4 +10,3 @@ Deep learning is stacking layers that are learned end to end.
 - why learn everything from input to output?
 	- The world is too varied and vast to be fully described by hand
 - deep networks just combine many layers by stacking different types of transformations
-- 
