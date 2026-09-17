@@ -27,10 +27,18 @@
 1. Interphase(Resting Phase where a cell spends 90% of its life)
 	1. G1
 		1. Cell Growth
+		2. Checkpoint
+			1. Cell big enough to divide?
+			2. DNA is damaged?
+			3. sufficient resources to divide?
 	2. Synthesis(S)
 		1. Copying of DNA
 	3. G2
 		1. Cell growth
+		2. Checkpoint
+			1. Final check before mitosis or meiosis
+			2. all chromosomes replicated?
+			3. no DNA damage exists?
 2. Mitosis
 	1. Prophase
 		1. Chromosomes condense and spindles begin to form
