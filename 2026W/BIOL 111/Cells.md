@@ -18,3 +18,14 @@
 ### Theory of endosymbiosis
 - Theory that a cell swallowed another cell 
 ![[Screenshot 2026-09-10 at 14.37.11.png]]
+
+
+## Mitosis and Meiosis
+
+### Mitosis
+
+#### Phases
+
+1. Interphase
+	1. Resting Phase where a cell spends 90% of its life
+	2. 
