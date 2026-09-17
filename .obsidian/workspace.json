@@ -63,8 +63,7 @@
               "title": "Shallow Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,14 +253,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c97001c78fb5aff",
+  "active": "27a07eddccbb3041",
   "lastOpenFiles": [
+    "2026W/CPSC 425/Syllabus.md",
+    "2026W/AI 360/Layers.md",
+    "2026W/AI 360/Syllabus.md",
     "2026W/CPSC 425/Assignments/a0.ipynb",
     "2026W/CPSC 425/Assignments",
     "2026W/AI 360/Deep Learning.md",
-    "2026W/AI 360/Layers.md",
     "2026W/AI 360/Shallow Learning.md",
-    "2026W/AI 360/Syllabus.md",
     "2026W/AI 360/UnderstandingDeepLearning_02_09_26_C.pdf",
     "2026W/BIOL 111/Life.md",
     "2026W/AI 360/mml-book.pdf",
@@ -278,14 +278,12 @@
     "Programming+Computer Science/Interface.md",
     "2026W/FRST 303/Syllabus.md",
     "2026W/FREN 401/Syllabus.md",
-    "2026W/CPSC 425/Syllabus.md",
     "Programming+Computer Science/Object Orientation.md",
     "Programming+Computer Science/Untitled.md",
     "2026W/BIOL 111",
     "2026W",
     "Programming+Computer Science/Diamond Problem.md",
     "2025W/ASTR 333/Quiz 4 Cheat Sheet.md",
-    "2025W",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 4.md",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 14.md",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 9.md",
