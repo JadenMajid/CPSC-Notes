@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026W/AI 360/Layers.md",
+                "file": "2026W/AI 360/Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layers"
+              "title": "Deep Learning"
             }
           },
           {
@@ -255,6 +255,7 @@
   },
   "active": "27a07eddccbb3041",
   "lastOpenFiles": [
+    "2026W/AI 360/Layers.md",
     "2026W/AI 360/UnderstandingDeepLearning_02_09_26_C.pdf",
     "2026W/AI 360/mml-book.pdf",
     "2026W/AI 360/lbdl.pdf",
@@ -271,7 +272,6 @@
     "2026W/FREN 401/FREN401_2026_Sept4.pdf",
     "2026W/AI 360/Syllabus.md",
     "2026W/CPSC 425/Syllabus.md",
-    "2026W/AI 360/Layers.md",
     "2026W/CPSC 425/Assignments/a0.ipynb",
     "2026W/CPSC 425/Assignments",
     "2026W/AI 360/Shallow Learning.md",
