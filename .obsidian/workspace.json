@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026W/FREN 401/26-09-17.md",
+                "file": "2026W/BIOL 111/Genotypes and Phenotypes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26-09-17"
+              "title": "Genotypes and Phenotypes"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "Shallow Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,8 +267,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee4131275124c94",
+  "active": "27a07eddccbb3041",
   "lastOpenFiles": [
+    "2026W/BIOL 111/Cells.md",
+    "2026W/BIOL 111/Genotypes and Phenotypes.md",
     "2026W/FREN 401/26-09-17.md",
     "2026W/FREN 401/26-09-22.md",
     "2026W/BIOL 111/Life.md",
@@ -280,7 +281,6 @@
     "2026W/AI 360/Layers.md",
     "2026W/CPSC 425/Syllabus.md",
     "2026W/FREN 401/La nouvelle grammaire en contexte _ notions et exercices, -- Collectif, Sarah Bertrand-savard, Marie-maude Cayouette, -- Anjou (Québec) Canada, 2013 -- isbn13 9782761761970 -- 43597ad543c08509c450bdab6cc13a30 -- Anna’s Archive.pdf",
-    "2026W/BIOL 111/Cells.md",
     "2026W/BIOL 111/Syllabus.md",
     "2026W/BIOL 111/Mitosis.md",
     "2026W/AI 360/Deep Learning.md",
@@ -311,7 +311,6 @@
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 4.md",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 14.md",
     "2025W/ASTR 333/Presentations/Presentation Rubric Group 9.md",
-    "ASTR 333/Presentations/Presentation Rubric Template.md",
     "Attachments/Screenshot 2026-03-02 at 15.48.44.png",
     "Attachments/Screenshot 2026-02-06 at 15.01.30.png",
     "Attachments/Screenshot 2026-02-04 at 15.35.09.png",
