@@ -3,3 +3,8 @@
 
 # Large dataset kept locally, excluded from Git
 /2026W/AI 360/Assignment1/cifar10.npz
+/2026W/AI 360/A1/cifar10.npz
+
+# ImageNet datasets and downloaded archives
+mini_imagenet_pascal10/
+mini_imagenet_pascal10.zip
