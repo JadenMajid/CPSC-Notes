@@ -1,1 +1,4 @@
 .workspace
+
+# Large dataset kept locally, excluded from Git
+/2026W/AI 360/Assignment1/cifar10.npz

@@ -1,0 +1,23 @@
+# macOS metadata and Python caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments and tool caches
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Downloaded assignment data and generated export
+hw2.pdf
+hw2part1.zip
+hw2part2.zip
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.xml

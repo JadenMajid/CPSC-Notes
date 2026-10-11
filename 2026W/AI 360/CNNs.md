@@ -1,0 +1,5 @@
+- CNNs are translationally [[Equivariance|Equivariant]] but not [[Invariance|Invariant]]
+- Pooling layers
+	- Pooling layers are layers that can apply transformations to our activation tensors like the max of local areas to reduce our datasize
+	- Pooling makes our x,y,z tensors smaller in x and y
+	- can be implemented in a computation graph by
