@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "4fec512df3f66950",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "aee4131275124c94",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -338,8 +350,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "feff46b4b58880f0",
+  "active": "4fec512df3f66950",
   "lastOpenFiles": [
+    "2026W/CPSC 425/Assignments/a",
+    "2026W/CPSC 425/Assignments",
+    "2026W/CPSC 425",
+    "2026W/AI 360/A2/AI360_Assignment2_v2.ipynb",
+    "2026W/AI 360/A2",
+    "2026W/AI 360/A1/AI360_Assignment1.tex",
+    "2026W/AI 360/A1/AI360_Assignment1.pdf",
+    "2026W/AI 360/A1/AI360_Assignment1.ipynb",
+    "2026W/AI 360/A1",
     "2026W/CPSC425/Assignments/hw1/HW1.pdf",
     "2026W/AI 360/Layers.md",
     "2026W/AI 360/CNNs.md",
@@ -351,23 +372,14 @@
     "2026W/CPSC425/Assignments/hw1/box_gauss.png",
     "2026W/CPSC425/Assignments/hw1/dog_gauss_blur.jpg",
     "2026W/CPSC425/Assignments/hw1/dog.jpg",
-    "2026W/CPSC425/Assignments/hw1/assign1_written_spring_2026.pdf",
-    "2026W/CPSC425/Assignments/hw1/HW1.ipynb",
     "2026W/CPSC425/Assignments/hw1/4b_plane.bmp",
     "2026W/CPSC425/Assignments/hw1/4a_bird.bmp",
     "2026W/CPSC425/Assignments/hw1/3b_submarine.bmp",
     "2026W/CPSC425/Assignments/hw1/3a_fish.bmp",
     "2026W/CPSC425/Assignments/hw1/2b_marilyn.bmp",
     "2026W/CPSC425/Assignments/hw1/2a_einstein.bmp",
-    "2026W/CPSC425/Assignments/hw0/a0.ipynb",
-    "2026W/CPSC425/Assignments/hw1",
-    "2026W/CPSC425/Assignments/hw1.zip",
-    "2026W/CPSC425/Assignments/hw0",
     "2026W/CPSC425/Syllabus.md",
     "2026W/CPSC425/Filters.md",
-    "2026W/CPSC425/Assignments",
-    "2026W/CPSC425",
-    "2026W/CPSC 425/Assignments/hw0/a0.ipynb",
     "2026W/FREN 401/26-09-17.md",
     "2026W/CPSC 425/Filters.md",
     "2026W/CPSC 425/Syllabus.md",
